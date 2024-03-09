@@ -10,12 +10,8 @@
   --raspberry: #db2955ff;
 }
 
+/*---------------------------------------------------------------------------Base CSS Only */
 body {
   font-family: 'Roboto', sans-serif;
   background-color: var(--eerie-black);
-}
-
-.brand-font {
-  font-weight: 700;
-  color: var(--raspberry);
 }

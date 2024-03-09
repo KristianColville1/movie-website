@@ -1,0 +1,20 @@
+.brand-font {
+    color: var(--raspberry);
+    font-size: 2.4em;
+    font-weight: 700;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+    transition: all 0.3s ease-in-out; /* smoother animation for the change */
+}
+
+.brand-font:hover {
+    color:white;
+    cursor: pointer;
+}
+
+/*---------------------------------------------------------------------------Media Queries */
+@media (max-width: 768px) {
+    .brand-font {
+        width: 100%;
+        text-align: center;
+    }
+}
