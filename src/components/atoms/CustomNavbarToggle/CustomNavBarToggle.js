@@ -19,7 +19,7 @@ const CustomNavBarToggle = ({ onClick }) => {
 
     return (
         <svg
-            className={`ham hamRotate ham1 ${isActive ? "active" : ""}`}
+            className={`ham hamRotate ham1 ${isActive ? "active" : ""} d-block d-md-none`}
             viewBox="0 0 100 100"
             width="60"
             onClick={toggleActive}

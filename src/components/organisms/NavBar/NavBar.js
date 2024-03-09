@@ -13,10 +13,17 @@ const NavBar = () => {
     const toggleNavbar = () => setExpanded((prevExpanded) => !prevExpanded);
 
     return (
-        <Navbar collapseOnSelect expand="md" className="navbar-dark">
+        <Navbar
+            collapseOnSelect
+            expand="md"
+            className="navbar-dark"
+            expanded={expanded} // toggled using our custom toggler
+        >
             <Container>
                 <NavbarBrandLogo />
-                <CustomNavBarToggle onClick={ toggleNavbar} />
+                <CustomNavBarToggle
+                    onClick={() => toggleNavbar()} // toggles the menu open and close
+                />
                 <Navbar.Collapse id="navbar">
                     <Nav className="me-auto my-2 my-lg-0">
                         <Nav.Link href="#home" className="ms-md-5">
