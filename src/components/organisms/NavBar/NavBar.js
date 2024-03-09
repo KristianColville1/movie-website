@@ -2,13 +2,14 @@ import React, { useState } from "react";
 import Container from "react-bootstrap/Container";
 import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
-import NavbarBrandLogo from "../../atoms/NavBarBrandLogo/NavBarBrandLogo";
+import NavbarBrandLogo from "../../atoms/NavBarBrandLogo/NavbarBrandLogo";
 import CustomNavBarToggle from "../../atoms/CustomNavbarToggle/CustomNavBarToggle";
 import { LinkContainer } from "react-router-bootstrap";
 import NavItem from "../../molecules/NavItem/NavItem";
+
 /**
- *
- * Responsible for the navigation of the website, utilises the react router to manage the different pages
+ * NavBar manages the site's main navigation using React Router for SPA page transitions. It controls the collapsible menu's state for responsive design.
+ * @returns {JSX.Element} The primary navigation bar with integrated routing and collapsible toggler.
  */
 const NavBar = () => {
     const [expanded, setExpanded] = useState(false);
@@ -31,7 +32,12 @@ const NavBar = () => {
                 />
                 <Navbar.Collapse id="navbar">
                     <Nav className="me-auto my-2 my-lg-0">
-                        <NavItem to="/" label="Home" onClick={closeNavbar} className="ms-md-5"/>
+                        <NavItem
+                            to="/"
+                            label="Home"
+                            onClick={closeNavbar}
+                            className="ms-md-5"
+                        />
                         <NavItem
                             to="/movies"
                             label="Movies"
