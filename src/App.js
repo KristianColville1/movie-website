@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router } from "react-router-dom";
-import Navbar from "./components/organisms/Navbar/Navbar";
+import NavBar from "./components/organisms/NavBar/NavBar";
 
 /**
  * 
@@ -9,7 +9,7 @@ import Navbar from "./components/organisms/Navbar/Navbar";
 function App() {
     return (
         <Router>
-            <Navbar />
+            <NavBar />
         </Router>
     );
 }
