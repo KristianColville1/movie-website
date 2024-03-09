@@ -5,7 +5,7 @@ import Navbar from "react-bootstrap/Navbar";
 import NavbarBrandLogo from "../../atoms/NavBarBrandLogo/NavBarBrandLogo";
 import CustomNavBarToggle from "../../atoms/CustomNavbarToggle/CustomNavBarToggle";
 import { LinkContainer } from "react-router-bootstrap";
-import { Link } from "react-router-dom";
+import NavItem from "../../molecules/NavItem/NavItem";
 /**
  *
  * Responsible for the navigation of the website, utilises the react router to manage the different pages
@@ -13,7 +13,7 @@ import { Link } from "react-router-dom";
 const NavBar = () => {
     const [expanded, setExpanded] = useState(false);
     const toggleNavbar = () => setExpanded((prevExpanded) => !prevExpanded);
-
+    const closeNavbar = () => setExpanded(false); // Helper to close navbar
     return (
         <Navbar
             collapseOnSelect
@@ -31,25 +31,17 @@ const NavBar = () => {
                 />
                 <Navbar.Collapse id="navbar">
                     <Nav className="me-auto my-2 my-lg-0">
-                        <LinkContainer
-                            to="/"
-                            onClick={() => setExpanded(false)}
-                        >
-                            <Nav.Link className="ms-md-5">Home</Nav.Link>
-                        </LinkContainer>
-
-                        <LinkContainer
+                        <NavItem to="/" label="Home" onClick={closeNavbar} className="ms-md-5"/>
+                        <NavItem
                             to="/movies"
-                            onClick={() => setExpanded(false)}
-                        >
-                            <Nav.Link>Movies</Nav.Link>
-                        </LinkContainer>
-                        <LinkContainer
+                            label="Movies"
+                            onClick={closeNavbar}
+                        />
+                        <NavItem
                             to="/booking"
-                            onClick={() => setExpanded(false)}
-                        >
-                            <Nav.Link>Booking</Nav.Link>
-                        </LinkContainer>
+                            label="Booking"
+                            onClick={closeNavbar}
+                        />
                     </Nav>
                 </Navbar.Collapse>
             </Container>
