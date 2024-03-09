@@ -1,9 +1,17 @@
+import React from "react";
+import { BrowserRouter as Router } from "react-router-dom";
+import Navbar from "./components/organisms/Navbar/Navbar";
+
+/**
+ * 
+ * Responsible for handling the app and running the router for the different content on the site
+ */
 function App() {
-  return (
-    <div className="App">
-      <p className="brand-font">RENTFLIX</p>
-    </div>
-  );
+    return (
+        <Router>
+            <Navbar />
+        </Router>
+    );
 }
 
 export default App;
