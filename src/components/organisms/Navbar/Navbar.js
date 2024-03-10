@@ -36,18 +36,18 @@ const Navbar = () => {
                     <Nav className="me-auto my-2 my-lg-0">
                         <NavItem
                             to="/"
-                            label="Home"
+                            children="Home"
                             onClick={closeNavbar}
                             className="ms-md-5"
                         />
                         <NavItem
                             to="/movies"
-                            label="Movies"
+                            children="Movies"
                             onClick={closeNavbar}
                         />
                         <NavItem
                             to="/booking"
-                            label="Booking"
+                            children="Booking"
                             onClick={closeNavbar}
                         />
                     </Nav>

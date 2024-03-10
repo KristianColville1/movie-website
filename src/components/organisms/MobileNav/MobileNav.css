@@ -1,0 +1,16 @@
+/* Mobile navigation */
+.mobile-nav {
+    display: none;
+}
+
+@media (max-width: 768px) {
+    .mobile-nav {
+        display: flex;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        color: white;
+        z-index: 1000;
+    }
+}
