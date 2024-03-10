@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import NavBar from "./components/organisms/NavBar/NavBar";
+import Navbar from "./components/organisms/Navbar/Navbar";
 import Home from "./pages/Home";
 import Movies from "./pages/Movies";
 import Booking from "./pages/Booking";
@@ -11,7 +11,7 @@ import Booking from "./pages/Booking";
 function App() {
     return (
         <Router>
-            <NavBar />
+            <Navbar />
             <Routes>
                 <Route path="/" element={<Home />} exact />
                 <Route path="/movies" element={<Movies />} />

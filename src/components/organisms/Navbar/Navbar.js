@@ -1,22 +1,24 @@
 import React, { useState } from "react";
 import Container from "react-bootstrap/Container";
 import Nav from "react-bootstrap/Nav";
-import Navbar from "react-bootstrap/Navbar";
+import { Navbar as BootstrapNavbar } from "react-bootstrap";
 import NavbarBrandLogo from "../../atoms/NavBarBrandLogo/NavbarBrandLogo";
 import CustomNavBarToggle from "../../atoms/CustomNavbarToggle/CustomNavBarToggle";
 import { LinkContainer } from "react-router-bootstrap";
 import NavItem from "../../molecules/NavItem/NavItem";
+import Form from "react-bootstrap/Form";
+import Button from "../../atoms/Button/Button";
 
 /**
  * NavBar manages the site's main navigation using React Router for SPA page transitions. It controls the collapsible menu's state for responsive design.
  * @returns {JSX.Element} The primary navigation bar with integrated routing and collapsible toggler.
  */
-const NavBar = () => {
+const Navbar = () => {
     const [expanded, setExpanded] = useState(false);
     const toggleNavbar = () => setExpanded((prevExpanded) => !prevExpanded);
     const closeNavbar = () => setExpanded(false); // Helper to close navbar
     return (
-        <Navbar
+        <BootstrapNavbar
             collapseOnSelect
             expand="md"
             className="navbar-dark"
@@ -30,7 +32,7 @@ const NavBar = () => {
                 <CustomNavBarToggle
                     onClick={() => toggleNavbar()} // toggles the menu open and close
                 />
-                <Navbar.Collapse id="navbar">
+                <BootstrapNavbar.Collapse id="navbar">
                     <Nav className="me-auto my-2 my-lg-0">
                         <NavItem
                             to="/"
@@ -49,10 +51,19 @@ const NavBar = () => {
                             onClick={closeNavbar}
                         />
                     </Nav>
-                </Navbar.Collapse>
+                    <Form className="d-flex">
+                        <Form.Control
+                            type="search"
+                            placeholder="Search"
+                            className="me-2"
+                            aria-label="Search"
+                        />
+                        <Button />
+                    </Form>
+                </BootstrapNavbar.Collapse>
             </Container>
-        </Navbar>
+        </BootstrapNavbar>
     );
 };
 
-export default NavBar;
+export default Navbar;
