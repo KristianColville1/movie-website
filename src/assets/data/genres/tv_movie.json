@@ -1,0 +1,45 @@
+[
+    {
+        "id": 885303,
+        "title": "The Voyagers",
+        "overview": "Time jump to 1939 with teenager Max and his friends as they try to navigate Mussolini's Rome and find Max's missing brother.",
+        "release_date": "2022-11-21",
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/38N7GRJLu7IWyEdil96YobJ5LWM.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=wYjoMjwS12k",
+        "genres": [
+            "Fantasy",
+            "Adventure",
+            "TV Movie"
+        ]
+    },
+    {
+        "id": 928833,
+        "title": "Craig Before the Creek",
+        "overview": "Before he was Craig of the Creek, he was just Craig \u2014 a new kid in a new town. All Craig wants is to go back to his old friends at his old home. But when he learns that the nearby creek is hiding a lost treasure that could make his wish come true, Craig sets off on a journey to find it \u2014 navigating the perilous suburban wilderness, forging new friendships, all while being pursued by a fearsome band of pirates who are bent on destroying the Creek itself.",
+        "release_date": "2023-12-11",
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/4gDNAsYbCOP3z4xyM0IhbPl5Rq3.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=L4u5gOdfZpM",
+        "genres": [
+            "Animation",
+            "Family",
+            "TV Movie",
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+        ]
+    },
+    {
+        "id": 16237,
+        "title": "Teen Titans: Trouble in Tokyo",
+        "overview": "America's coolest heroes Teen Titans head to Japan as they spring into action when a new threat, the dichromatic ninja Saico-Tek, appears in their city. A chase across the city ensues, ending at Titans Tower. Saico-Tek is interrogated by Robin with the aid of a translation program, and reveals the identity of the one who sent him. The ninja then escapes his bonds and vanishes after destroying a fire sprinkler, and the Titans' only lead is to search for his mysterious master - the shadowy figure known as Brushogun.",
+        "release_date": "2006-09-15",
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/4wMlDE1HzkVyYeDKuY1oDOWQlN2.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=zPQei7nDZUE",
+        "genres": [
+            "Animation",
+            "Action",
+            "Science Fiction",
+            "TV Movie"
+        ]
+    }
+]
