@@ -10,6 +10,7 @@ import "./MobileNav.css";
 const MobileNav = () => {
     const [clickedIcon, setClickedIcon] = useState(null);
 
+    // encapsulate the icons and locations
     const icons = [
         { name: "bx-home", to: "/" },
         { name: "bx-search", to: "/search" },

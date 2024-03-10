@@ -14,14 +14,33 @@ import "./Navbar.css";
  * @returns {JSX.Element} The primary navigation bar with integrated routing and collapsible toggler.
  */
 const Navbar = () => {
+    // using useState for opening and closing collapse burger menu
     const [expanded, setExpanded] = useState(false);
     const toggleNavbar = () => setExpanded((prevExpanded) => !prevExpanded);
     const closeNavbar = () => setExpanded(false); // Helper to close navbar
+
+    // encapsulate the tabs
+    const tabs = [
+        {
+            to: "/",
+            handler: closeNavbar,
+            className: "ms-md-5",
+            text: "Home",
+        },
+        { to: "/movies", handler: closeNavbar, className: "", text: "Movies" },
+        {
+            to: "/booking",
+            handler: closeNavbar,
+            className: "",
+            text: "Booking",
+        },
+    ];
+
     return (
         <BootstrapNavbar
             collapseOnSelect
             expand="md"
-            className="navbar-dark"
+            className="navbar-dark top-nav"
             expanded={expanded} // toggled using our custom toggler
         >
             <Container>
@@ -34,19 +53,16 @@ const Navbar = () => {
                 />
                 <BootstrapNavbar.Collapse id="navbar">
                     <Nav className="me-auto my-2 my-lg-0">
-                        <NavItem
-                            to="/"
-                            onClick={closeNavbar}
-                            className="ms-md-5"
-                        >
-                            Home
-                        </NavItem>
-                        <NavItem to="/movies" onClick={closeNavbar}>
-                            Movies
-                        </NavItem>
-                        <NavItem to="/booking" onClick={closeNavbar}>
-                            Booking
-                        </NavItem>
+                        {
+                            // for each tab dynamically map the location, classes and text to a nav item
+                            tabs.map((tab) => (
+                                <NavItem
+                                    to={tab.to}
+                                    className={tab.className}
+                                    children={tab.text}
+                                />
+                            ))
+                        }
                     </Nav>
                     <Form className="d-flex">
                         <Form.Control
