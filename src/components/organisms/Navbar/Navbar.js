@@ -8,7 +8,7 @@ import { LinkContainer } from "react-router-bootstrap";
 import NavItem from "../../molecules/NavItem/NavItem";
 import Form from "react-bootstrap/Form";
 import Button from "../../atoms/Button/Button";
-
+import "./Navbar.css";
 /**
  * NavBar manages the site's main navigation using React Router for SPA page transitions. It controls the collapsible menu's state for responsive design.
  * @returns {JSX.Element} The primary navigation bar with integrated routing and collapsible toggler.
@@ -55,10 +55,13 @@ const Navbar = () => {
                         <Form.Control
                             type="search"
                             placeholder="Search"
-                            className="me-2"
+                            className="me-2 bg-transparent border-0 border-bottom text-white rounded-0 placeholder-white"
                             aria-label="Search"
                         />
-                        <Button />
+                        <Button
+                            className="bg-transparent border-0 p-0 m-0 d-flex justify-content-center align-items-center "
+                            iconClassName="bx bx-search"
+                        />
                     </Form>
                 </BootstrapNavbar.Collapse>
             </Container>

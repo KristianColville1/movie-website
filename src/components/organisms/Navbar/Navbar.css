@@ -1,0 +1,6 @@
+
+/* changes the color of the 'Search' */
+.placeholder-white::placeholder {
+    color: white;
+    opacity: 0.6; /* matches the tabs opacity */
+}
