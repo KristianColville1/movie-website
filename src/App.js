@@ -14,19 +14,23 @@ import Search from "./pages/Search";
 function App() {
     // define pages here and the element for routing
     const pages = [
-        { element: <Home />, to: "/" },
-        { element: <Search />, to: "/search" },
-        { element: <Movies />, to: "/movies" },
-        { element: <Booking />, to: "/booking" },
+        { element: <Home />, path: "/" },
+        { element: <Search />, path: "/search" },
+        { element: <Movies />, path: "/movies" },
+        { element: <Booking />, path: "/booking" },
     ];
     return (
-        <Router>
+        <Router >
             <Navbar />
             <Routes>
                 {
                     // for each page map the location and element to a route
-                    pages.map((page) => (
-                        <Route to={page.to} element={page.element} />
+                    pages.map((page, index) => (
+                        <Route
+                            key={index}
+                            path={page.path}
+                            element={page.element}
+                        />
                     ))
                 }
             </Routes>

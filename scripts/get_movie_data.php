@@ -1,4 +1,5 @@
 <?php
+include("env.php");
 $apiKey = $KRISTIANS_API_KEY;
 $baseUrl = "https://api.themoviedb.org/3";
 
@@ -13,7 +14,7 @@ foreach ($genresData['genres'] as $genre) {
 $moviesCount = 0;
 $customMoviesArray = [];
 $page = 1;
-$maxMovies = 1000;
+$maxMovies = 1250;
 
 while ($moviesCount < $maxMovies) {
     $moviesUrl = "{$baseUrl}/movie/popular?api_key={$apiKey}&language=en-US&page={$page}";
@@ -48,6 +49,8 @@ while ($moviesCount < $maxMovies) {
                 'title' => $movie['title'],
                 'overview' => $movie['overview'],
                 'release_date' => $movie['release_date'],
+                'backdrop_path' => $movie['backdrop_path'],
+                'rating' => $movie['vote_average'],
                 'poster_path' => 'https://image.tmdb.org/t/p/w500' . $movie['poster_path'],
                 'trailer' => "https://www.youtube.com/watch?v={$trailerKey}",
                 'genres' => $genres,
