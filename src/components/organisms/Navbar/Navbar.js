@@ -36,20 +36,17 @@ const Navbar = () => {
                     <Nav className="me-auto my-2 my-lg-0">
                         <NavItem
                             to="/"
-                            children="Home"
                             onClick={closeNavbar}
                             className="ms-md-5"
-                        />
-                        <NavItem
-                            to="/movies"
-                            children="Movies"
-                            onClick={closeNavbar}
-                        />
-                        <NavItem
-                            to="/booking"
-                            children="Booking"
-                            onClick={closeNavbar}
-                        />
+                        >
+                            Home
+                        </NavItem>
+                        <NavItem to="/movies" onClick={closeNavbar}>
+                            Movies
+                        </NavItem>
+                        <NavItem to="/booking" onClick={closeNavbar}>
+                            Booking
+                        </NavItem>
                     </Nav>
                     <Form className="d-flex">
                         <Form.Control
