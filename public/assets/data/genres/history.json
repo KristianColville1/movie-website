@@ -4,6 +4,8 @@
         "title": "Oppenheimer",
         "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
         "release_date": "2023-07-19",
+        "backdrop_path": "\/ycnO0cjsAROSGJKuMODgRtWsHQw.jpg",
+        "rating": 8.1,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=qiuSBWVdgLI",
         "genres": [
@@ -12,29 +14,18 @@
         ]
     },
     {
-        "id": 467244,
-        "title": "The Zone of Interest",
-        "overview": "The commandant of Auschwitz, Rudolf H\u00f6ss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
-        "release_date": "2023-12-15",
-        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/hUu9zyZmDd8VZegKi1iK1Vk0RYS.jpg",
-        "trailer": "https:\/\/www.youtube.com\/watch?v=GFNtVaAuVYY",
+        "id": 753342,
+        "title": "Napoleon",
+        "overview": "An epic that details the checkered rise and fall of French Emperor Napoleon Bonaparte and his relentless journey to power through the prism of his addictive, volatile relationship with his wife, Josephine.",
+        "release_date": "2023-11-22",
+        "backdrop_path": "\/33pMXav77ICRnceEBLhL8lXTywv.jpg",
+        "rating": 6.5,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/vcZWJGvB5xydWuUO1vaTLI82tGi.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=1DJYiG6wh0w",
         "genres": [
-            "History",
             "Drama",
-            "War"
-        ]
-    },
-    {
-        "id": 466420,
-        "title": "Killers of the Flower Moon",
-        "overview": "When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage people are murdered one by one\u2014until the FBI steps in to unravel the mystery.",
-        "release_date": "2023-10-18",
-        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
-        "trailer": "https:\/\/www.youtube.com\/watch?v=1oZUCkJEuvo",
-        "genres": [
-            "Crime",
             "History",
-            "Drama"
+            "War"
         ]
     },
     {
@@ -42,6 +33,8 @@
         "title": "The Inventor",
         "overview": "The insatiably curious and headstrong inventor Leonardo da Vinci leaves Italy to join the French court, where he can experiment freely, inventing flying contraptions, incredible machines, and study the human body. There, joined in his adventure by the audacious princess Marguerite, Leonardo will uncover the answer to the ultimate question \u2013 \"What is the meaning of it all?\"",
         "release_date": "2023-09-15",
+        "backdrop_path": "\/8b1oWeOQLSwQH6TK3T0b1oNl3Al.jpg",
+        "rating": 5.8,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/7Rpo5S3GjORu3yjah0o9eLcllSj.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=7k95b1s6XoE",
         "genres": [
@@ -56,6 +49,8 @@
         "title": "Society of the Snow",
         "overview": "On October 13, 1972, Uruguayan Air Force Flight 571, chartered to take a rugby team to Chile, crashes into a glacier in the heart of the Andes.",
         "release_date": "2023-12-15",
+        "backdrop_path": "\/vdpE5pjJVql5aD6pnzRqlFmgxXf.jpg",
+        "rating": 8.076,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/2e853FDVSIso600RqAMunPxiZjq.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=pDak4qLyF4Q",
         "genres": [
@@ -64,23 +59,12 @@
         ]
     },
     {
-        "id": 324786,
-        "title": "Hacksaw Ridge",
-        "overview": "WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to receive the Congressional Medal of Honor.",
-        "release_date": "2016-10-07",
-        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/wuz8TjCIWR2EVVMuEfBnQ1vuGS3.jpg",
-        "trailer": "https:\/\/www.youtube.com\/watch?v=s2-1hz1juBI",
-        "genres": [
-            "Drama",
-            "History",
-            "War"
-        ]
-    },
-    {
         "id": 760774,
         "title": "One Life",
         "overview": "British stockbroker Nicholas Winton visits Czechoslovakia in the 1930s and forms plans to assist in the rescue of Jewish children before the onset of World War II, in an operation that came to be known as the Kindertransport.",
         "release_date": "2023-09-09",
+        "backdrop_path": "\/7grv5ULlK9wMr2T1fkgr56HlbT.jpg",
+        "rating": 7.69,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/yvnIWt2j8VnDgwKJE2VMiFMa2Qo.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=6ethollg-PI",
         "genres": [
@@ -94,6 +78,8 @@
         "title": "Saving Private Ryan",
         "overview": "As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home.",
         "release_date": "1998-07-24",
+        "backdrop_path": "\/bdD39MpSVhKjxarTxLSfX6baoMP.jpg",
+        "rating": 8.213,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=y4SA9yUDgW8",
         "genres": [
@@ -107,6 +93,8 @@
         "title": "The Iron Claw",
         "overview": "The true story of the inseparable Von Erich brothers, who made history in the intensely competitive world of professional wrestling in the early 1980s. Through tragedy and triumph, under the shadow of their domineering father and coach, the brothers seek larger-than-life immortality on the biggest stage in sports.",
         "release_date": "2023-12-21",
+        "backdrop_path": "\/4l65BWqJBl7hBwdIwp2nQdwsOuw.jpg",
+        "rating": 7.527,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/nfs7DCYhgrEIgxKYbITHTzKsggf.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=8KVsaoveTbw",
         "genres": [
@@ -119,6 +107,51 @@
         "title": "The Warrior Princess",
         "overview": "Princess Khotulun is the daughter of Haidu Khan of the Ugudei dynasty. The film tells the story of Princess Khotulun, the son of Kublai Khan, known in Western and Eastern history as a wrestling princess, and her struggle to reclaim her Golden Sutra.",
         "release_date": "2021-12-03",
+        "backdrop_path": "\/g7Fr6Pd1bR9G5Y9E47h7pmYTcX4.jpg",
+        "rating": 7.2,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/gmfPD15AR0FXyNTQE19TbuJNrwu.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=JkEzB6RzGyU",
+        "genres": [
+            "History",
+            "Action",
+            "Drama"
+        ]
+    },
+    {
+        "id": 862557,
+        "title": "The Hill",
+        "overview": "The story of Rickey Hill, who overcomes his physical disability and repairs his relationship with his father in a quest to become a major league baseball (MLB) player.",
+        "release_date": "2023-08-18",
+        "backdrop_path": "\/puUUsAri2UchyJgsbkpO3HZfKiw.jpg",
+        "rating": 7.701,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/gKh28PVUqt1vY2oAdFlauXkDacW.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=wXj7IRAAGb4",
+        "genres": [
+            "History",
+            "Drama"
+        ]
+    },
+    {
+        "id": 850165,
+        "title": "The Iron Claw",
+        "overview": "The true story of the inseparable Von Erich brothers, who made history in the intensely competitive world of professional wrestling in the early 1980s. Through tragedy and triumph, under the shadow of their domineering father and coach, the brothers seek larger-than-life immortality on the biggest stage in sports.",
+        "release_date": "2023-12-21",
+        "backdrop_path": "\/4l65BWqJBl7hBwdIwp2nQdwsOuw.jpg",
+        "rating": 7.5,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/nfs7DCYhgrEIgxKYbITHTzKsggf.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=8KVsaoveTbw",
+        "genres": [
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 960481,
+        "title": "The Warrior Princess",
+        "overview": "Princess Khotulun is the daughter of Haidu Khan of the Ugudei dynasty. The film tells the story of Princess Khotulun, the son of Kublai Khan, known in Western and Eastern history as a wrestling princess, and her struggle to reclaim her Golden Sutra.",
+        "release_date": "2021-12-03",
+        "backdrop_path": "\/g7Fr6Pd1bR9G5Y9E47h7pmYTcX4.jpg",
+        "rating": 7.2,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/gmfPD15AR0FXyNTQE19TbuJNrwu.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=JkEzB6RzGyU",
         "genres": [
@@ -132,6 +165,8 @@
         "title": "Saving Private Ryan",
         "overview": "As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home.",
         "release_date": "1998-07-24",
+        "backdrop_path": "\/bdD39MpSVhKjxarTxLSfX6baoMP.jpg",
+        "rating": 8.213,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=y4SA9yUDgW8",
         "genres": [
@@ -145,6 +180,8 @@
         "title": "Hidden Figures",
         "overview": "The untold story of Katherine G. Johnson, Dorothy Vaughan and Mary Jackson \u2013 brilliant African-American women working at NASA and serving as the brains behind one of the greatest operations in history \u2013 the launch of astronaut John Glenn into orbit. The visionary trio crossed all gender and race lines to inspire generations to dream big.",
         "release_date": "2016-12-10",
+        "backdrop_path": "\/rfkIeCaIHhN3K5wjJJqKmfUjYp8.jpg",
+        "rating": 8.056,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/9lfz2W2uGjyow3am00rsPJ8iOyq.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=5wfrDhgUMGI",
         "genres": [
@@ -157,6 +194,8 @@
         "title": "The Imitation Game",
         "overview": "Based on the real life story of legendary cryptanalyst Alan Turing, the film portrays the nail-biting race against time by Turing and his brilliant team of code-breakers at Britain's top-secret Government Code and Cypher School at Bletchley Park, during the darkest days of World War II.",
         "release_date": "2014-11-14",
+        "backdrop_path": "\/jFp5aAlGQ1H3gwdORL2urr8dnoN.jpg",
+        "rating": 8.006,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/zSqJ1qFq8NXFfi7JeIYMlzyR0dx.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=j2jRs4EAvWM",
         "genres": [
@@ -171,6 +210,8 @@
         "title": "Troy",
         "overview": "In year 1250 B.C. during the late Bronze age, two emerging nations begin to clash. Paris, the Trojan prince, convinces Helen, Queen of Sparta, to leave her husband Menelaus, and sail with him back to Troy. After Menelaus finds out that his wife was taken by the Trojans, he asks his brother Agamemnon to help him get her back. Agamemnon sees this as an opportunity for power. They set off with 1,000 ships holding 50,000 Greeks to Troy.",
         "release_date": "2004-05-13",
+        "backdrop_path": "\/8YURPHUqD2ODIffxPf8sG5l5UC7.jpg",
+        "rating": 7.2,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/a07wLy4ONfpsjnBqMwhlWTJTcm.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=6FG3BfPuwBA",
         "genres": [
@@ -185,6 +226,8 @@
         "title": "Hidden Figures",
         "overview": "The untold story of Katherine G. Johnson, Dorothy Vaughan and Mary Jackson \u2013 brilliant African-American women working at NASA and serving as the brains behind one of the greatest operations in history \u2013 the launch of astronaut John Glenn into orbit. The visionary trio crossed all gender and race lines to inspire generations to dream big.",
         "release_date": "2016-12-10",
+        "backdrop_path": "\/rfkIeCaIHhN3K5wjJJqKmfUjYp8.jpg",
+        "rating": 8.056,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/9lfz2W2uGjyow3am00rsPJ8iOyq.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=5wfrDhgUMGI",
         "genres": [
@@ -197,6 +240,8 @@
         "title": "Schindler's List",
         "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
         "release_date": "1993-12-15",
+        "backdrop_path": "\/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+        "rating": 8.565,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=mxphAlJID9U",
         "genres": [
@@ -210,6 +255,8 @@
         "title": "Schindler's List",
         "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
         "release_date": "1993-12-15",
+        "backdrop_path": "\/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+        "rating": 8.565,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=mxphAlJID9U",
         "genres": [
@@ -223,6 +270,8 @@
         "title": "12 Years a Slave",
         "overview": "In the pre-Civil War United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery. Facing cruelty as well as unexpected kindnesses Solomon struggles not only to stay alive, but to retain his dignity. In the twelfth year of his unforgettable odyssey, Solomon\u2019s chance meeting with a Canadian abolitionist will forever alter his life.",
         "release_date": "2013-10-18",
+        "backdrop_path": "\/4Bb1kMIfrT2tYRZ9M6Jhqy6gkeF.jpg",
+        "rating": 7.944,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/xdANQijuNrJaw1HA61rDccME4Tm.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=z02Ie8wKKRg",
         "genres": [
@@ -235,6 +284,8 @@
         "title": "The Survivor",
         "overview": "Harry Haft is a boxer who fought fellow prisoners in the concentration camps to survive. Haunted by the memories and his guilt, he attempts to use high-profile fights against boxing legends like Rocky Marciano as a way to find his first love again.",
         "release_date": "2022-04-07",
+        "backdrop_path": "\/2X7BAu7x2oMB3cTMF38uJhGSqoB.jpg",
+        "rating": 7.071,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/oZWJ20tGWZ5xO9CrTCVavmDRy7J.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=2pfB1esUR5c",
         "genres": [
@@ -248,6 +299,8 @@
         "title": "Ip Man: The Awakening",
         "overview": "When a young Master Ip stops a kidnapping, he ignites a turf war with a ruthless human-trafficking ring. In retaliation, the gang kidnaps one of Ip Man's close friends, forcing him to face the group's brutal boxing champion head-on.",
         "release_date": "2021-09-16",
+        "backdrop_path": "\/Xfn9eDOaZKSz5W3PRoJI928I9c.jpg",
+        "rating": 6.833,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/A7vhdyGrpPMKXsuFBZzxmave94F.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=yVCiktvgHb4",
         "genres": [
@@ -262,6 +315,8 @@
         "title": "Caligula",
         "overview": "The perversion behind imperial Rome, the epic story of Rome's mad Emporer. All the details of his cruel, bizarre reign are revealed right here: His unholy sexual passion for his sister, his marriage to Rome's most infamous prostitute, his fiendishly inventive means of disposing those who would oppose him, and more.",
         "release_date": "1979-08-14",
+        "backdrop_path": "\/6UDep1cxHQqrNFhSW4ZNQLW3Alr.jpg",
+        "rating": 6.021,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/4N4l873TVreuaR4FVpvaL2gfQ0N.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=eKsuOWcT12c",
         "genres": [
@@ -274,6 +329,8 @@
         "title": "Black Hawk Down",
         "overview": "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
         "release_date": "2001-12-28",
+        "backdrop_path": "\/7jaNOECZG8uS1tlq69HsY5xY8P9.jpg",
+        "rating": 7.4,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/imGygQbmuc7gC1JZiAVhJLsUWXq.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=2GfBkC3qs78",
         "genres": [
@@ -287,6 +344,8 @@
         "title": "Apocalypto",
         "overview": "Set in the Mayan civilization, when a man's idyllic presence is brutally disrupted by a violent invading force, he is taken on a perilous journey to a world ruled by fear and oppression where a harrowing end awaits him. Through a twist of fate and spurred by the power of his love for his woman and his family he will make a desperate break to return home and to ultimately save his way of life.",
         "release_date": "2006-12-07",
+        "backdrop_path": "\/hMl124Go2Ed9Qu8VsPLiA3nBSMk.jpg",
+        "rating": 7.571,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/xVTSNeqEymd0iZKByf68A5nLIGM.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=ngWBddVNVZs",
         "genres": [
@@ -300,6 +359,8 @@
         "title": "Spartacus",
         "overview": "The rebellious Thracian Spartacus, born and raised a slave, is sold to Gladiator trainer Batiatus. After weeks of being trained to kill for the arena, Spartacus turns on his owners and leads the other slaves in rebellion. As the rebels move from town to town, their numbers swell as escaped slaves join their ranks. Under the leadership of Spartacus, they make their way to southern Italy, where they will cross the sea and return to their homes.",
         "release_date": "1960-10-13",
+        "backdrop_path": "\/9caD0fGCrp96JTFFeGyI0CGNj7.jpg",
+        "rating": 7.547,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/xLPpQlFWE12cbqNJQ5Vf4eJU8ij.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=HcIMY1Ah3aw",
         "genres": [
@@ -314,6 +375,8 @@
         "title": "Ford v Ferrari",
         "overview": "American car designer Carroll Shelby and the British-born driver Ken Miles work together to battle corporate interference, the laws of physics, and their own personal demons to build a revolutionary race car for Ford Motor Company and take on the dominating race cars of Enzo Ferrari at the 24 Hours of Le Mans in France in 1966.",
         "release_date": "2019-11-13",
+        "backdrop_path": "\/ydmZIafp66mHABs3QJDwvjRgZfE.jpg",
+        "rating": 8,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=I3h9Z89U9ZA",
         "genres": [
@@ -327,6 +390,8 @@
         "title": "The Ten Commandments",
         "overview": "Escaping death, a Hebrew infant is raised in a royal household to become a prince. Upon discovery of his true heritage, Moses embarks on a personal quest to reclaim his destiny as the leader and liberator of the Hebrew people.",
         "release_date": "1956-10-05",
+        "backdrop_path": "\/rI1u4JgtnAZC99wXX4gwro4yaxe.jpg",
+        "rating": 7.757,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/2rBUaC6ngeFmYXjL4KA3eLjt5wA.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=KBzbyIPWVT4",
         "genres": [
@@ -339,6 +404,8 @@
         "title": "Lamborghini: The Man Behind the Legend",
         "overview": "Follow the launch of Lamborghini\u2019s career as a manufacturer of tractors, a creator of military vehicles during World War II, and the designer of Lamborghini cars, which he launched in 1963 as the high-end sports car company Automobili Lamborghini.",
         "release_date": "2022-11-18",
+        "backdrop_path": "\/lUPz9zW0uf0bHfYsRRID8RtBHEU.jpg",
+        "rating": 6.457,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/RKgnYLhCNGCUkrhiCRrs40rEHe.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=WjTICfrC25s",
         "genres": [
@@ -351,6 +418,8 @@
         "title": "The Woman King",
         "overview": "The story of the Agojie, the all-female unit of warriors who protected the African Kingdom of Dahomey in the 1800s with skills and a fierceness unlike anything the world has ever seen, and General Nanisca as she trains the next generation of recruits and readies them for battle against an enemy determined to destroy their way of life.",
         "release_date": "2022-09-16",
+        "backdrop_path": "\/xTsERrOCW15OIYl5aPX7Jbj38wu.jpg",
+        "rating": 7.693,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/438QXt1E3WJWb3PqNniK0tAE5c1.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=3RDaPV_rJ1Y",
         "genres": [
@@ -360,10 +429,58 @@
         ]
     },
     {
+        "id": 6844,
+        "title": "The Ten Commandments",
+        "overview": "Escaping death, a Hebrew infant is raised in a royal household to become a prince. Upon discovery of his true heritage, Moses embarks on a personal quest to reclaim his destiny as the leader and liberator of the Hebrew people.",
+        "release_date": "1956-10-05",
+        "backdrop_path": "\/rI1u4JgtnAZC99wXX4gwro4yaxe.jpg",
+        "rating": 7.757,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/2rBUaC6ngeFmYXjL4KA3eLjt5wA.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=KBzbyIPWVT4",
+        "genres": [
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 967,
+        "title": "Spartacus",
+        "overview": "The rebellious Thracian Spartacus, born and raised a slave, is sold to Gladiator trainer Batiatus. After weeks of being trained to kill for the arena, Spartacus turns on his owners and leads the other slaves in rebellion. As the rebels move from town to town, their numbers swell as escaped slaves join their ranks. Under the leadership of Spartacus, they make their way to southern Italy, where they will cross the sea and return to their homes.",
+        "release_date": "1960-10-13",
+        "backdrop_path": "\/9caD0fGCrp96JTFFeGyI0CGNj7.jpg",
+        "rating": 7.547,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/xLPpQlFWE12cbqNJQ5Vf4eJU8ij.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=HcIMY1Ah3aw",
+        "genres": [
+            "History",
+            "War",
+            "Drama",
+            "Adventure"
+        ]
+    },
+    {
+        "id": 300671,
+        "title": "13 Hours: The Secret Soldiers of Benghazi",
+        "overview": "An American Ambassador is killed during an attack at a U.S. compound in Libya as a security team struggles to make sense out of the chaos.",
+        "release_date": "2016-01-14",
+        "backdrop_path": "\/ayDMYGUNVvXS76wQgFwTiUIDNb5.jpg",
+        "rating": 7.276,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/nAnfWdvUXQemns5BR0Azi4z9o1t.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=Wpsqh73gB78",
+        "genres": [
+            "War",
+            "Action",
+            "History",
+            "Drama"
+        ]
+    },
+    {
         "id": 14574,
         "title": "The Boy in the Striped Pyjamas",
         "overview": "When his family moves from their home in Berlin to a strange new house in Poland, young Bruno befriends Shmuel, a boy who lives on the other side of the fence where everyone seems to be wearing striped pajamas. Unaware of Shmuel's fate as a Jewish prisoner or the role his own Nazi father plays in his imprisonment, Bruno embarks on a dangerous journey inside the camp's walls.",
         "release_date": "2008-05-07",
+        "backdrop_path": "\/7fJAYM0rhzpEhCK6wxbQ412EoYW.jpg",
+        "rating": 7.844,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/sLwYSEVVV3r047cjrpRAbGgNsfL.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=uwysOfnX2Qg",
         "genres": [
@@ -373,23 +490,12 @@
         ]
     },
     {
-        "id": 606870,
-        "title": "The Survivor",
-        "overview": "Harry Haft is a boxer who fought fellow prisoners in the concentration camps to survive. Haunted by the memories and his guilt, he attempts to use high-profile fights against boxing legends like Rocky Marciano as a way to find his first love again.",
-        "release_date": "2022-04-07",
-        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/oZWJ20tGWZ5xO9CrTCVavmDRy7J.jpg",
-        "trailer": "https:\/\/www.youtube.com\/watch?v=2pfB1esUR5c",
-        "genres": [
-            "History",
-            "Action",
-            "Drama"
-        ]
-    },
-    {
         "id": 457232,
         "title": "Lamborghini: The Man Behind the Legend",
         "overview": "Follow the launch of Lamborghini\u2019s career as a manufacturer of tractors, a creator of military vehicles during World War II, and the designer of Lamborghini cars, which he launched in 1963 as the high-end sports car company Automobili Lamborghini.",
         "release_date": "2022-11-18",
+        "backdrop_path": "\/lUPz9zW0uf0bHfYsRRID8RtBHEU.jpg",
+        "rating": 6.457,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/RKgnYLhCNGCUkrhiCRrs40rEHe.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=WjTICfrC25s",
         "genres": [
@@ -402,6 +508,8 @@
         "title": "Big George Foreman",
         "overview": "Fueled by an impoverished childhood, George Foreman channeled his anger into becoming an Olympic Gold medalist and World Heavyweight Champion, followed by a near-death experience that took him from the boxing ring to the pulpit. But when he sees his community struggling spiritually and financially, Foreman returns to the ring and makes history by reclaiming his title, becoming the oldest and most improbable World Heavyweight Boxing Champion ever.",
         "release_date": "2023-04-27",
+        "backdrop_path": "\/xLsMxgMjko1rWbIUbvf6UBjToBE.jpg",
+        "rating": 7.638,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/fdVd6thTstt0MQ4dUC1IXiOXpxv.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=urKDu40iaXk",
         "genres": [
@@ -410,17 +518,170 @@
         ]
     },
     {
-        "id": 300671,
-        "title": "13 Hours: The Secret Soldiers of Benghazi",
-        "overview": "An American Ambassador is killed during an attack at a U.S. compound in Libya as a security team struggles to make sense out of the chaos.",
-        "release_date": "2016-01-14",
-        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/nAnfWdvUXQemns5BR0Azi4z9o1t.jpg",
-        "trailer": "https:\/\/www.youtube.com\/watch?v=Wpsqh73gB78",
+        "id": 2024,
+        "title": "The Patriot",
+        "overview": "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
+        "release_date": "2000-06-28",
+        "backdrop_path": "\/c9xSFZQtC4c16Vn5CMOaB1pGk9J.jpg",
+        "rating": 7.176,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/fWZd815QxUCUcrWQZwUkAp9ljG.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=ZSssYtYYKzU",
+        "genres": [
+            "Drama",
+            "History",
+            "War",
+            "Action"
+        ]
+    },
+    {
+        "id": 510318,
+        "title": "Bu\u00f1uel in the Labyrinth of the Turtles",
+        "overview": "Paris, 1930. Luis Bu\u00f1uel is penniless after the scandal surrounding the release of his last movie. Sculptor Ram\u00f3n Ac\u00edn, a good friend, buys a lottery ticket and promises Bu\u00f1uel that he will pay for his next movie if he wins the prize.",
+        "release_date": "2019-04-18",
+        "backdrop_path": "\/7gmhUyLDagzOtbJizNFebHQSoQT.jpg",
+        "rating": 7,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/oHYRYgEcpjD6tXRxMr5xisjJCU4.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=__DLy5M3cas",
+        "genres": [
+            "Animation",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 492008,
+        "title": "The Swordsman",
+        "overview": "After being blinded in a coup against the king, Joseon's greatest swordsman goes into hiding, far removed from his city's anguish. But when traffickers kidnap his daughter, he has no choice but to unsheathe his sword once more.",
+        "release_date": "2020-09-23",
+        "backdrop_path": "\/5lmhjGvg5ddXbTXzeNJfU4qpIeh.jpg",
+        "rating": 7.465,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/r08U3dwiOeStXcjYmfnRyumgKyq.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=ACvvexZ22Z8",
+        "genres": [
+            "Action",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 9912,
+        "title": "The World's Fastest Indian",
+        "overview": "The life story of New Zealander Burt Munro, who spent years building a 1920 Indian motorcycle\u2014a bike which helped him set the land-speed world record at Utah's Bonneville Salt Flats in 1967.",
+        "release_date": "2005-10-12",
+        "backdrop_path": "\/k63u1PAW8aL7hy1Rwtn0d0oy4rn.jpg",
+        "rating": 7.619,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/i7obsEYXjo725H9vneFqxxUiZw7.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=02Yy1vihIKs",
+        "genres": [
+            "Drama",
+            "Adventure",
+            "History"
+        ]
+    },
+    {
+        "id": 676,
+        "title": "Pearl Harbor",
+        "overview": "The lifelong friendship between Rafe McCawley and Danny Walker is put to the ultimate test when the two ace fighter pilots become entangled in a love triangle with beautiful Naval nurse Evelyn Johnson. But the rivalry between the friends-turned-foes is immediately put on hold when they find themselves at the center of Japan's devastating attack on Pearl Harbor on Dec. 7, 1941.",
+        "release_date": "2001-05-21",
+        "backdrop_path": "\/zv1xOEQzebKyku349qDZ085FZlO.jpg",
+        "rating": 6.939,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/y8A0Cvp8WQmZ3bjbnsL53lY0dsC.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=zf3KAiimeUg",
         "genres": [
             "War",
+            "History",
+            "Romance",
+            "Drama",
+            "Action"
+        ]
+    },
+    {
+        "id": 796185,
+        "title": "The Three Musketeers: D'Artagnan",
+        "overview": "D'Artagnan, a spirited young Gascon, is left for dead after trying to save a noblewoman from being kidnapped. Once in Paris, he tries by all means to find his attackers, unaware that his quest will lead him to the very heart of a war where the future of France is at stake. Aided by King's Musketeers Athos, Porthos and Aramis, he faces the machinations of villainous Cardinal Richelieu and Milady de Winter, while falling in love with Constance, the Queen's confidante.",
+        "release_date": "2023-04-05",
+        "backdrop_path": "\/byrnepNxBqUUdrlKPJvA846Lj9V.jpg",
+        "rating": 7.057,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/hfExJPcbBtDeFDEb7I1By72Drlr.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=IAizCzFkHI0",
+        "genres": [
+            "Adventure",
             "Action",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 878361,
+        "title": "Big George Foreman",
+        "overview": "Fueled by an impoverished childhood, George Foreman channeled his anger into becoming an Olympic Gold medalist and World Heavyweight Champion, followed by a near-death experience that took him from the boxing ring to the pulpit. But when he sees his community struggling spiritually and financially, Foreman returns to the ring and makes history by reclaiming his title, becoming the oldest and most improbable World Heavyweight Boxing Champion ever.",
+        "release_date": "2023-04-27",
+        "backdrop_path": "\/xLsMxgMjko1rWbIUbvf6UBjToBE.jpg",
+        "rating": 7.638,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/fdVd6thTstt0MQ4dUC1IXiOXpxv.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=urKDu40iaXk",
+        "genres": [
             "History",
             "Drama"
+        ]
+    },
+    {
+        "id": 277216,
+        "title": "Straight Outta Compton",
+        "overview": "In 1987, five young men, using brutally honest rhymes and hardcore beats, put their frustration and anger about life in the most dangerous place in America into the most powerful weapon they had: their music.  Taking us back to where it all began, Straight Outta Compton tells the true story of how these cultural rebels\u2014armed only with their lyrics, swagger, bravado and raw talent\u2014stood up to the authorities that meant to keep them down and formed the world\u2019s most dangerous group, N.W.A.  And as they spoke the truth that no one had before and exposed life in the hood, their voice ignited a social revolution that is still reverberating today.",
+        "release_date": "2015-08-11",
+        "backdrop_path": "\/cpqWIjNrAzLIBUHhRWB79LJ39lr.jpg",
+        "rating": 7.788,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/9B63hMwU6iICtNDTISCaZQ5US7R.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=-F5WcFPDzko",
+        "genres": [
+            "Drama",
+            "Music",
+            "History"
+        ]
+    },
+    {
+        "id": 855,
+        "title": "Black Hawk Down",
+        "overview": "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
+        "release_date": "2001-12-28",
+        "backdrop_path": "\/7jaNOECZG8uS1tlq69HsY5xY8P9.jpg",
+        "rating": 7.4,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/imGygQbmuc7gC1JZiAVhJLsUWXq.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=2GfBkC3qs78",
+        "genres": [
+            "Action",
+            "War",
+            "History"
+        ]
+    },
+    {
+        "id": 878361,
+        "title": "Big George Foreman",
+        "overview": "Fueled by an impoverished childhood, George Foreman channeled his anger into becoming an Olympic Gold medalist and World Heavyweight Champion, followed by a near-death experience that took him from the boxing ring to the pulpit. But when he sees his community struggling spiritually and financially, Foreman returns to the ring and makes history by reclaiming his title, becoming the oldest and most improbable World Heavyweight Boxing Champion ever.",
+        "release_date": "2023-04-27",
+        "backdrop_path": "\/xLsMxgMjko1rWbIUbvf6UBjToBE.jpg",
+        "rating": 7.638,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/fdVd6thTstt0MQ4dUC1IXiOXpxv.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=urKDu40iaXk",
+        "genres": [
+            "History",
+            "Drama"
+        ]
+    },
+    {
+        "id": 855,
+        "title": "Black Hawk Down",
+        "overview": "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
+        "release_date": "2001-12-28",
+        "backdrop_path": "\/7jaNOECZG8uS1tlq69HsY5xY8P9.jpg",
+        "rating": 7.4,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/imGygQbmuc7gC1JZiAVhJLsUWXq.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=2GfBkC3qs78",
+        "genres": [
+            "Action",
+            "War",
+            "History"
         ]
     }
 ]

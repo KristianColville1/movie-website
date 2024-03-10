@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1214523,
+        "title": "Frida",
+        "overview": "An intimately raw and magical journey through the life, mind, and heart of iconic artist Frida Kahlo. Told through her own words for the very first time \u2014 drawn from her diary, revealing letters, essays, and print interviews \u2014 and brought vividly to life by lyrical animation inspired by her unforgettable artwork.",
+        "release_date": "2024-03-08",
+        "backdrop_path": "\/pF0LGTwMbteQV6PFL4AquYsUAZD.jpg",
+        "rating": 0,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/2ArWjhsbLW0K4ThJKS9L7ioQmFB.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=dlrqxAgdY58",
+        "genres": [
+            "Documentary"
+        ]
+    },
+    {
+        "id": 899082,
+        "title": "Harry Potter 20th Anniversary: Return to Hogwarts",
+        "overview": "An enchanting making-of story told through all-new in-depth interviews and cast conversations, inviting fans on a magical first-person journey through one of the most beloved film franchises of all time.",
+        "release_date": "2022-01-01",
+        "backdrop_path": "\/8rft8A9nH43IReybFtYt21ezfMK.jpg",
+        "rating": 7.301,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/jntLBq0MLR3hrwKaTQswxACRPMs.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=fFGS4zZWGoA",
+        "genres": [
+            "Documentary"
+        ]
+    }
+]

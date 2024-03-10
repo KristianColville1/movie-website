@@ -4,6 +4,8 @@
         "title": "Land of Bad",
         "overview": "When a Delta Force special ops mission goes terribly wrong, Air Force drone pilot Reaper has 48 hours to remedy what has devolved into a wild rescue operation. With no weapons and no communication other than the drone above, the ground mission suddenly becomes a full-scale battle when the team is discovered by the enemy.",
         "release_date": "2024-01-25",
+        "backdrop_path": "\/oBIQDKcqNxKckjugtmzpIIOgoc4.jpg",
+        "rating": 6.934,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/h27WHO2czaY5twDmV3Wfx5IdqoE.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=u3QMjSoi2dA",
         "genres": [
@@ -13,15 +15,17 @@
         ]
     },
     {
-        "id": 467244,
-        "title": "The Zone of Interest",
-        "overview": "The commandant of Auschwitz, Rudolf H\u00f6ss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
-        "release_date": "2023-12-15",
-        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/hUu9zyZmDd8VZegKi1iK1Vk0RYS.jpg",
-        "trailer": "https:\/\/www.youtube.com\/watch?v=GFNtVaAuVYY",
+        "id": 753342,
+        "title": "Napoleon",
+        "overview": "An epic that details the checkered rise and fall of French Emperor Napoleon Bonaparte and his relentless journey to power through the prism of his addictive, volatile relationship with his wife, Josephine.",
+        "release_date": "2023-11-22",
+        "backdrop_path": "\/33pMXav77ICRnceEBLhL8lXTywv.jpg",
+        "rating": 6.5,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/vcZWJGvB5xydWuUO1vaTLI82tGi.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=1DJYiG6wh0w",
         "genres": [
-            "History",
             "Drama",
+            "History",
             "War"
         ]
     },
@@ -30,6 +34,8 @@
         "title": "Patriots Time",
         "overview": "The brothers Sultan and Bekzat Ibrayev are serving faithfully in the Armed Forces of Kazakhstan, and at the same time they are in family disagreement. Sultan is a valiant intelligence officer and Bekzat is a talented fighter pilot. While an international terrorist organization prepares a carefully planned attack on the country's strategically important facilities, the brothers have to face not only a mortal threat, but also face a family confrontation related to their dead father. Circumstances force them to unite in order to save human lives, and the brothers eventually understand that their homeland and family are the most valuable thing they have.",
         "release_date": "2022-04-28",
+        "backdrop_path": "\/xCt3Ha6hhHep5pwiW2FSenC59Gn.jpg",
+        "rating": 7.829,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/yrafAmPQgr5RWEe67BrbHu7jiB.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=7EEcz-nSQFI",
         "genres": [
@@ -38,23 +44,12 @@
         ]
     },
     {
-        "id": 324786,
-        "title": "Hacksaw Ridge",
-        "overview": "WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to receive the Congressional Medal of Honor.",
-        "release_date": "2016-10-07",
-        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/wuz8TjCIWR2EVVMuEfBnQ1vuGS3.jpg",
-        "trailer": "https:\/\/www.youtube.com\/watch?v=s2-1hz1juBI",
-        "genres": [
-            "Drama",
-            "History",
-            "War"
-        ]
-    },
-    {
         "id": 517093,
         "title": "Balkan Line",
         "overview": "After the NATO bombing of Yugoslavia in 1999, the Yugoslav army pulls out of Kosovo region, leaving Serbian people at the mercy of the Albanian UCK. A small band of soldiers must take over the Slatina airport, and hold it until the Russian peacekeepers arrive.",
         "release_date": "2019-03-21",
+        "backdrop_path": "\/ihZtk1FxpfqkdMoxYYjLVj2FXtV.jpg",
+        "rating": 7.508,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/okiB4NUriKKbGjAtVSzveicPTtu.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=IcKtzxH4TQA",
         "genres": [
@@ -68,6 +63,8 @@
         "title": "One Life",
         "overview": "British stockbroker Nicholas Winton visits Czechoslovakia in the 1930s and forms plans to assist in the rescue of Jewish children before the onset of World War II, in an operation that came to be known as the Kindertransport.",
         "release_date": "2023-09-09",
+        "backdrop_path": "\/7grv5ULlK9wMr2T1fkgr56HlbT.jpg",
+        "rating": 7.69,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/yvnIWt2j8VnDgwKJE2VMiFMa2Qo.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=6ethollg-PI",
         "genres": [
@@ -81,6 +78,8 @@
         "title": "Saving Private Ryan",
         "overview": "As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home.",
         "release_date": "1998-07-24",
+        "backdrop_path": "\/bdD39MpSVhKjxarTxLSfX6baoMP.jpg",
+        "rating": 8.213,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=y4SA9yUDgW8",
         "genres": [
@@ -94,6 +93,8 @@
         "title": "Guy Ritchie's The Covenant",
         "overview": "During the war in Afghanistan, a local interpreter risks his own life to carry an injured sergeant across miles of grueling terrain.",
         "release_date": "2023-04-19",
+        "backdrop_path": "\/eTvN54pd83TrSEOz6wbsXEJktCV.jpg",
+        "rating": 7.793,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/kVG8zFFYrpyYLoHChuEeOGAd6Ru.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=02PPMPArNEQ",
         "genres": [
@@ -103,48 +104,12 @@
         ]
     },
     {
-        "id": 877013,
-        "title": "Hell Hath No Fury",
-        "overview": "Branded a traitor by her countrymen, French national Marie DuJardin is rescued by American soldiers on one condition: to survive, she must lead them to a cache of gold - before the Nazis return to claim it for themselves.",
-        "release_date": "2021-11-05",
-        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/wltdRZfeKDux9yKThlGKwjWhUil.jpg",
-        "trailer": "https:\/\/www.youtube.com\/watch?v=ztgpqImviOY",
-        "genres": [
-            "Action",
-            "War"
-        ]
-    },
-    {
-        "id": 228150,
-        "title": "Fury",
-        "overview": "In the last months of World War II, as the Allies make their final push in the European theatre, a battle-hardened U.S. Army sergeant named 'Wardaddy' commands a Sherman tank called 'Fury' and its five-man crew on a deadly mission behind enemy lines. Outnumbered and outgunned, Wardaddy and his men face overwhelming odds in their heroic attempts to strike at the heart of Nazi Germany.",
-        "release_date": "2014-10-15",
-        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/pfte7wdMobMF4CVHuOxyu6oqeeA.jpg",
-        "trailer": "https:\/\/www.youtube.com\/watch?v=09w9MTtZDEM",
-        "genres": [
-            "War",
-            "Drama",
-            "Action"
-        ]
-    },
-    {
-        "id": 840326,
-        "title": "Sisu",
-        "overview": "Deep in the wilderness of Lapland, Aatami Korpi is searching for gold but after he stumbles upon Nazi patrol, a breathtaking and gold-hungry chase through the destroyed and mined Lapland wilderness begins.",
-        "release_date": "2023-01-27",
-        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/ygO9lowFMXWymATCrhoQXd6gCEh.jpg",
-        "trailer": "https:\/\/www.youtube.com\/watch?v=d2k4QAItiSA",
-        "genres": [
-            "Action",
-            "War",
-            "Adventure"
-        ]
-    },
-    {
         "id": 554600,
         "title": "Uri: The Surgical Strike",
         "overview": "Following the roguish terrorist attacks at Uri Army Base camp in Kashmir, India takes the fight to the enemy, in its most successful covert operation till date with one and only one objective of avenging their fallen heroes.",
         "release_date": "2019-01-11",
+        "backdrop_path": "\/S3EIcOUQYxgd3QzjOo2rZJ2MN8.jpg",
+        "rating": 7.1,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/yNySAgpAnWmPpYinim9E0tUzJWG.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=Cg8sbRFS3zU",
         "genres": [
@@ -154,10 +119,42 @@
         ]
     },
     {
+        "id": 882569,
+        "title": "Guy Ritchie's The Covenant",
+        "overview": "During the war in Afghanistan, a local interpreter risks his own life to carry an injured sergeant across miles of grueling terrain.",
+        "release_date": "2023-04-19",
+        "backdrop_path": "\/eTvN54pd83TrSEOz6wbsXEJktCV.jpg",
+        "rating": 7.793,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/kVG8zFFYrpyYLoHChuEeOGAd6Ru.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=02PPMPArNEQ",
+        "genres": [
+            "War",
+            "Action",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 840326,
+        "title": "Sisu",
+        "overview": "Deep in the wilderness of Lapland, Aatami Korpi is searching for gold but after he stumbles upon Nazi patrol, a breathtaking and gold-hungry chase through the destroyed and mined Lapland wilderness begins.",
+        "release_date": "2023-01-27",
+        "backdrop_path": "\/pBdQ4iorzRV2G38mdS6rzrmUfMA.jpg",
+        "rating": 7.495,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/ygO9lowFMXWymATCrhoQXd6gCEh.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=d2k4QAItiSA",
+        "genres": [
+            "Action",
+            "War",
+            "Adventure"
+        ]
+    },
+    {
         "id": 281338,
         "title": "War for the Planet of the Apes",
         "overview": "Caesar and his apes are forced into a deadly conflict with an army of humans led by a ruthless Colonel. After the apes suffer unimaginable losses, Caesar wrestles with his darker instincts and begins his own mythic quest to avenge his kind. As the journey finally brings them face to face, Caesar and the Colonel are pitted against each other in an epic battle that will determine the fate of both their species and the future of the planet.",
         "release_date": "2017-07-11",
+        "backdrop_path": "\/ulMscezy9YX0bhknvJbZoUgQxO5.jpg",
+        "rating": 7.17,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/mMA1qhBFgZX8O36qPPTC016kQl1.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=1TxqmlIv1Iw",
         "genres": [
@@ -171,6 +168,8 @@
         "title": "Fury",
         "overview": "In the last months of World War II, as the Allies make their final push in the European theatre, a battle-hardened U.S. Army sergeant named 'Wardaddy' commands a Sherman tank called 'Fury' and its five-man crew on a deadly mission behind enemy lines. Outnumbered and outgunned, Wardaddy and his men face overwhelming odds in their heroic attempts to strike at the heart of Nazi Germany.",
         "release_date": "2014-10-15",
+        "backdrop_path": "\/kdbLf3aTQsEXqYlH9vA4fzmnSFz.jpg",
+        "rating": 7.526,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/pfte7wdMobMF4CVHuOxyu6oqeeA.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=09w9MTtZDEM",
         "genres": [
@@ -184,6 +183,8 @@
         "title": "Inglourious Basterds",
         "overview": "In Nazi-occupied France during World War II, a group of Jewish-American soldiers known as \"The Basterds\" are chosen specifically to spread fear throughout the Third Reich by scalping and brutally killing Nazis. The Basterds, lead by Lt. Aldo Raine soon cross paths with a French-Jewish teenage girl who runs a movie theater in Paris which is targeted by the soldiers.",
         "release_date": "2009-08-02",
+        "backdrop_path": "\/hg0MTIFs49ef179C9Y1HRtzqbbK.jpg",
+        "rating": 8.218,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=ejV1OHg3hC8",
         "genres": [
@@ -197,6 +198,8 @@
         "title": "Come Out Fighting",
         "overview": "In WWII, a squad of U.S. African-American soldiers are sent on a rescue mission behind enemy lines to locate their lost commanding officer and a downed fighter pilot.",
         "release_date": "2023-05-19",
+        "backdrop_path": "\/iaMIylLoN7Y3CvrA0pg2ZFKjk26.jpg",
+        "rating": 5.152,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/sERwJxz0sqsbcUoTm66l9pI6HcH.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=FD9JlpJ_f7o",
         "genres": [
@@ -210,6 +213,8 @@
         "title": "Saving Private Ryan",
         "overview": "As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home.",
         "release_date": "1998-07-24",
+        "backdrop_path": "\/bdD39MpSVhKjxarTxLSfX6baoMP.jpg",
+        "rating": 8.213,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=y4SA9yUDgW8",
         "genres": [
@@ -223,6 +228,8 @@
         "title": "Rambo III",
         "overview": "Combat has taken its toll on Rambo, but he's finally begun to find inner peace in a monastery. When Rambo's friend and mentor Col. Trautman asks for his help on a top secret mission to Afghanistan, Rambo declines but must reconsider when Trautman is captured.",
         "release_date": "1988-05-24",
+        "backdrop_path": "\/nEuPSz6LhmrtYp7K56dbsmomuqA.jpg",
+        "rating": 6.185,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/1eSQvGuD25ezKaiaQsyDDG3e9iN.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=SMLUwNSVX5Y",
         "genres": [
@@ -237,6 +244,8 @@
         "title": "All Quiet on the Western Front",
         "overview": "Paul Baumer and his friends Albert and Muller, egged on by romantic dreams of heroism, voluntarily enlist in the German army. Full of excitement and patriotic fervour, the boys enthusiastically march into a war they believe in. But once on the Western Front, they discover the soul-destroying horror of World War I.",
         "release_date": "2022-10-07",
+        "backdrop_path": "\/kZZ9JuZ5CMvH0Y2LwboekvXIHqQ.jpg",
+        "rating": 7.734,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/2IRjbi9cADuDMKmHdLK7LaqQDKA.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=hf8EYbVxtCY",
         "genres": [
@@ -250,6 +259,8 @@
         "title": "All Quiet on the Western Front",
         "overview": "Paul Baumer and his friends Albert and Muller, egged on by romantic dreams of heroism, voluntarily enlist in the German army. Full of excitement and patriotic fervour, the boys enthusiastically march into a war they believe in. But once on the Western Front, they discover the soul-destroying horror of World War I.",
         "release_date": "2022-10-07",
+        "backdrop_path": "\/kZZ9JuZ5CMvH0Y2LwboekvXIHqQ.jpg",
+        "rating": 7.734,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/2IRjbi9cADuDMKmHdLK7LaqQDKA.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=hf8EYbVxtCY",
         "genres": [
@@ -263,6 +274,8 @@
         "title": "The Imitation Game",
         "overview": "Based on the real life story of legendary cryptanalyst Alan Turing, the film portrays the nail-biting race against time by Turing and his brilliant team of code-breakers at Britain's top-secret Government Code and Cypher School at Bletchley Park, during the darkest days of World War II.",
         "release_date": "2014-11-14",
+        "backdrop_path": "\/jFp5aAlGQ1H3gwdORL2urr8dnoN.jpg",
+        "rating": 8.006,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/zSqJ1qFq8NXFfi7JeIYMlzyR0dx.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=j2jRs4EAvWM",
         "genres": [
@@ -277,6 +290,8 @@
         "title": "Troy",
         "overview": "In year 1250 B.C. during the late Bronze age, two emerging nations begin to clash. Paris, the Trojan prince, convinces Helen, Queen of Sparta, to leave her husband Menelaus, and sail with him back to Troy. After Menelaus finds out that his wife was taken by the Trojans, he asks his brother Agamemnon to help him get her back. Agamemnon sees this as an opportunity for power. They set off with 1,000 ships holding 50,000 Greeks to Troy.",
         "release_date": "2004-05-13",
+        "backdrop_path": "\/8YURPHUqD2ODIffxPf8sG5l5UC7.jpg",
+        "rating": 7.2,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/a07wLy4ONfpsjnBqMwhlWTJTcm.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=6FG3BfPuwBA",
         "genres": [
@@ -291,6 +306,8 @@
         "title": "Sniper: The White Raven",
         "overview": "Mykola is an eccentric pacifist who wants to be useful to humanity. When the war begins at Donbass, Mykola\u2019s naive world is collapsing as the militants kill his pregnant wife and burn his home to the ground. Recovered, he makes a cardinal decision and gets enlisted in a sniper company. Having met his wife\u2019s killers, he emotionally breaks down and arranges \u201csniper terror\u201d for the enemy. He\u2019s saved from a senseless death by his instructor who himself gets mortally wounded. The death of a friend leaves a \u201cscar\u201d and Mykola is ready to sacrifice his life.",
         "release_date": "2022-05-03",
+        "backdrop_path": "\/oal5fDK90yX6b8yunj6JahBqX2J.jpg",
+        "rating": 7.667,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/295gZzTXMvuiIG0U19h4M44PXxI.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=cZIhRHSXtyU",
         "genres": [
@@ -304,6 +321,8 @@
         "title": "Schindler's List",
         "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
         "release_date": "1993-12-15",
+        "backdrop_path": "\/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+        "rating": 8.565,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=mxphAlJID9U",
         "genres": [
@@ -317,6 +336,8 @@
         "title": "American Sniper",
         "overview": "U.S. Navy SEAL Chris Kyle takes his sole mission\u2014protect his comrades\u2014to heart and becomes one of the most lethal snipers in American history. His pinpoint accuracy not only saves countless lives but also makes him a prime target of insurgents. Despite grave danger and his struggle to be a good husband and father to his family back in the States, Kyle serves four tours of duty in Iraq. However, when he finally returns home, he finds that he cannot leave the war behind.",
         "release_date": "2014-12-25",
+        "backdrop_path": "\/rl95VDEP3nsUQmGzE0S1S7y6T0N.jpg",
+        "rating": 7.429,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/i1U46OwMc6vlm7OoSUKfqUH615e.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=5bP1f_1o-zo",
         "genres": [
@@ -329,6 +350,8 @@
         "title": "Come Out Fighting",
         "overview": "In WWII, a squad of U.S. African-American soldiers are sent on a rescue mission behind enemy lines to locate their lost commanding officer and a downed fighter pilot.",
         "release_date": "2023-05-19",
+        "backdrop_path": "\/iaMIylLoN7Y3CvrA0pg2ZFKjk26.jpg",
+        "rating": 5.152,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/sERwJxz0sqsbcUoTm66l9pI6HcH.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=FD9JlpJ_f7o",
         "genres": [
@@ -342,6 +365,8 @@
         "title": "Schindler's List",
         "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
         "release_date": "1993-12-15",
+        "backdrop_path": "\/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+        "rating": 8.565,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=mxphAlJID9U",
         "genres": [
@@ -355,6 +380,8 @@
         "title": "Jojo Rabbit",
         "overview": "A World War II satire that follows a lonely German boy whose world view is turned upside down when he discovers his single mother is hiding a young Jewish girl in their attic. Aided only by his idiotic imaginary friend, Adolf Hitler, Jojo must confront his blind nationalism.",
         "release_date": "2019-10-18",
+        "backdrop_path": "\/lTyikzfGgRX5ZqIfVeT26APYfRL.jpg",
+        "rating": 8.029,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/7GsM4mtM0worCtIVeiQt28HieeN.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=tL4McUzXfFI",
         "genres": [
@@ -368,6 +395,8 @@
         "title": "Black Hawk Down",
         "overview": "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
         "release_date": "2001-12-28",
+        "backdrop_path": "\/7jaNOECZG8uS1tlq69HsY5xY8P9.jpg",
+        "rating": 7.4,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/imGygQbmuc7gC1JZiAVhJLsUWXq.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=2GfBkC3qs78",
         "genres": [
@@ -381,6 +410,8 @@
         "title": "Spartacus",
         "overview": "The rebellious Thracian Spartacus, born and raised a slave, is sold to Gladiator trainer Batiatus. After weeks of being trained to kill for the arena, Spartacus turns on his owners and leads the other slaves in rebellion. As the rebels move from town to town, their numbers swell as escaped slaves join their ranks. Under the leadership of Spartacus, they make their way to southern Italy, where they will cross the sea and return to their homes.",
         "release_date": "1960-10-13",
+        "backdrop_path": "\/9caD0fGCrp96JTFFeGyI0CGNj7.jpg",
+        "rating": 7.547,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/xLPpQlFWE12cbqNJQ5Vf4eJU8ij.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=HcIMY1Ah3aw",
         "genres": [
@@ -395,6 +426,8 @@
         "title": "300",
         "overview": "Based on Frank Miller's graphic novel, \"300\" is very loosely based the 480 B.C. Battle of Thermopylae, where the King of Sparta led his army against the advancing Persians; the battle is said to have inspired all of Greece to band together against the Persians, and helped usher in the world's first democracy.",
         "release_date": "2007-03-07",
+        "backdrop_path": "\/fPg31FANBYhrV2z0vZB4nIonKbI.jpg",
+        "rating": 7.179,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/h7Lcio0c9ohxPhSZg42eTlKIVVY.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=UrIbxk7idYA",
         "genres": [
@@ -408,6 +441,8 @@
         "title": "Red Dawn",
         "overview": "It is the dawn of World War III. In mid-western America, a group of teenagers band together to defend their town\u2014and their country\u2014from invading Soviet forces.",
         "release_date": "1984-08-10",
+        "backdrop_path": "\/9fOfsVHZHig6MHPHczv0zMY6cKc.jpg",
+        "rating": 6.291,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/a2GkHcioc2QEFJbQk1NTB85u3vD.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=kZLLKwFpFG4",
         "genres": [
@@ -419,30 +454,19 @@
         ]
     },
     {
-        "id": 14574,
-        "title": "The Boy in the Striped Pyjamas",
-        "overview": "When his family moves from their home in Berlin to a strange new house in Poland, young Bruno befriends Shmuel, a boy who lives on the other side of the fence where everyone seems to be wearing striped pajamas. Unaware of Shmuel's fate as a Jewish prisoner or the role his own Nazi father plays in his imprisonment, Bruno embarks on a dangerous journey inside the camp's walls.",
-        "release_date": "2008-05-07",
-        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/sLwYSEVVV3r047cjrpRAbGgNsfL.jpg",
-        "trailer": "https:\/\/www.youtube.com\/watch?v=uwysOfnX2Qg",
+        "id": 967,
+        "title": "Spartacus",
+        "overview": "The rebellious Thracian Spartacus, born and raised a slave, is sold to Gladiator trainer Batiatus. After weeks of being trained to kill for the arena, Spartacus turns on his owners and leads the other slaves in rebellion. As the rebels move from town to town, their numbers swell as escaped slaves join their ranks. Under the leadership of Spartacus, they make their way to southern Italy, where they will cross the sea and return to their homes.",
+        "release_date": "1960-10-13",
+        "backdrop_path": "\/9caD0fGCrp96JTFFeGyI0CGNj7.jpg",
+        "rating": 7.547,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/xLPpQlFWE12cbqNJQ5Vf4eJU8ij.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=HcIMY1Ah3aw",
         "genres": [
-            "Drama",
+            "History",
             "War",
-            "History"
-        ]
-    },
-    {
-        "id": 1368,
-        "title": "First Blood",
-        "overview": "When former Green Beret John Rambo is harassed by local law enforcement and arrested for vagrancy, he is forced to flee into the mountains and wage an escalating one-man war against his pursuers.",
-        "release_date": "1982-10-22",
-        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/a9sa6ERZCpplbPEO7OMWE763CLD.jpg",
-        "trailer": "https:\/\/www.youtube.com\/watch?v=-dTDmrJXXoA",
-        "genres": [
-            "Action",
-            "Adventure",
-            "Thriller",
-            "War"
+            "Drama",
+            "Adventure"
         ]
     },
     {
@@ -450,6 +474,8 @@
         "title": "Gone with the Wind",
         "overview": "The spoiled daughter of a Georgia plantation owner conducts a tumultuous romance with a cynical profiteer during the American Civil War and Reconstruction Era.",
         "release_date": "1939-12-15",
+        "backdrop_path": "\/ft8WRF2xqEwwGWa59naDUybKTAx.jpg",
+        "rating": 7.96,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/lNz2Ow0wGCAvzckW7EOjE03KcYv.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=fgdCVxmPMVE",
         "genres": [
@@ -459,10 +485,43 @@
         ]
     },
     {
+        "id": 300671,
+        "title": "13 Hours: The Secret Soldiers of Benghazi",
+        "overview": "An American Ambassador is killed during an attack at a U.S. compound in Libya as a security team struggles to make sense out of the chaos.",
+        "release_date": "2016-01-14",
+        "backdrop_path": "\/ayDMYGUNVvXS76wQgFwTiUIDNb5.jpg",
+        "rating": 7.276,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/nAnfWdvUXQemns5BR0Azi4z9o1t.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=Wpsqh73gB78",
+        "genres": [
+            "War",
+            "Action",
+            "History",
+            "Drama"
+        ]
+    },
+    {
+        "id": 14574,
+        "title": "The Boy in the Striped Pyjamas",
+        "overview": "When his family moves from their home in Berlin to a strange new house in Poland, young Bruno befriends Shmuel, a boy who lives on the other side of the fence where everyone seems to be wearing striped pajamas. Unaware of Shmuel's fate as a Jewish prisoner or the role his own Nazi father plays in his imprisonment, Bruno embarks on a dangerous journey inside the camp's walls.",
+        "release_date": "2008-05-07",
+        "backdrop_path": "\/7fJAYM0rhzpEhCK6wxbQ412EoYW.jpg",
+        "rating": 7.844,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/sLwYSEVVV3r047cjrpRAbGgNsfL.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=uwysOfnX2Qg",
+        "genres": [
+            "Drama",
+            "War",
+            "History"
+        ]
+    },
+    {
         "id": 1062482,
         "title": "Condor's Nest",
         "overview": "American war veteran Will Spalding has tracked the sadistic Nazi Colonel who executed his bomber crew during WWII to a remote location in South America. But he is in for more than he bargained for when he uncovers a secret Nazi headquarters known as the Condor's Nest.",
         "release_date": "2023-01-27",
+        "backdrop_path": "\/uSUjIzqKyebAd2wqDyb11Ya4wch.jpg",
+        "rating": 5.395,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/aBAsCMzsbGlFtQFqeWsKWM6hvOE.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=EijfB_hNvDs",
         "genres": [
@@ -475,6 +534,8 @@
         "title": "Rambo",
         "overview": "In Thailand, ex-Green Beret John James Rambo joins a group of mercenaries to venture into war-torn neighboring Myanmar to rescue a group of Christian aid workers who have been kidnapped by a ruthless local infantry unit.",
         "release_date": "2008-01-24",
+        "backdrop_path": "\/zzAErvRSasbEpe3biSLjhilvBlk.jpg",
+        "rating": 6.671,
         "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/r8LPeldxskHrGJTPfhICguCip2H.jpg",
         "trailer": "https:\/\/www.youtube.com\/watch?v=tI-kGoxpySM",
         "genres": [
@@ -484,17 +545,265 @@
         ]
     },
     {
-        "id": 300671,
-        "title": "13 Hours: The Secret Soldiers of Benghazi",
-        "overview": "An American Ambassador is killed during an attack at a U.S. compound in Libya as a security team struggles to make sense out of the chaos.",
-        "release_date": "2016-01-14",
-        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/nAnfWdvUXQemns5BR0Azi4z9o1t.jpg",
-        "trailer": "https:\/\/www.youtube.com\/watch?v=Wpsqh73gB78",
+        "id": 2024,
+        "title": "The Patriot",
+        "overview": "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
+        "release_date": "2000-06-28",
+        "backdrop_path": "\/c9xSFZQtC4c16Vn5CMOaB1pGk9J.jpg",
+        "rating": 7.176,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/fWZd815QxUCUcrWQZwUkAp9ljG.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=ZSssYtYYKzU",
+        "genres": [
+            "Drama",
+            "History",
+            "War",
+            "Action"
+        ]
+    },
+    {
+        "id": 1076487,
+        "title": "Warhorse One",
+        "overview": "A gunned down Navy SEAL Master Chief must guide a child to safety through a gauntlet of hostile Taliban insurgents and survive the brutal Afghanistan wilderness.",
+        "release_date": "2023-06-30",
+        "backdrop_path": "\/csu96RxWGh2tReD9gYQRdUOSuUE.jpg",
+        "rating": 7.2,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/jP2ik17jvKiV5sGEknMFbZv7WAe.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=63rL3f2zl8Q",
+        "genres": [
+            "Action",
+            "Drama",
+            "War"
+        ]
+    },
+    {
+        "id": 1368,
+        "title": "First Blood",
+        "overview": "When former Green Beret John Rambo is harassed by local law enforcement and arrested for vagrancy, he is forced to flee into the mountains and wage an escalating one-man war against his pursuers.",
+        "release_date": "1982-10-22",
+        "backdrop_path": "\/dJrYUXjgYAD95Ho67t7Utdqv8At.jpg",
+        "rating": 7.49,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/a9sa6ERZCpplbPEO7OMWE763CLD.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=-dTDmrJXXoA",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Thriller",
+            "War"
+        ]
+    },
+    {
+        "id": 948713,
+        "title": "The Last Kingdom: Seven Kings Must Die",
+        "overview": "In the wake of King Edward's death, Uhtred of Bebbanburg and his comrades adventure across a fractured kingdom in the hopes of uniting England at last.",
+        "release_date": "2023-04-14",
+        "backdrop_path": "\/xwA90BwZXTh8ke3CVsQlj8EOkFr.jpg",
+        "rating": 7.265,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/qcNDxDzd5OW9wE3c8nWxCBQoBrM.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=eqCYw_o5lng",
+        "genres": [
+            "Action",
+            "Adventure",
+            "War"
+        ]
+    },
+    {
+        "id": 792,
+        "title": "Platoon",
+        "overview": "As a young and naive recruit in Vietnam, Chris Taylor faces a moral crisis when confronted with the horrors of war and the duality of man.",
+        "release_date": "1986-12-19",
+        "backdrop_path": "\/nanfgFeCgV08ZkYEwcDuFO1UxDn.jpg",
+        "rating": 7.743,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/m3mmFkPQKvPZq5exmh0bDuXlD9T.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=R8weLPF4qBQ",
+        "genres": [
+            "Drama",
+            "War",
+            "Action"
+        ]
+    },
+    {
+        "id": 1417,
+        "title": "Pan's Labyrinth",
+        "overview": "Living with her tyrannical stepfather in a new home with her pregnant mother, 10-year-old Ofelia feels alone until she explores a decaying labyrinth guarded by a mysterious faun who claims to know her destiny. If she wishes to return to her real father, Ofelia must complete three terrifying tasks.",
+        "release_date": "2006-10-10",
+        "backdrop_path": "\/o0IWa75BXyXryNDVqw0xoXZzy1J.jpg",
+        "rating": 7.757,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/2VVhikIxoztAXEDQZLOdtBsu6vf.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=6tYUOAMsydg",
+        "genres": [
+            "Fantasy",
+            "Drama",
+            "War"
+        ]
+    },
+    {
+        "id": 369885,
+        "title": "Allied",
+        "overview": "In 1942, an intelligence officer in North Africa encounters a female French Resistance fighter on a deadly mission behind enemy lines. When they reunite in London, their relationship is tested by the pressures of war.",
+        "release_date": "2016-11-17",
+        "backdrop_path": "\/gMssbddpo4thHGHMpQEZC00Sq9.jpg",
+        "rating": 6.785,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/sV4lXM32quwminL3TP36nlNPp7Q.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=-hQGiozwHiI",
+        "genres": [
+            "Action",
+            "Drama",
+            "War",
+            "Romance",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 573531,
+        "title": "Halo Legends",
+        "overview": "The universe of the Halo video game series is expanded in seven short animated films from Japan's greatest anime directors and studios.",
+        "release_date": "2010-02-16",
+        "backdrop_path": "\/zOOKJyRIcjPC1S8xmNEgy2luAXi.jpg",
+        "rating": 7.37,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/cO3iAp2pPNdWE9eqS4pTEY5HghY.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=aicPLFajPiU",
+        "genres": [
+            "Animation",
+            "War",
+            "Action",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 7555,
+        "title": "Rambo",
+        "overview": "In Thailand, ex-Green Beret John James Rambo joins a group of mercenaries to venture into war-torn neighboring Myanmar to rescue a group of Christian aid workers who have been kidnapped by a ruthless local infantry unit.",
+        "release_date": "2008-01-24",
+        "backdrop_path": "\/zzAErvRSasbEpe3biSLjhilvBlk.jpg",
+        "rating": 6.671,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/r8LPeldxskHrGJTPfhICguCip2H.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=tI-kGoxpySM",
+        "genres": [
+            "Action",
+            "Thriller",
+            "War"
+        ]
+    },
+    {
+        "id": 374720,
+        "title": "Dunkirk",
+        "overview": "The story of the miraculous evacuation of Allied soldiers from Belgium, Britain, Canada and France, who were cut off and surrounded by the German army from the beaches and harbour of Dunkirk between May 26th and June 4th 1940 during World War II.",
+        "release_date": "2017-07-19",
+        "backdrop_path": "\/ddIkmH3TpR6XSc47jj0BrGK5Rbz.jpg",
+        "rating": 7.455,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=T7O7BtBnsG4",
         "genres": [
             "War",
             "Action",
-            "History",
             "Drama"
+        ]
+    },
+    {
+        "id": 676,
+        "title": "Pearl Harbor",
+        "overview": "The lifelong friendship between Rafe McCawley and Danny Walker is put to the ultimate test when the two ace fighter pilots become entangled in a love triangle with beautiful Naval nurse Evelyn Johnson. But the rivalry between the friends-turned-foes is immediately put on hold when they find themselves at the center of Japan's devastating attack on Pearl Harbor on Dec. 7, 1941.",
+        "release_date": "2001-05-21",
+        "backdrop_path": "\/zv1xOEQzebKyku349qDZ085FZlO.jpg",
+        "rating": 6.939,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/y8A0Cvp8WQmZ3bjbnsL53lY0dsC.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=zf3KAiimeUg",
+        "genres": [
+            "War",
+            "History",
+            "Romance",
+            "Drama",
+            "Action"
+        ]
+    },
+    {
+        "id": 616,
+        "title": "The Last Samurai",
+        "overview": "Nathan Algren is an American hired to instruct the Japanese army in the ways of modern warfare, which finds him learning to respect the samurai and the honorable principles that rule them. Pressed to destroy the samurai's way of life in the name of modernization and open trade, Algren decides to become an ultimate warrior himself and to fight for their right to exist.",
+        "release_date": "2003-12-05",
+        "backdrop_path": "\/z354BaTVzKj7E60WLzDoSmUuO4u.jpg",
+        "rating": 7.583,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/uolYbaXaY1VV0G7vJuYHMBV9yJ.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=QZpQrc0R6J0",
+        "genres": [
+            "Drama",
+            "Action",
+            "War"
+        ]
+    },
+    {
+        "id": 53182,
+        "title": "300: Rise of an Empire",
+        "overview": "Greek general Themistocles attempts to unite all of Greece by leading the charge that will change the course of the war. Themistocles faces the massive invading Persian forces led by mortal-turned-god, Xerxes and Artemesia, the vengeful commander of the Persian navy.",
+        "release_date": "2014-03-05",
+        "backdrop_path": "\/Admlp6IYUI9UJEx451dvGldK7Mh.jpg",
+        "rating": 6.101,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/wYDdWN1McB1Sio4z1dPSkb40Z78.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=bsoJaQ2gZh4",
+        "genres": [
+            "Action",
+            "Drama",
+            "War"
+        ]
+    },
+    {
+        "id": 792,
+        "title": "Platoon",
+        "overview": "As a young and naive recruit in Vietnam, Chris Taylor faces a moral crisis when confronted with the horrors of war and the duality of man.",
+        "release_date": "1986-12-19",
+        "backdrop_path": "\/nanfgFeCgV08ZkYEwcDuFO1UxDn.jpg",
+        "rating": 7.743,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/m3mmFkPQKvPZq5exmh0bDuXlD9T.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=R8weLPF4qBQ",
+        "genres": [
+            "Drama",
+            "War",
+            "Action"
+        ]
+    },
+    {
+        "id": 855,
+        "title": "Black Hawk Down",
+        "overview": "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
+        "release_date": "2001-12-28",
+        "backdrop_path": "\/7jaNOECZG8uS1tlq69HsY5xY8P9.jpg",
+        "rating": 7.4,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/imGygQbmuc7gC1JZiAVhJLsUWXq.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=2GfBkC3qs78",
+        "genres": [
+            "Action",
+            "War",
+            "History"
+        ]
+    },
+    {
+        "id": 792,
+        "title": "Platoon",
+        "overview": "As a young and naive recruit in Vietnam, Chris Taylor faces a moral crisis when confronted with the horrors of war and the duality of man.",
+        "release_date": "1986-12-19",
+        "backdrop_path": "\/nanfgFeCgV08ZkYEwcDuFO1UxDn.jpg",
+        "rating": 7.743,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/m3mmFkPQKvPZq5exmh0bDuXlD9T.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=R8weLPF4qBQ",
+        "genres": [
+            "Drama",
+            "War",
+            "Action"
+        ]
+    },
+    {
+        "id": 855,
+        "title": "Black Hawk Down",
+        "overview": "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
+        "release_date": "2001-12-28",
+        "backdrop_path": "\/7jaNOECZG8uS1tlq69HsY5xY8P9.jpg",
+        "rating": 7.4,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/imGygQbmuc7gC1JZiAVhJLsUWXq.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=2GfBkC3qs78",
+        "genres": [
+            "Action",
+            "War",
+            "History"
         ]
     }
 ]
