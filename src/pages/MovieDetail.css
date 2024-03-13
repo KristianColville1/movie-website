@@ -1,0 +1,6 @@
+.bx-star,
+.bxs-star-half,
+.bxs-star {
+    color: var(--raspberry);
+    font-size: 110%;
+}
