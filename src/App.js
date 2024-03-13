@@ -7,6 +7,13 @@ import Movies from "./pages/Movies";
 import Booking from "./pages/Booking";
 import Search from "./pages/Search";
 import ModalWrapper from "./components/organisms/ModalWrapper/ModalWrapper";
+import GoogleSignIn from "./components/molecules/GoogleSignIn/GoogleSignIn";
+import Container from "react-bootstrap/Container";
+import Row from "react-bootstrap/Row";
+import Col from "react-bootstrap/Col";
+import FormInput from "./components/molecules/FormInput/FromInput";
+import { MovieProvider } from "./context/MovieContext";
+import MovieDetail from "./pages/MovieDetail";
 /**
  *
  * Responsible for handling the app and running the router for the different content on the site
@@ -27,38 +34,56 @@ function App() {
     ];
     return (
         <Router>
-            <Navbar
-                onSignIn={() => setShowSignInModal(true)}
-                onSignUp={() => setShowSignUpModal(true)}
-            />
-            <Routes>
-                {
-                    // for each page map the location and element to a route
-                    pages.map((page, index) => (
-                        <Route
-                            key={index}
-                            path={page.path}
-                            element={page.element}
-                        />
-                    ))
-                }
-            </Routes>
-            <MobileNav
-                onSignIn={() => setShowSignInModal(true)}
-                onSignUp={() => setShowSignUpModal(true)}
-            />
-            <ModalWrapper
-                title="Sign In"
-                show={showSignInModal}
-                handleClose={() => setShowSignInModal(false)}
-            >
-            </ModalWrapper>
-            <ModalWrapper
-                title="Sign Up"
-                show={showSignUpModal}
-                handleClose={() => setShowSignUpModal(false)}
-            >
-            </ModalWrapper>
+            <MovieProvider>
+                <Navbar
+                    onSignIn={() => setShowSignInModal(true)}
+                    onSignUp={() => setShowSignUpModal(true)}
+                />
+                <Routes>
+                    {
+                        // for each page map the location and element to a route
+                        pages.map((page, index) => (
+                            <Route
+                                key={index}
+                                path={page.path}
+                                element={page.element}
+                            />
+                        ))
+                    }
+                    <Route path="/movie/:id" element={<MovieDetail/>} />
+                </Routes>
+                <MobileNav
+                    onSignIn={() => setShowSignInModal(true)}
+                    onSignUp={() => setShowSignUpModal(true)}
+                />
+                <ModalWrapper
+                    title="Account Sign in"
+                    show={showSignInModal}
+                    handleClose={() => setShowSignInModal(false)}
+                    className="text-center w-100"
+                    children={
+                        <Container>
+                            <Row className="justify-content-center pb-4">
+                                <Col xs={12} md={8}>
+                                    <GoogleSignIn className="py-2 w-100 mx-auto d-block rounded d-flex justify-content-center align-items-center" />
+                                    <p className="text-center pt-5">Or</p>
+                                    <FormInput
+                                        placeholder="Username"
+                                        className=""
+                                    />
+                                    <FormInput placeholder="Password" />
+                                </Col>
+                            </Row>
+                        </Container>
+                    }
+                    hasControls={false}
+                ></ModalWrapper>
+                <ModalWrapper
+                    title="Sign Up"
+                    show={showSignUpModal}
+                    handleClose={() => setShowSignUpModal(false)}
+                ></ModalWrapper>
+            </MovieProvider>
         </Router>
     );
 }

@@ -1,21 +1,22 @@
 import React, { useState, useEffect } from "react";
 import { useMovies } from "../../../context/MovieContext";
+import { Link } from 'react-router-dom';
 
 const MovieSearch = () => {
     const { movies } = useMovies();
     const [searchTerm, setSearchTerm] = useState("");
     const [filteredMovies, setFilteredMovies] = useState([]);
 
-    useEffect(() => {
-        if (searchTerm) {
-            const results = movies.filter((movie) =>
-                movie.title.toLowerCase().includes(searchTerm.toLowerCase())
-            );
-            setFilteredMovies(results);
-        } else {
-            setFilteredMovies([]);
-        }
-    }, [searchTerm, movies]);
+useEffect(() => {
+    const results = searchTerm
+        ? movies
+              .filter((movie) =>
+                  movie.title.toLowerCase().includes(searchTerm.toLowerCase())
+              )
+              .slice(0, 10)
+        : [];
+    setFilteredMovies(results);
+}, [searchTerm, movies]);
 
     return (
         <div className="position-relative">
@@ -26,10 +27,14 @@ const MovieSearch = () => {
             />
             {searchTerm && (
                 <div className="position-absolute search-results-dropdown bg-black text-light">
-                    {filteredMovies.map((movie, index) => (
-                        <div key={index} className="search-result-item">
+                    {filteredMovies.map((movie) => (
+                        <Link
+                            to={`/movie/${movie.id}`}
+                            key={movie.id}
+                            className="search-result-item d-block text-decoration-none text-light"
+                        >
                             {movie.title}
-                        </div>
+                        </Link>
                     ))}
                 </div>
             )}
