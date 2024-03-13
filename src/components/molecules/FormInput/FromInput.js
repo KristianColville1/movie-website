@@ -14,7 +14,7 @@ import { Form } from "react-bootstrap";
  * @returns {JSX.Element} a form input element
  */
 const FormInput = ({ id, label, type, placeholder, onChange, value, className }) => (
-    <Form.Group controlId={id}>
+    <Form.Group controlId={id} className={`${className}`}>
         <Form.Label>{label}</Form.Label>
         <Form.Control
             type={type}
