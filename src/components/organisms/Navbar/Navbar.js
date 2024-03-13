@@ -8,7 +8,7 @@ import { LinkContainer } from "react-router-bootstrap";
 import NavItem from "../../molecules/NavItem/NavItem";
 import Form from "react-bootstrap/Form";
 import Button from "../../atoms/Button/Button";
-import GoogleSignIn from "../../molecules/GoogleSignIn/GoogleSignIn";
+import MovieSearch from "../../molecules/MovieSearch/MovieSearch";
 import "./Navbar.css";
 /**
  * NavBar manages the site's main navigation using React Router for SPA page transitions. It controls the collapsible menu's state for responsive design.
@@ -54,21 +54,12 @@ const Navbar = ({ onSignIn, onSignUp}) => {
                 />
                 <BootstrapNavbar.Collapse
                     id="navbar"
-                    className="d-flex justify-content-between"
+                    className="p-5 bg-sm-dark p-md-0 justify-content-between"
                 >
-                    <Form className="ms-md-5 d-flex">
-                        <Form.Control
-                            type="search"
-                            placeholder="Find Movies"
-                            className="me-2 border-0 border-bottom text-white rounded-0 placeholder-white bg-transparent"
-                            aria-label="Search"
-                        />
-                        <Button
-                            className="bg-transparent border-0 p-0 m-0 d-flex justify-content-center align-items-center "
-                            iconClassName="bx bx-search"
-                        />
+                    <Form className="ms-md-5 d-sm-flex">
+                        <MovieSearch/>
                     </Form>
-                    <Nav className="d-flex justify-content-end flex-grow-1 pe-3">
+                    <Nav className="">
                         {
                             // for each tab dynamically map the location, classes and text to a nav item
                             tabs.map((tab) => (
