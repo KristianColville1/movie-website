@@ -13,7 +13,7 @@ import { Form } from "react-bootstrap";
  * @param {string} [props.className] css names if any for the nested element
  * @returns {JSX.Element} a form input element
  */
-const FormInput = ({ id, label, type, placeholder, onChange, value }) => (
+const FormInput = ({ id, label, type, placeholder, onChange, value, className }) => (
     <Form.Group controlId={id}>
         <Form.Label>{label}</Form.Label>
         <Form.Control

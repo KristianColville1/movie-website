@@ -1,0 +1,14 @@
+
+/* so the modal is on top */
+.modal {
+    z-index: 1050;
+}
+
+@media (min-width:992px) {
+    .modal-dialog {
+        display:flex;
+        justify-content: center;
+        align-content: center;
+        max-width: 700px;
+    }
+}

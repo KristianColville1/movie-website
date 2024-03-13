@@ -1,6 +1,6 @@
 import React from "react";
 import { Modal, Button } from "react-bootstrap";
-
+import './ModalWrapper.css';
 /**
  * ModalWrapper encapsulates form content to display to user when triggered
  * @param {Object} props is the destructured props object

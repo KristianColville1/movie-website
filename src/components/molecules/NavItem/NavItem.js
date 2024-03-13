@@ -6,7 +6,7 @@ import Nav from "react-bootstrap/Nav";
  * NavItem encapsulates the navigation link functionality
  * @param {Object} props is the destructured props object
  * @param {string} props.to the path to navigate to when link is clicked
- * @param {string} props.children the text or content for the navigation link
+ * @param {React.ReactNode} props.children the text or content for the navigation link
  * @param {Function} [props.onClick] click handler if needed
  * @param {string} [props.className] css names if any for the nested element
  * @returns {JSX.Element} a navigation item
