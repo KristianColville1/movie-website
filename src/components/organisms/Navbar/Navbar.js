@@ -8,6 +8,7 @@ import { LinkContainer } from "react-router-bootstrap";
 import NavItem from "../../molecules/NavItem/NavItem";
 import Form from "react-bootstrap/Form";
 import Button from "../../atoms/Button/Button";
+import GoogleSignIn from "../../molecules/GoogleSignIn/GoogleSignIn";
 import "./Navbar.css";
 /**
  * NavBar manages the site's main navigation using React Router for SPA page transitions. It controls the collapsible menu's state for responsive design.
@@ -36,6 +37,17 @@ const Navbar = () => {
         },
     ];
 
+    // Google sign in
+      const handleLoginSuccess = (response) => {
+    console.log('Login Success:', response.profileObj);
+    // Here you can handle the login success event,
+    // such as setting the user session or storing the access token.
+  };
+
+  const handleLoginFailure = (response) => {
+    console.error('Login Failed:', response);
+    // Here you can handle the login failure event.
+  };
     return (
         <BootstrapNavbar
             collapseOnSelect
@@ -77,7 +89,10 @@ const Navbar = () => {
                                     children={tab.text}
                                 />
                             ))
+
+                            
                         }
+                        < GoogleSignIn onSuccess={handleLoginSuccess } onFailure={handleLoginFailure }/>
                     </Nav>
                 </BootstrapNavbar.Collapse>
             </Container>
