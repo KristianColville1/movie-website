@@ -1,13 +1,15 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useRef } from "react";
 import { useMovies } from "../../../context/MovieContext";
 import { Link } from "react-router-dom";
+import useOutsideClick from "../../../hooks/useOutsideClick";
 
-import './MovieSearch.css';
+import "./MovieSearch.css";
 const MovieSearch = () => {
     const { movies } = useMovies();
     const [searchTerm, setSearchTerm] = useState("");
     const [filteredMovies, setFilteredMovies] = useState([]);
 
+    // gets the search results filtering by the search term user enters
     useEffect(() => {
         const results = searchTerm
             ? movies
@@ -25,17 +27,21 @@ const MovieSearch = () => {
         setSearchTerm("");
     };
 
+    // closes the dropdown if user clicks outside it
+    const searchRef = useRef(null);
+    useOutsideClick(searchRef, () => setSearchTerm(""));
+
     return (
-        <div className="position-relative">
+        <div className="position-relative" ref={searchRef}>
             <div className="search-box">
-  <i className='bx bx-search'></i>
-            <input
-                type="text"
-                placeholder="Search Movies"
-                value={searchTerm}
-                onChange={(e) => setSearchTerm(e.target.value)}
+                <i className="bx bx-search"></i>
+                <input
+                    type="text"
+                    placeholder="Search Movies"
+                    value={searchTerm}
+                    onChange={(e) => setSearchTerm(e.target.value)}
                 />
-                </div>
+            </div>
             {searchTerm && (
                 <div className="position-absolute search-results-dropdown bg-dark text-light shadow">
                     {filteredMovies.map((movie) => (
@@ -44,7 +50,6 @@ const MovieSearch = () => {
                             key={movie.id}
                             className="search-result-item d-block text-decoration-none p-2"
                             onClick={handleLinkClick}
-                            style={{ maxWidth: "250px" }}
                         >
                             <div className="d-flex align-items-center">
                                 <img
