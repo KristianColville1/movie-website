@@ -51,8 +51,23 @@ const Navbar = () => {
                 <CustomNavBarToggle
                     onClick={() => toggleNavbar()} // toggles the menu open and close
                 />
-                <BootstrapNavbar.Collapse id="navbar">
-                    <Nav className="me-auto my-2 my-lg-0">
+                <BootstrapNavbar.Collapse
+                    id="navbar"
+                    className="d-flex justify-content-between"
+                >
+                    <Form className="ms-md-5 d-flex">
+                        <Form.Control
+                            type="search"
+                            placeholder="Find Movies"
+                            className="me-2 border-0 border-bottom text-white rounded-0 placeholder-white bg-transparent"
+                            aria-label="Search"
+                        />
+                        <Button
+                            className="bg-transparent border-0 p-0 m-0 d-flex justify-content-center align-items-center "
+                            iconClassName="bx bx-search"
+                        />
+                    </Form>
+                    <Nav className="d-flex justify-content-end flex-grow-1 pe-3">
                         {
                             // for each tab dynamically map the location, classes and text to a nav item
                             tabs.map((tab) => (
@@ -64,18 +79,6 @@ const Navbar = () => {
                             ))
                         }
                     </Nav>
-                    <Form className="d-flex">
-                        <Form.Control
-                            type="search"
-                            placeholder="Search"
-                            className="me-2 bg-transparent border-0 border-bottom text-white rounded-0 placeholder-white"
-                            aria-label="Search"
-                        />
-                        <Button
-                            className="bg-transparent border-0 p-0 m-0 d-flex justify-content-center align-items-center "
-                            iconClassName="bx bx-search"
-                        />
-                    </Form>
                 </BootstrapNavbar.Collapse>
             </Container>
         </BootstrapNavbar>
