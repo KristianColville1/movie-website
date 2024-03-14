@@ -1,6 +1,8 @@
 import React, { useState, useEffect, useRef } from "react";
 import { useMovies } from "../../../context/MovieContext"; // Assuming useMovies now gives access to cinemas too
 import { Link } from "react-router-dom";
+import Row from "react-bootstrap/Row";
+import Col from "react-bootstrap/Col";
 import useOutsideClick from "../../../hooks/useOutsideClick";
 import "./MovieSearch.css";
 
@@ -73,16 +75,24 @@ useEffect(() => {
                                     className="search-result-item d-block text-decoration-none p-2"
                                     onClick={handleLinkClick}
                                 >
-                                    <img
-                                        src={movie.poster_path}
-                                        alt={movie.title}
-                                        style={{
-                                            width: "50px",
-                                            height: "auto",
-                                            marginRight: "10px",
-                                        }}
-                                    />
-                                    <span>{movie.title}</span>
+                                    <Row>
+                                        <Col xs={4} md={5} lg={6}>
+                                            <img
+                                                src={movie.poster_path}
+                                                alt={movie.title}
+                                                style={{
+                                                    width: "100%", // This makes the image responsive within the column
+                                                    height: "auto",
+                                                    marginRight: "10px",
+                                                }}
+                                            />
+                                        </Col>
+                                        <Col xs={8} md={7} lg={6}>
+                                            <span className="text-sm">
+                                                {movie.title}
+                                            </span>
+                                        </Col>
+                                    </Row>
                                 </Link>
                             ))}
                         </div>

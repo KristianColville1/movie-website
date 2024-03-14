@@ -1,0 +1,26 @@
+.movie-slider {
+    padding: 20px 0;
+}
+
+.movie-slider .slick-slide {
+    padding: 0 10px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+
+.movie-slider .slick-slide img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.movie-slider .slick-slide p {
+    text-align: center;
+    color: #fff;
+    margin-top: 8px;
+}
+
+.movie-slider .slick-slide:hover {
+    transform: scale(1.05);
+    transition: transform 0.2s ease-in-out;
+}

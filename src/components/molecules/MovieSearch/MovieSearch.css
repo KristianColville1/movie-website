@@ -10,7 +10,7 @@
     background-color: var(--eerie-black);
     color: var(--lavender-web);
     box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
-    padding: 20px;
+    padding: 5px;
     overflow: scroll;
 }
 

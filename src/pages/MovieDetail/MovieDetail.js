@@ -4,7 +4,7 @@ import { useMovies } from "../../context/MovieContext";
 import { Container, Row, Col, Card } from "react-bootstrap";
 import "./MovieDetail.css";
 
-const MovieDetail = () => {
+const MovieDetail = ({children}) => {
     // fetches the movie context
     const { id } = useParams();
     const { getMovieById } = useMovies();
@@ -25,7 +25,7 @@ const MovieDetail = () => {
     const youtubeId = movie.trailer.split("v=")[1];
     const actors = movie.actors;
     return (
-        <Container className="my-md-5 pb-5">
+        <Container className="pt-5 mt-5">
             {movie ? (
                 <Card className="mb-3 border-0 rounded">
                     <Row noGutters>
@@ -69,14 +69,19 @@ const MovieDetail = () => {
                                 </Card.Text>
                                 <Card.Text>
                                     {actors.map((actor, index) => (
-                                        <span className="text-muted">
-                                            {actor}
+                                        <span
+                                            className="text-muted"
+                                            key={index}
+                                        >
+                                            {actor.name}{" "}
+                                            {/* Use the 'name' property of the actor object */}
                                             {index < actors.length - 1
                                                 ? ", "
                                                 : ""}
                                         </span>
                                     ))}
                                 </Card.Text>
+
                                 <Card.Text>{movie.overview}</Card.Text>
                                 <Card.Text>
                                     <strong>Rating:</strong>

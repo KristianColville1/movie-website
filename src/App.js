@@ -52,7 +52,8 @@ function App() {
                             />
                         ))
                     }
-                    <Route path="/movie/:id" element={<MovieDetail/>} />
+                    <Route path="/movie/:id" element={<MovieDetail />} />
+                    <Route path="/genre/:genreId" element={<Genre />} />
                 </Routes>
                 <MobileNav
                     onSignIn={() => setShowSignInModal(true)}
