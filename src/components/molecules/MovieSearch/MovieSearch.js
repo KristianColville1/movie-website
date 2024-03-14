@@ -99,9 +99,14 @@ useEffect(() => {
                         <div className="search-results-column">
                             <h5>Genres</h5>
                             {filteredGenres.map((genre, index) => (
-                                <div key={index} className="search-result-item">
+                                <Link
+                                    to={`/genre/${genre}`}
+                                    key={index}
+                                    className="search-result-item d-block text-decoration-none p-2"
+                                    onClick={handleLinkClick}
+                                >
                                     {genre}
-                                </div>
+                                </Link>
                             ))}
                         </div>
                         <div className="search-results-column">

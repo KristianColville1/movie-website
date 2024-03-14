@@ -15,7 +15,7 @@ import FormInput from "./components/molecules/FormInput/FromInput";
 import { MovieProvider } from "./context/MovieContext";
 import MovieDetail from "./pages/MovieDetail/MovieDetail";
 import Footer from "./components/organisms/Footer/Footer";
-
+import Genre from "./pages/Genre/Genre";
 /**
  *
  * Responsible for handling the app and running the router for the different content on the site
@@ -53,7 +53,7 @@ function App() {
                         ))
                     }
                     <Route path="/movie/:id" element={<MovieDetail />} />
-                    <Route path="/genre/:genreId" element={<Genre />} />
+                    <Route path="/genre/:genreName" element={<Genre />} />
                 </Routes>
                 <MobileNav
                     onSignIn={() => setShowSignInModal(true)}

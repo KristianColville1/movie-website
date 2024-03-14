@@ -1,5 +1,7 @@
 import React from "react";
 import Slider from "react-slick";
+import { Link } from "react-router-dom";
+
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import "./MovieSlider.css";
@@ -41,10 +43,13 @@ const MovieSlider = ({ movies }) => {
     return (
         <Slider {...settings} className="movie-slider">
             {movies.map((movie) => (
-                <div key={movie.id}>
-                    <img src={`https://image.tmdb.org/t/p/w500/${movie.backdrop_path}`} alt={movie.title}/>
+                <Link to={`/movie/${movie.id}`} key={movie.id} className="text-decoration-none">
+                    <img
+                        src={`https://image.tmdb.org/t/p/w500/${movie.backdrop_path}`}
+                        alt={movie.title}
+                    />
                     <p className="bg-dark mt-0 pt-0">{movie.title}</p>
-                </div>
+                </Link>
             ))}
         </Slider>
     );

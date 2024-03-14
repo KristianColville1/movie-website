@@ -3,6 +3,7 @@ import Container from "react-bootstrap/Container";
 import { Button } from "react-bootstrap";
 import { useMovies } from "../../context/MovieContext";
 import MovieSlider from "../../components/molecules/MovieSlider/MovieSlider";
+import { Link } from "react-router-dom";
 import "./Home.css";
 
 const Home = () => {
@@ -43,36 +44,34 @@ const Home = () => {
                         <div className="movie-contents">
                             <h1 className="movie-title">{movieInfo.title}</h1>
                             <p className="movie-tagline">{movieInfo.tagline}</p>
-                            <Button
-                                variant="primary"
-                                size="lg"
-                                className="rent-button"
+                            <Link
+                                to={`/movie/${movieInfo.id}`}
+                                key={movieInfo.id}
                             >
-                                Rent Now
-                            </Button>
-                            <Button
-                                variant="secondary"
-                                size="lg"
-                                className="trailer-button"
-                            >
-                                Watch Trailer
-                            </Button>
+                                {" "}
+                                <Button
+                                    variant="info"
+                                    size="lg"
+                                    className="rent-button"
+                                >
+                                    More Info
+                                </Button>
+                            </Link>
                         </div>
                     )}
                 </Container>
             </Container>
 
-                <section className="py-5">
-                    <h2 className="text-white text-center">Trending Now</h2>
-                    <MovieSlider movies={trendingMovies} />
+            <section className="py-5">
+                <h2 className="text-white text-center">Trending Now</h2>
+                <MovieSlider movies={trendingMovies} />
 
-                    <h2 className="text-white text-center">New Releases</h2>
-                    <MovieSlider movies={newReleases} />
+                <h2 className="text-white text-center">New Releases</h2>
+                <MovieSlider movies={newReleases} />
 
-                    <h2 className="text-white text-center">Other World</h2>
-                    <MovieSlider movies={classics} />
-                </section>
-
+                <h2 className="text-white text-center">Other World</h2>
+                <MovieSlider movies={classics} />
+            </section>
         </Container>
     );
 };

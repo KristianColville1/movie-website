@@ -25,7 +25,7 @@ const MovieDetail = ({children}) => {
     const youtubeId = movie.trailer.split("v=")[1];
     const actors = movie.actors;
     return (
-        <Container className="pt-5 mt-5">
+        <Container className="pt-5 mt-5 min-vh-100">
             {movie ? (
                 <Card className="mb-3 border-0 rounded">
                     <Row noGutters>
