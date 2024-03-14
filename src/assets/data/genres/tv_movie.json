@@ -1,0 +1,848 @@
+[
+    {
+        "id": 885303,
+        "slug": "the-voyagers",
+        "title": "The Voyagers",
+        "overview": "Time jump to 1939 with teenager Max and his friends as they try to navigate Mussolini's Rome and find Max's missing brother.",
+        "release_date": "2022-11-21",
+        "backdrop_path": "\/xStFwzqBWDRyUz3BldisuUY7kjW.jpg",
+        "rating": 5.236,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/38N7GRJLu7IWyEdil96YobJ5LWM.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=wYjoMjwS12k",
+        "genres": [
+            "Fantasy",
+            "Adventure",
+            "TV Movie"
+        ]
+    },
+    {
+        "id": 506574,
+        "slug": "descendants-3",
+        "title": "Descendants 3",
+        "overview": "The teenagers of Disney's most infamous villains return to the Isle of the Lost to recruit a new batch of villainous offspring to join them at Auradon Prep.",
+        "release_date": "2019-08-02",
+        "backdrop_path": "\/p0boFm5Z1HzO6LHMBuLYUM48iVV.jpg",
+        "rating": 7.726,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/7IRy0iHdaS0JI3ng4ZYlk5gLSFn.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=8jpvcD_LkK4",
+        "genres": [
+            "Family",
+            "TV Movie",
+            "Adventure",
+            "Fantasy"
+        ]
+    },
+    {
+        "id": 928833,
+        "slug": "craig-before-the-creek",
+        "title": "Craig Before the Creek",
+        "overview": "Before he was Craig of the Creek, he was just Craig \u2014 a new kid in a new town. All Craig wants is to go back to his old friends at his old home. But when he learns that the nearby creek is hiding a lost treasure that could make his wish come true, Craig sets off on a journey to find it \u2014 navigating the perilous suburban wilderness, forging new friendships, all while being pursued by a fearsome band of pirates who are bent on destroying the Creek itself.",
+        "release_date": "2023-12-11",
+        "backdrop_path": "\/kB20saHQL6hXyd00vAvHmA7JYLg.jpg",
+        "rating": 7.568,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/4gDNAsYbCOP3z4xyM0IhbPl5Rq3.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=L4u5gOdfZpM",
+        "genres": [
+            "Animation",
+            "Family",
+            "TV Movie",
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+        ]
+    },
+    {
+        "id": 877703,
+        "slug": "teen-wolf:-the-movie",
+        "title": "Teen Wolf: The Movie",
+        "overview": "The wolves are howling once again, as a terrifying ancient evil emerges in Beacon Hills. Scott McCall, no longer a teenager yet still an Alpha, must gather new allies and reunite trusted friends to fight back against this powerful and deadly enemy.",
+        "release_date": "2023-01-18",
+        "backdrop_path": "\/96SADhPnkXnVN3KaRKsDeBovLcm.jpg",
+        "rating": 7.549,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/wAkpPm3wcHRqZl8XjUI3Y2chYq2.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=3NbHKvuvI5A",
+        "genres": [
+            "Action",
+            "Fantasy",
+            "TV Movie"
+        ]
+    },
+    {
+        "id": 16237,
+        "slug": "teen-titans:-trouble-in-tokyo",
+        "title": "Teen Titans: Trouble in Tokyo",
+        "overview": "America's coolest heroes Teen Titans head to Japan as they spring into action when a new threat, the dichromatic ninja Saico-Tek, appears in their city. A chase across the city ensues, ending at Titans Tower. Saico-Tek is interrogated by Robin with the aid of a translation program, and reveals the identity of the one who sent him. The ninja then escapes his bonds and vanishes after destroying a fire sprinkler, and the Titans' only lead is to search for his mysterious master - the shadowy figure known as Brushogun.",
+        "release_date": "2006-09-15",
+        "backdrop_path": "\/fey7NzJ61KAAVPfUgcpaahW5gZ5.jpg",
+        "rating": 7.73,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/4wMlDE1HzkVyYeDKuY1oDOWQlN2.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=zPQei7nDZUE",
+        "genres": [
+            "Animation",
+            "Action",
+            "Science Fiction",
+            "TV Movie"
+        ]
+    },
+    {
+        "id": 417320,
+        "slug": "descendants-2",
+        "title": "Descendants 2",
+        "overview": "When the pressure to be royal becomes too much for Mal, she returns to the Isle of the Lost where her archenemy Uma, Ursula's daughter, has taken her spot as self-proclaimed queen.",
+        "release_date": "2017-07-21",
+        "backdrop_path": "\/mLihPIodzSenkZtiUauDy4e9hRs.jpg",
+        "rating": 7.365,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/qoNlGfQmFZ37Gf5fRBaCTLlOZtx.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=Kmpm9c2hqvM",
+        "genres": [
+            "Family",
+            "Music",
+            "Fantasy",
+            "TV Movie",
+            "Adventure",
+            "Action",
+            "Romance"
+        ]
+    },
+    {
+        "id": 115290,
+        "slug": "blue-lagoon:-the-awakening",
+        "title": "Blue Lagoon: The Awakening",
+        "overview": "Two high school students become stranded on a tropical island and must rely on each other for survival. They learn more about themselves and each other while falling in love.",
+        "release_date": "2012-06-16",
+        "backdrop_path": "\/7VSh4KRB38gs4t4Dlub8GwXNUub.jpg",
+        "rating": 6.461,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/ptsBY9Aqo4Mn0V1krI5s8WfFxzW.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=0pMqAbdvrfo",
+        "genres": [
+            "Drama",
+            "Adventure",
+            "Romance",
+            "TV Movie"
+        ]
+    },
+    {
+        "id": 801335,
+        "slug": "girl-in-the-basement",
+        "title": "Girl in the Basement",
+        "overview": "Sara is a teen girl who is looking forward to her 18th birthday to move away from her controlling father Don. But before she could even blow out the candles, Don imprisons her in the basement of their home.",
+        "release_date": "2021-02-27",
+        "backdrop_path": "\/fvUmnxS9xaUUl0eWygvcA1hPdTV.jpg",
+        "rating": 7.71,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/qmddUxRwbsxHa7oEXm4PWh1KZe8.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=a7VGn_0Vsx8",
+        "genres": [
+            "Thriller",
+            "Crime",
+            "TV Movie"
+        ]
+    },
+    {
+        "id": 71689,
+        "slug": "phineas-and-ferb-the-movie:-across-the-2nd-dimension",
+        "title": "Phineas and Ferb The Movie: Across the 2nd Dimension",
+        "overview": "Phineas and Ferb get trapped in an alternate dimension where the evil Doofenshmirtz rules the tri-state area. They must find a way back home with the help of their pet platypus named Perry, who they discover is a secret agent.",
+        "release_date": "2011-08-05",
+        "backdrop_path": "\/qXxENmYYPSs4TnPjU8gfnhUo714.jpg",
+        "rating": 7,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/updMFSOZwEftfkJRpozwBlRlYI2.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=jwfNAPIfip4",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Family",
+            "TV Movie",
+            "Adventure",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 277217,
+        "slug": "descendants",
+        "title": "Descendants",
+        "overview": "A present-day idyllic kingdom where the benevolent teenage son of King Adam and Queen Belle offers a chance of redemption for the troublemaking offspring of Disney's classic villains: Cruella De Vil (Carlos), Maleficent (Mal), the Evil Queen (Evie) and Jafar (Jay).",
+        "release_date": "2015-07-31",
+        "backdrop_path": "\/wy3ItrIw4DmLFxvFK5LM6FPwdQw.jpg",
+        "rating": 7.114,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/65DkgHPSLVjgr6IYkpY9Aqqqid5.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=iQLFxkGyrRk",
+        "genres": [
+            "Family",
+            "Music",
+            "Adventure",
+            "Comedy",
+            "Fantasy",
+            "TV Movie"
+        ]
+    },
+    {
+        "id": 726684,
+        "slug": "miraculous-world:-shanghai-\u2013-the-legend-of-ladydragon",
+        "title": "Miraculous World: Shanghai \u2013 The Legend of Ladydragon",
+        "overview": "On school break, Marinette heads to Shanghai to meet Adrien. But after arriving, Marinette loses all her stuff, including the Miraculous that allows her to turn into Ladybug!",
+        "release_date": "2021-05-15",
+        "backdrop_path": "\/rlNnwObbMu5G2FaOUlacnUIdIIA.jpg",
+        "rating": 7.9,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/qQ0VKsGRQ2ofAmswGNzZnvC1xPE.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=TF63WzwuBcM",
+        "genres": [
+            "Animation",
+            "Fantasy",
+            "Action",
+            "TV Movie"
+        ]
+    },
+    {
+        "id": 438747,
+        "slug": "tangled:-before-ever-after",
+        "title": "Tangled: Before Ever After",
+        "overview": "Rapunzel grapples with the responsibilities of being a princess and the overprotective ways of her father. While she wholeheartedly loves Eugene, Rapunzel does not share his immediate desire to get married and settle down within the castle walls. Determined to live life on her own terms, she and her tough-as-nails Lady-in-Waiting Cassandra embark on a secret adventure where they encounter mystical rocks that magically cause Rapunzel's long blonde hair to grow back. Impossible to break and difficult to hide, Rapunzel must learn to embrace her hair and all that it represents.",
+        "release_date": "2017-03-10",
+        "backdrop_path": "\/bAHwlrxTvC37wU86kl4D2QJkMfj.jpg",
+        "rating": 6.803,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/zj82L9maBSW6CAVZltBoFBSuTk1.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=X0P9ni0hTI4",
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Family",
+            "Fantasy",
+            "TV Movie"
+        ]
+    },
+    {
+        "id": 755812,
+        "slug": "miraculous-world:-new-york,-united-heroez",
+        "title": "Miraculous World: New York, United HeroeZ",
+        "overview": "Marinette\u2019s class is headed to New York, the city of superheroes, for French-American Friendship Week. The whole class is there...except Adrien, whose father refuses to let him go!",
+        "release_date": "2020-09-25",
+        "backdrop_path": "\/2BZ7PC9aISswNXV2tugmjGiriaB.jpg",
+        "rating": 8.1,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/9YbyvcrHmY2SVbdfXpb8mC4Fy0g.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=952fktHweJs",
+        "genres": [
+            "Animation",
+            "TV Movie",
+            "Fantasy",
+            "Action"
+        ]
+    },
+    {
+        "id": 50393,
+        "slug": "kung-fu-panda-holiday",
+        "title": "Kung Fu Panda Holiday",
+        "overview": "The Winter Feast is Po's favorite holiday. Every year he and his father hang decorations, cook together, and serve noodle soup to the villagers. But this year Shifu informs Po that as Dragon Warrior, it is his duty to host the formal Winter Feast at the Jade Palace. Po is caught between his obligations as the Dragon Warrior and his family traditions: between Shifu and Mr. Ping.",
+        "release_date": "2010-11-26",
+        "backdrop_path": "\/5qEbMgADycx8uk3Lyb6ybgozniN.jpg",
+        "rating": 6.943,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/vJv3pI8pyS13rLjy0ok7a3BiE0a.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=S2JQJVdV8HQ",
+        "genres": [
+            "Animation",
+            "Family",
+            "TV Movie",
+            "Comedy",
+            "Fantasy"
+        ]
+    },
+    {
+        "id": 12536,
+        "slug": "home-alone-4",
+        "title": "Home Alone 4",
+        "overview": "Kevin McCallister's parents have split up. Now living with his mom, he decides to spend Christmas with his dad at the mansion of his father's rich girlfriend, Natalie. Meanwhile robber Marv Merchants, one of the villains from the first two movies, partners up with a new criminal named Vera to hit Natalie's mansion.",
+        "release_date": "2002-11-03",
+        "backdrop_path": "\/tjmBUrys7BkctrkontuoiUiEZ0D.jpg",
+        "rating": 4.501,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/qRktvMOO2QaCL7gvNyvZDoxPOZj.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=D-s9SqcXAWI",
+        "genres": [
+            "Comedy",
+            "Family",
+            "TV Movie"
+        ]
+    },
+    {
+        "id": 375846,
+        "slug": "bad-sister",
+        "title": "Bad Sister",
+        "overview": "As a top student at St. Adeline's Catholic Boarding School, Zoe senses that something is not quite right about the school's new nun-- a sense proven to be true when it is revealed the \"good' nun is an imposter with a fatal attraction to Zoe's brother.",
+        "release_date": "2015-08-24",
+        "backdrop_path": "\/8Sh04np6IA2shSycI9uy5xrjC6I.jpg",
+        "rating": 6.637,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/jKrIlgfJPIWNeowaOZPBZuOPmq0.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=SU-JqbOojt4",
+        "genres": [
+            "Thriller",
+            "TV Movie"
+        ]
+    },
+    {
+        "id": 599521,
+        "slug": "z-o-m-b-i-e-s-2",
+        "title": "Z-O-M-B-I-E-S 2",
+        "overview": "Zed and Addison are back at Seabrook High, where, after a groundbreaking semester, they continue to steer both their school and community toward unity. But the arrival of a new group of outsiders \u2013 mysterious werewolves \u2013 threatens to shake up the newfound peace and causes a rift in Zed and Addison\u2019s budding romance.",
+        "release_date": "2020-06-13",
+        "backdrop_path": "\/5i9G9oQdnshtpgJpa7HEGdvjza7.jpg",
+        "rating": 7.579,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/frTwEqSMWQ27oQeuiBO5PT0ZNqq.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=3K-7W9KSi5o",
+        "genres": [
+            "Fantasy",
+            "Romance",
+            "TV Movie"
+        ]
+    },
+    {
+        "id": 594328,
+        "slug": "phineas-and-ferb-the-movie:-candace-against-the-universe",
+        "title": "Phineas and Ferb The Movie: Candace Against the Universe",
+        "overview": "Phineas and Ferb travel across the galaxy to rescue their older sister Candace, who has been abducted by aliens and taken to a utopia in a far-off planet, free of her pesky little brothers.",
+        "release_date": "2020-08-28",
+        "backdrop_path": "\/lkeBhXGJFRlhI7cBWn8LQQAdZqK.jpg",
+        "rating": 7.265,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/n6hptKS7Y0ZjkYwbqKOK3jz9XAC.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=w7FySIfypLc",
+        "genres": [
+            "Family",
+            "Animation",
+            "Science Fiction",
+            "Comedy",
+            "TV Movie"
+        ]
+    },
+    {
+        "id": 1039960,
+        "slug": "monster-high-2",
+        "title": "Monster High 2",
+        "overview": "As they enter sophomore year at Monster High, Clawdeen Wolf, Draculaura and Frankie Stein face new students, new powers, and an even bigger threat that could not only tear their friendship apart but could change the world forever.",
+        "release_date": "2023-10-05",
+        "backdrop_path": "\/1CbExVP0bgrTshP7DvnDdwqryYL.jpg",
+        "rating": 7.136,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/mClrCMfGpOqTSiuCTSK67WZ92x5.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=Mz_VxktIEaA",
+        "genres": [
+            "Family",
+            "Fantasy",
+            "Science Fiction",
+            "TV Movie"
+        ]
+    },
+    {
+        "id": 387893,
+        "slug": "ice-age:-the-great-egg-scapade",
+        "title": "Ice Age: The Great Egg-Scapade",
+        "overview": "A harried prehistoric bird mother entrusts her precious, soon-to-hatch egg to Sid. When she recommends him to her neighbours, business booms at his new egg-sitting service. However, dastardly pirate bunny, Squint, who is seeking revenge on the herd, steals, camouflages and hides all the eggs. Once again, with Squint\u2019s twin brother assisting, Manny, Diego and the rest of the gang come to the rescue and take off on a daring mission that turns into the world\u2019s first Easter egg hunt.",
+        "release_date": "2016-03-19",
+        "backdrop_path": "\/uC0F3e3thSjuCLvu0ELCNRVuf7a.jpg",
+        "rating": 6.367,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/ysQqYp9G37Q114Nc6uvCHbDmaj6.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=74tcmiPJt_o",
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Family",
+            "TV Movie"
+        ]
+    },
+    {
+        "id": 537061,
+        "slug": "steven-universe:-the-movie",
+        "title": "Steven Universe: The Movie",
+        "overview": "Two years after bringing peace to the galaxy, Steven Universe sees his past come back to haunt him in the form of a deranged Gem who wants to destroy the Earth.",
+        "release_date": "2019-09-02",
+        "backdrop_path": "\/dW7F0nNVbjFesNKdw950GJ07T4p.jpg",
+        "rating": 8.213,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/8mRgpubxHqnqvENK4Bei30xMDvy.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=9FGyVAIRI-4",
+        "genres": [
+            "TV Movie",
+            "Animation",
+            "Adventure",
+            "Comedy",
+            "Fantasy",
+            "Music"
+        ]
+    },
+    {
+        "id": 19543,
+        "slug": "anacondas:-trail-of-blood",
+        "title": "Anacondas: Trail of Blood",
+        "overview": "A genetically created Anaconda, cut in half, regenerates itself into two new aggressive giant snakes, due to the Blood Orchid.",
+        "release_date": "2009-02-27",
+        "backdrop_path": "\/zzJxwLTX5QCWkWsq7RnRhNKFBBo.jpg",
+        "rating": 4.683,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/rCp9VYqvBphiETtC86fGZFSXc63.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=QeNnOMn80K4",
+        "genres": [
+            "Horror",
+            "Fantasy",
+            "Action",
+            "Adventure",
+            "TV Movie"
+        ]
+    },
+    {
+        "id": 79218,
+        "slug": "ice-age:-a-mammoth-christmas",
+        "title": "Ice Age: A Mammoth Christmas",
+        "overview": "When Sid accidentally destroys Manny's heirloom Christmas rock and ends up on Santa's naughty list, he leads a hilarious quest to the North Pole to make things right and ends up making things much worse. Now it's up to Manny and his prehistoric posse to band together and save Christmas for the entire world!",
+        "release_date": "2011-11-24",
+        "backdrop_path": "\/oIreZi8CKwLTFF1dYKSUEjVsje1.jpg",
+        "rating": 6.457,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/ue5417HaDcvgMDusryenwwwZARq.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=Dk1XJF2SX4E",
+        "genres": [
+            "Animation",
+            "Family",
+            "TV Movie"
+        ]
+    },
+    {
+        "id": 299576,
+        "slug": "the-nine-lives-of-christmas",
+        "title": "The Nine Lives of Christmas",
+        "overview": "With Christmas approaching, a handsome fireman afraid of commitment adopts a stray cat and meets a beautiful veterinary student who challenges his decision to remain a confirmed bachelor.",
+        "release_date": "2014-11-08",
+        "backdrop_path": "\/5dutPpjtI5sX8vJAwrVBVdR8bCC.jpg",
+        "rating": 6.715,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/d3Nw4grn02Ca5AmOiRcZLgrAL2k.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=aMoieK9os5M",
+        "genres": [
+            "TV Movie",
+            "Romance",
+            "Drama",
+            "Comedy"
+        ]
+    },
+    {
+        "id": 177888,
+        "slug": "teen-beach-movie",
+        "title": "Teen Beach Movie",
+        "overview": "Life's a beach for surfers Brady and McKenzie \u2013 until a rogue wave magically transports them inside the classic '60s beach party flick, \"Wet Side Story,\" where a full-blown rivalry between bikers and surfers threatens to erupt. There, amidst a sea of surfing, singing and dancing, Brady and Mack accidentally change the storyline, and the film\u2019s dreamy hero and heroine fall for them instead of for each other!",
+        "release_date": "2013-08-07",
+        "backdrop_path": "\/znjVe07uk6VLIMK9Lsd2kGsq97B.jpg",
+        "rating": 6.889,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/ywX8INXLshhf94pyxc8wE2MO4aT.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=R3MnamU4TfM",
+        "genres": [
+            "Family",
+            "Music",
+            "TV Movie",
+            "Comedy"
+        ]
+    },
+    {
+        "id": 13649,
+        "slug": "high-school-musical-2",
+        "title": "High School Musical 2",
+        "overview": "The East High Wildcats are gearing up for big fun as they land the coolest summer jobs imaginable. Troy, Gabriella, Chad, and Taylor have scored sweet gigs at the Lava Springs Country Club owned by Sharpay and Ryan's family. Sharpay's first rule of business: Get Troy. As Troy experiences a life of privilege he's never known, will he give up the Wildcats and Gabriella to rise to the top?",
+        "release_date": "2007-08-17",
+        "backdrop_path": "\/aS7M839gMmcokvUwNM3DFqOLqzu.jpg",
+        "rating": 6.528,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/la2kiVWDm2vuB4APZDgCCmuBh4K.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=8UiHFHF-Nqk",
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Family",
+            "Music",
+            "Romance",
+            "TV Movie"
+        ]
+    },
+    {
+        "id": 677638,
+        "slug": "we-bare-bears:-the-movie",
+        "title": "We Bare Bears: The Movie",
+        "overview": "When Grizz, Panda, and Ice Bear's love of food trucks and viral videos get out of hand, the brothers are now chased away from their home and embark on a trip to Canada, where they can live in peace.",
+        "release_date": "2020-06-30",
+        "backdrop_path": "\/pO1SnM5a1fEsYrFaVZW78Wb0zRJ.jpg",
+        "rating": 7.8,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/kPzcvxBwt7kEISB9O4jJEuBn72t.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=0ZNsLy2IwcY",
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Family",
+            "Comedy",
+            "TV Movie"
+        ]
+    },
+    {
+        "id": 11508,
+        "slug": "addams-family-reunion",
+        "title": "Addams Family Reunion",
+        "overview": "The Addams Family goes on a search for their relatives. Gomez and Morticia are horrified to discover that Grandpa and Grandma Addams have a disease that is slowly turning them \"normal\". The only chance they have of a cure is to find a family member hoping that they know a home remedy.",
+        "release_date": "1998-12-24",
+        "backdrop_path": "\/hz95xUI0MhXTpRGjfnT0HkDijtV.jpg",
+        "rating": 4.789,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/XtfNBKnLDpg1waJhDF5FAd5OEX.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=tZbTmPJrCMs",
+        "genres": [
+            "Comedy",
+            "Horror",
+            "Fantasy",
+            "Family",
+            "TV Movie"
+        ]
+    },
+    {
+        "id": 10947,
+        "slug": "high-school-musical",
+        "title": "High School Musical",
+        "overview": "Troy, the popular captain of the basketball team, and Gabriella, the brainy and beautiful member of the academic club, break all the rules of East High society when they secretly audition for the leads in the school's musical. As they reach for the stars and follow their dreams, everyone learns about acceptance, teamwork, and being yourself.",
+        "release_date": "2006-01-20",
+        "backdrop_path": "\/2p1nyBVSEBiCTrrZeVSV9nIsqHr.jpg",
+        "rating": 6.569,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/bg1eLo2OjySRYKaTO89ZDsqUcJ4.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=zL4ZEWYsmuw",
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Family",
+            "Music",
+            "Romance",
+            "TV Movie"
+        ]
+    },
+    {
+        "id": 134375,
+        "slug": "home-alone:-the-holiday-heist",
+        "title": "Home Alone: The Holiday Heist",
+        "overview": "10-year-old Finn is terrified to learn his family is relocating from sunny California to Maine in the scariest house he has ever seen! Convinced that his new house is haunted, Finn sets up a series of elaborate traps to catch the \u201cghost\u201d in action. Left home alone with his sister while their parents are stranded across town, Finn\u2019s traps catch a new target \u2013 a group of thieves who have targeted Finn\u2019s house.",
+        "release_date": "2012-12-03",
+        "backdrop_path": "\/4ydw24y7Wd0UJZOrd2FuRFqkfs.jpg",
+        "rating": 5.233,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/6JPrRC0JPM06y17pUXD6w1xMvKi.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=EvJy9gROP4U",
+        "genres": [
+            "Comedy",
+            "Family",
+            "TV Movie"
+        ]
+    },
+    {
+        "id": 14008,
+        "slug": "cadet-kelly",
+        "title": "Cadet Kelly",
+        "overview": "Hyperactive teenager Kelly is enrolled into a military school when her new stepfather becomes the Commandant. At first she has problems fitting in and taking orders until she tries out for the drill team.",
+        "release_date": "2002-03-07",
+        "backdrop_path": "\/m57sjSxbsPt1Y9H5IjujsMdsBmK.jpg",
+        "rating": 6.2,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/eKtznndgJoVG9S9UENc7kHqmhgM.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=8mIug513ot0",
+        "genres": [
+            "Family",
+            "TV Movie",
+            "Comedy"
+        ]
+    },
+    {
+        "id": 39345,
+        "slug": "casper-meets-wendy",
+        "title": "Casper Meets Wendy",
+        "overview": "When a warlock threatens Wendy the Good Little Witch, she and her aunts hide out at a resort where Casper the Ghost is vacationing with his uncles. Although Casper and Wendy are told ghosts and witches don't get along, the two are kindred spirits! This spooky family-friendly adventure finds Casper and Wendy bridging the ghost-witch divide to battle the warlock who is intent on destroying Wendy.",
+        "release_date": "1998-09-10",
+        "backdrop_path": "\/uttOGgMYQJqwxL6OohWHFk6rpW7.jpg",
+        "rating": 6,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/zYJWQvee9CN6nc9En2KUWewHGHr.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=DqV7A6V1xZE",
+        "genres": [
+            "Family",
+            "Fantasy",
+            "Comedy",
+            "TV Movie"
+        ]
+    },
+    {
+        "id": 19458,
+        "slug": "princess-protection-program",
+        "title": "Princess Protection Program",
+        "overview": "When her nation is invaded, a young princess is taken into the Princess Protection Program. She is relocated to Louisiana, where she stays with a covert agent and his tomboyish daughter, and must learn how to behave like an ordinary teenager.",
+        "release_date": "2010-02-13",
+        "backdrop_path": "\/rf0QbNm135ZHRZzUf7djUPm2pFw.jpg",
+        "rating": 6.636,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/aKs0ufPp0agLptnhEutDOlfwfdH.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=g-6pg6TnArI",
+        "genres": [
+            "Family",
+            "TV Movie",
+            "Comedy"
+        ]
+    },
+    {
+        "id": 9288,
+        "slug": "dungeons-&-dragons:-wrath-of-the-dragon-god",
+        "title": "Dungeons & Dragons: Wrath of the Dragon God",
+        "overview": "Due to a curse from his former master Profion, Damodar survived his death by Ridley Freeborn as an undead entity in pursuit of an evil artifact for some hundred years, so that he might be capable of unleashing unstoppable destruction on Izmir and the descendants of those who caused his demise.",
+        "release_date": "2005-09-01",
+        "backdrop_path": "\/eBJDAJmhFVLINV78sB0VkvCsVkB.jpg",
+        "rating": 4.5,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/m2lMUxyFDi1RXogMffLfQW3CjTE.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=NdShvRiPEUA",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "TV Movie"
+        ]
+    },
+    {
+        "id": 809107,
+        "slug": "z-o-m-b-i-e-s-3",
+        "title": "Z-O-M-B-I-E-S 3",
+        "overview": "Zed and Addison are beginning their final year at Seabrook High in the town that\u2019s become a safe haven for monsters and humans alike. Zed is anticipating an athletic scholarship that will make him the first Zombie to attend college, while Addison is gearing up for Seabrook\u2019s first international cheer-off competition. Then suddenly, extraterrestrial beings appear around Seabrook, provoking something other than friendly competition.",
+        "release_date": "2022-07-09",
+        "backdrop_path": "\/wNQpfAZkySbinb93qVwWIWaot1x.jpg",
+        "rating": 7.47,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/vqzdv4nArhuZxd7il0boKaVxQMF.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=EGsoC0bWakU",
+        "genres": [
+            "Music",
+            "Fantasy",
+            "Comedy",
+            "Science Fiction",
+            "Family",
+            "TV Movie"
+        ]
+    },
+    {
+        "id": 61717,
+        "slug": "wendy-wu:-homecoming-warrior",
+        "title": "Wendy Wu: Homecoming Warrior",
+        "overview": "It is the story of an average, popular American teenager named Wendy Wu who discovers that in order to win the coveted crown she must first learn the way of the warrior. Wendy Wu has a one track mind, and that track leads directly to the title of homecoming queen -- no unscheduled stops, and no unnecessary detours. When a mysterious Chinese monk named Shen arrives to mold Wendy into a fearless kung fu warrior, however, her royal aspirations suddenly jump the track as she desperately attempts to juggle her boyfriend, her homework, and of course, the fierce competition to become homecoming queen. Now, as Wendy begins to train her mind, body, and spirit in the ancient tradition of the martial arts and her inner warrior gradually begins to emerge, the girl who once obsessed over popularity finally begins to put that popularity into perspective as she gradually realizes what truly matters in life.",
+        "release_date": "2006-06-16",
+        "backdrop_path": "\/kuXldgiMg0YZMD8XV4n2orFa1FX.jpg",
+        "rating": 6.2,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/6EfY13SHzvpwXg2KPixnbCXuUoR.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=n6ZILYoI5nE",
+        "genres": [
+            "Family",
+            "Action",
+            "Adventure",
+            "TV Movie"
+        ]
+    },
+    {
+        "id": 61717,
+        "slug": "wendy-wu:-homecoming-warrior",
+        "title": "Wendy Wu: Homecoming Warrior",
+        "overview": "It is the story of an average, popular American teenager named Wendy Wu who discovers that in order to win the coveted crown she must first learn the way of the warrior. Wendy Wu has a one track mind, and that track leads directly to the title of homecoming queen -- no unscheduled stops, and no unnecessary detours. When a mysterious Chinese monk named Shen arrives to mold Wendy into a fearless kung fu warrior, however, her royal aspirations suddenly jump the track as she desperately attempts to juggle her boyfriend, her homework, and of course, the fierce competition to become homecoming queen. Now, as Wendy begins to train her mind, body, and spirit in the ancient tradition of the martial arts and her inner warrior gradually begins to emerge, the girl who once obsessed over popularity finally begins to put that popularity into perspective as she gradually realizes what truly matters in life.",
+        "release_date": "2006-06-16",
+        "backdrop_path": "\/kuXldgiMg0YZMD8XV4n2orFa1FX.jpg",
+        "rating": 6.2,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/6EfY13SHzvpwXg2KPixnbCXuUoR.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=n6ZILYoI5nE",
+        "genres": [
+            "Family",
+            "Action",
+            "Adventure",
+            "TV Movie"
+        ]
+    },
+    {
+        "id": 278774,
+        "slug": "zapped",
+        "title": "Zapped",
+        "overview": "Zoey is a talented dancer whose organized life is rudely disrupted when she moves in with her new step-dad and three step-brothers, until she discovers a dog-training app that can get boys to obey her every command. But she soon learns that it isn't the cure-all she had hoped for.",
+        "release_date": "2014-06-27",
+        "backdrop_path": "\/s7tRhQ8oDJSdsy3YvDp04KtK9nC.jpg",
+        "rating": 6.126,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/u33QFfbvChD5LNcuZD0LsSVnoa1.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=vcqcmib3eKI",
+        "genres": [
+            "TV Movie",
+            "Comedy",
+            "Family"
+        ]
+    },
+    {
+        "id": 379170,
+        "slug": "sherlock:-the-abominable-bride",
+        "title": "Sherlock: The Abominable Bride",
+        "overview": "Sherlock Holmes and Dr. Watson find themselves in 1890s London in this holiday special.",
+        "release_date": "2016-01-01",
+        "backdrop_path": "\/gGeoc8rFfPRIakXNttoFU85YVwv.jpg",
+        "rating": 7.857,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/hibE8cyZs2Bm0o4WaWd1pppvjO2.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=V8LWfc29J_E",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery",
+            "TV Movie"
+        ]
+    },
+    {
+        "id": 325189,
+        "slug": "teen-beach-2",
+        "title": "Teen Beach 2",
+        "overview": "When characters from the movie musical \u201cWet Side Story\u201d get stuck in the real world, teens Brady and Mack must find a way to return them home.",
+        "release_date": "2015-06-26",
+        "backdrop_path": "\/vBBI4eAc9Hs344kko5eqPZTajLl.jpg",
+        "rating": 6.759,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/3h1QyNjuuD6fwuMoFR8IG206Dan.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=qd_Qps26JxY",
+        "genres": [
+            "TV Movie",
+            "Family",
+            "Comedy",
+            "Fantasy"
+        ]
+    },
+    {
+        "id": 138038,
+        "slug": "girl-vs.-monster",
+        "title": "Girl vs. Monster",
+        "overview": "Skylar finds out that her parents are monster hunters after she accidentally releases some monsters from a secret containment chamber; so she and her techno friends must recapture all the monsters and also save her mom and dad from these monsters who are out for revenge.",
+        "release_date": "2012-10-12",
+        "backdrop_path": "\/lM8PfMK1sgLPUkznjaqP0NupPKS.jpg",
+        "rating": 6.334,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/9CMRe7lE9bZxgz9cEwkPHmF8yc3.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=2Gg34UrFqWA",
+        "genres": [
+            "Family",
+            "Comedy",
+            "Science Fiction",
+            "TV Movie"
+        ]
+    },
+    {
+        "id": 671583,
+        "slug": "upside-down-magic",
+        "title": "Upside-Down Magic",
+        "overview": "Nory and her best friend Reina enter the Sage Academy for Magical Studies, where Nory\u2019s unconventional powers land her in a class for those with wonky, or \u201cupside-down,\u201d magic. Undaunted, Nory sets out to prove that that upside-down magic can be just as powerful as right-side-up.",
+        "release_date": "2020-07-31",
+        "backdrop_path": "\/vam9VHLZl8tqNwkp1zjEAxIOrkk.jpg",
+        "rating": 7.1,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/h9vTJ78h0SASYUxg4jV0AQ00oF2.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=sQ3PiZTEOBg",
+        "genres": [
+            "Fantasy",
+            "Family",
+            "TV Movie"
+        ]
+    },
+    {
+        "id": 12219,
+        "slug": "12-angry-men",
+        "title": "12 Angry Men",
+        "overview": "During the trial of a man accused of his father's murder, a lone juror takes a stand against the guilty verdict handed down by the others as a result of their preconceptions and prejudices.",
+        "release_date": "1997-08-17",
+        "backdrop_path": "\/rTf1rucbSn8IaW4AU11lvBk3JmX.jpg",
+        "rating": 7.674,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/whDdYx3lh1LHTN0VlPFt51fX29g.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=s07eOhWSqQc",
+        "genres": [
+            "Crime",
+            "Drama",
+            "TV Movie"
+        ]
+    },
+    {
+        "id": 21481,
+        "slug": "twitches",
+        "title": "Twitches",
+        "overview": "Twins separated at birth, Camryn and Alex meet by chance for the first time on their 21st birthday and discover they're witches with the power to save their homeland of Coventry from the evil that threatens it. But when Camryn leaves Alex to face the darkness alone, will Coventry be doomed? Or will the sisters multiply their magic by standing together?",
+        "release_date": "2005-10-14",
+        "backdrop_path": "\/biWonOe1GrPEMqvXhr7FbLox6xt.jpg",
+        "rating": 6.736,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/oQ2wWWefU2flwuPgdIkLGhPq6Tk.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=W4ruy5AYbkw",
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Family",
+            "Fantasy",
+            "TV Movie"
+        ]
+    },
+    {
+        "id": 359983,
+        "slug": "the-lion-guard:-return-of-the-roar",
+        "title": "The Lion Guard: Return of the Roar",
+        "overview": "Set in the African savannah, the film follows Kion as he assembles the members of the 'Lion Guard'. Throughout the film, the diverse team of young animals will learn how to utilize each of their unique abilities to solve problems and accomplish tasks to maintain balance within the Circle of Life, while also introducing viewers to the vast array of animals that populate the prodigious African landscape.",
+        "release_date": "2015-11-22",
+        "backdrop_path": "\/sYbdAWcTqcdLtpAnwIWjrIw6t0r.jpg",
+        "rating": 6.702,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/duqg6CiSik02nSXjiQHo8TcwY4b.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=COG1D2f5ilY",
+        "genres": [
+            "Family",
+            "TV Movie",
+            "Animation"
+        ]
+    },
+    {
+        "id": 359983,
+        "slug": "the-lion-guard:-return-of-the-roar",
+        "title": "The Lion Guard: Return of the Roar",
+        "overview": "Set in the African savannah, the film follows Kion as he assembles the members of the 'Lion Guard'. Throughout the film, the diverse team of young animals will learn how to utilize each of their unique abilities to solve problems and accomplish tasks to maintain balance within the Circle of Life, while also introducing viewers to the vast array of animals that populate the prodigious African landscape.",
+        "release_date": "2015-11-22",
+        "backdrop_path": "\/sYbdAWcTqcdLtpAnwIWjrIw6t0r.jpg",
+        "rating": 6.702,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/duqg6CiSik02nSXjiQHo8TcwY4b.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=COG1D2f5ilY",
+        "genres": [
+            "Family",
+            "TV Movie",
+            "Animation"
+        ]
+    },
+    {
+        "id": 483980,
+        "slug": "z-o-m-b-i-e-s",
+        "title": "Z-O-M-B-I-E-S",
+        "overview": "Two star-crossed freshmen \u2013 a zombie, Zed and a cheerleader, Addison \u2013 each outsiders in their unique ways, befriend each other and work together to show their high school and the Seabrook community what they can achieve when they embrace their differences.",
+        "release_date": "2018-02-16",
+        "backdrop_path": "\/pKhNRxwu90hHw3fOCly9ZiOFxI3.jpg",
+        "rating": 7.3,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/6S9O5U7Ietqh6zTtZhGbhbA3Pze.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=VSC7AjafRPA",
+        "genres": [
+            "Music",
+            "Fantasy",
+            "Comedy",
+            "Romance",
+            "Horror",
+            "TV Movie"
+        ]
+    },
+    {
+        "id": 523931,
+        "slug": "megalodon",
+        "title": "Megalodon",
+        "overview": "A military vessel on the search for an unidentified submersible finds themselves face to face with a giant shark, forced to use only what they have on board to defend themselves from the monstrous beast.",
+        "release_date": "2018-08-10",
+        "backdrop_path": "\/fXFQnOSbybaU9h2kJ3jtRUU4OpA.jpg",
+        "rating": 5.574,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/hES2eVAbVt08JJTqgu3jmI34Yxx.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=MPr3BleeXC0",
+        "genres": [
+            "Action",
+            "Science Fiction",
+            "Horror",
+            "TV Movie"
+        ]
+    },
+    {
+        "id": 79113,
+        "slug": "a-princess-for-christmas",
+        "title": "A Princess for Christmas",
+        "overview": "After her sister and brother-in-law's tragic deaths, an American woman who is the guardian for her young niece and nephew is invited to a royal European castle for Christmas by her late brother-in-law's father, the Duke of Castlebury. Feeling out of place as a commoner, she is determined to give her family a merry Christmas and surprises herself when she falls for a handsome prince.",
+        "release_date": "2011-12-03",
+        "backdrop_path": "\/ocyOdgL8pGS5KRpRfS69SsS2GMa.jpg",
+        "rating": 7,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/8B0GaAebFRWek6tGSqWAeyJOIp6.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=UeqkKQv5SiY",
+        "genres": [
+            "Comedy",
+            "Family",
+            "TV Movie",
+            "Romance",
+            "Drama"
+        ]
+    }
+]

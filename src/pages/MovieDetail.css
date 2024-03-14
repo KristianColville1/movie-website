@@ -1,6 +1,26 @@
+
+/* styles for the rating of the boxicons starts */
 .bx-star,
 .bxs-star-half,
 .bxs-star {
     color: var(--raspberry);
     font-size: 110%;
+}
+
+/* styles for the embed player */
+.embed-player {
+    position: relative;
+        width: 100%;
+        height: 0;
+        padding-bottom: 56.25%; /* 16:9 ratio */
+        overflow: hidden;
+        box-shadow: rgba(44, 47, 50, 0.7) 0px 1px 2px 0px, rgba(104, 108, 111, 0.15) 0px 1px 3px 1px;
+}
+
+.embed-content {
+    position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
 }

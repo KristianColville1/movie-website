@@ -1,0 +1,3230 @@
+[
+    {
+        "id": 872585,
+        "slug": "oppenheimer",
+        "title": "Oppenheimer",
+        "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+        "release_date": "2023-07-19",
+        "backdrop_path": "\/fm6KqXpk3M2HVveHwCrBSSBaO0V.jpg",
+        "rating": 8.116,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=qiuSBWVdgLI",
+        "genres": [
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 467244,
+        "slug": "the-zone-of-interest",
+        "title": "The Zone of Interest",
+        "overview": "The commandant of Auschwitz, Rudolf H\u00f6ss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
+        "release_date": "2023-12-15",
+        "backdrop_path": "\/aPQsU3yLDUOhLJYnSqkhKRkQTAw.jpg",
+        "rating": 7.313,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/hUu9zyZmDd8VZegKi1iK1Vk0RYS.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=GFNtVaAuVYY",
+        "genres": [
+            "History",
+            "Drama",
+            "War"
+        ]
+    },
+    {
+        "id": 753342,
+        "slug": "napoleon",
+        "title": "Napoleon",
+        "overview": "An epic that details the checkered rise and fall of French Emperor Napoleon Bonaparte and his relentless journey to power through the prism of his addictive, volatile relationship with his wife, Josephine.",
+        "release_date": "2023-11-22",
+        "backdrop_path": "\/33pMXav77ICRnceEBLhL8lXTywv.jpg",
+        "rating": 6.476,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/vcZWJGvB5xydWuUO1vaTLI82tGi.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=1DJYiG6wh0w",
+        "genres": [
+            "Drama",
+            "History",
+            "War"
+        ]
+    },
+    {
+        "id": 466420,
+        "slug": "killers-of-the-flower-moon",
+        "title": "Killers of the Flower Moon",
+        "overview": "When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage people are murdered one by one\u2014until the FBI steps in to unravel the mystery.",
+        "release_date": "2023-10-18",
+        "backdrop_path": "\/acvE3RWjDLgvbL2RtcyzkrsAyNV.jpg",
+        "rating": 7.508,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=1oZUCkJEuvo",
+        "genres": [
+            "Crime",
+            "History",
+            "Drama"
+        ]
+    },
+    {
+        "id": 906126,
+        "slug": "society-of-the-snow",
+        "title": "Society of the Snow",
+        "overview": "On October 13, 1972, Uruguayan Air Force Flight 571, chartered to take a rugby team to Chile, crashes into a glacier in the heart of the Andes.",
+        "release_date": "2023-12-15",
+        "backdrop_path": "\/vdpE5pjJVql5aD6pnzRqlFmgxXf.jpg",
+        "rating": 8.078,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/2e853FDVSIso600RqAMunPxiZjq.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=pDak4qLyF4Q",
+        "genres": [
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 676727,
+        "slug": "the-inventor",
+        "title": "The Inventor",
+        "overview": "The insatiably curious and headstrong inventor Leonardo da Vinci leaves Italy to join the French court, where he can experiment freely, inventing flying contraptions, incredible machines, and study the human body. There, joined in his adventure by the audacious princess Marguerite, Leonardo will uncover the answer to the ultimate question \u2013 \"What is the meaning of it all?\"",
+        "release_date": "2023-09-15",
+        "backdrop_path": "\/8b1oWeOQLSwQH6TK3T0b1oNl3Al.jpg",
+        "rating": 5.778,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/7Rpo5S3GjORu3yjah0o9eLcllSj.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=7k95b1s6XoE",
+        "genres": [
+            "Animation",
+            "Drama",
+            "Family",
+            "History"
+        ]
+    },
+    {
+        "id": 324786,
+        "slug": "hacksaw-ridge",
+        "title": "Hacksaw Ridge",
+        "overview": "WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to receive the Congressional Medal of Honor.",
+        "release_date": "2016-10-07",
+        "backdrop_path": "\/yQIBS8B9l2qXoPoPtxSXvH7CfoT.jpg",
+        "rating": 8.192,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/wuz8TjCIWR2EVVMuEfBnQ1vuGS3.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=s2-1hz1juBI",
+        "genres": [
+            "Drama",
+            "History",
+            "War"
+        ]
+    },
+    {
+        "id": 760774,
+        "slug": "one-life",
+        "title": "One Life",
+        "overview": "British stockbroker Nicholas Winton visits Czechoslovakia in the 1930s and forms plans to assist in the rescue of Jewish children before the onset of World War II, in an operation that came to be known as the Kindertransport.",
+        "release_date": "2023-09-09",
+        "backdrop_path": "\/7grv5ULlK9wMr2T1fkgr56HlbT.jpg",
+        "rating": 7.668,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/yvnIWt2j8VnDgwKJE2VMiFMa2Qo.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=6ethollg-PI",
+        "genres": [
+            "Drama",
+            "History",
+            "War"
+        ]
+    },
+    {
+        "id": 960481,
+        "slug": "the-warrior-princess",
+        "title": "The Warrior Princess",
+        "overview": "Princess Khotulun is the daughter of Haidu Khan of the Ugudei dynasty. The film tells the story of Princess Khotulun, the son of Kublai Khan, known in Western and Eastern history as a wrestling princess, and her struggle to reclaim her Golden Sutra.",
+        "release_date": "2021-12-03",
+        "backdrop_path": "\/g7Fr6Pd1bR9G5Y9E47h7pmYTcX4.jpg",
+        "rating": 7.2,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/gmfPD15AR0FXyNTQE19TbuJNrwu.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=JkEzB6RzGyU",
+        "genres": [
+            "History",
+            "Action",
+            "Drama"
+        ]
+    },
+    {
+        "id": 365620,
+        "slug": "ferrari",
+        "title": "Ferrari",
+        "overview": "Set during the summer of 1957. Ex-racecar driver, Enzo Ferrari, is in crisis. Bankruptcy stalks the company he and his wife, Laura, built from nothing ten years earlier. Their tempestuous marriage struggles with the mourning for one son and the acknowledgement of another.",
+        "release_date": "2023-12-14",
+        "backdrop_path": "\/du11oPPbEoDnUpiREO5tUg47rJd.jpg",
+        "rating": 6.609,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/xBFyJHvXCTgf9Vmq5uCnXRHrMQ4.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=8oOVNMjM1Jk",
+        "genres": [
+            "History",
+            "Drama"
+        ]
+    },
+    {
+        "id": 850165,
+        "slug": "the-iron-claw",
+        "title": "The Iron Claw",
+        "overview": "The true story of the inseparable Von Erich brothers, who made history in the intensely competitive world of professional wrestling in the early 1980s. Through tragedy and triumph, under the shadow of their domineering father and coach, the brothers seek larger-than-life immortality on the biggest stage in sports.",
+        "release_date": "2023-12-21",
+        "backdrop_path": "\/4l65BWqJBl7hBwdIwp2nQdwsOuw.jpg",
+        "rating": 7.535,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/nfs7DCYhgrEIgxKYbITHTzKsggf.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=8KVsaoveTbw",
+        "genres": [
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 424,
+        "slug": "schindler's-list",
+        "title": "Schindler's List",
+        "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+        "release_date": "1993-12-15",
+        "backdrop_path": "\/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+        "rating": 8.565,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=mxphAlJID9U",
+        "genres": [
+            "Drama",
+            "History",
+            "War"
+        ]
+    },
+    {
+        "id": 857,
+        "slug": "saving-private-ryan",
+        "title": "Saving Private Ryan",
+        "overview": "As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home.",
+        "release_date": "1998-07-24",
+        "backdrop_path": "\/bdD39MpSVhKjxarTxLSfX6baoMP.jpg",
+        "rating": 8.213,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=y4SA9yUDgW8",
+        "genres": [
+            "Drama",
+            "History",
+            "War"
+        ]
+    },
+    {
+        "id": 205596,
+        "slug": "the-imitation-game",
+        "title": "The Imitation Game",
+        "overview": "Based on the real life story of legendary cryptanalyst Alan Turing, the film portrays the nail-biting race against time by Turing and his brilliant team of code-breakers at Britain's top-secret Government Code and Cypher School at Bletchley Park, during the darkest days of World War II.",
+        "release_date": "2014-11-14",
+        "backdrop_path": "\/gLQoJ9P79g501oEEtrN8zMlCPpx.jpg",
+        "rating": 8.005,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/zSqJ1qFq8NXFfi7JeIYMlzyR0dx.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=j2jRs4EAvWM",
+        "genres": [
+            "History",
+            "Drama",
+            "Thriller",
+            "War"
+        ]
+    },
+    {
+        "id": 381284,
+        "slug": "hidden-figures",
+        "title": "Hidden Figures",
+        "overview": "The untold story of Katherine G. Johnson, Dorothy Vaughan and Mary Jackson \u2013 brilliant African-American women working at NASA and serving as the brains behind one of the greatest operations in history \u2013 the launch of astronaut John Glenn into orbit. The visionary trio crossed all gender and race lines to inspire generations to dream big.",
+        "release_date": "2016-12-10",
+        "backdrop_path": "\/rfkIeCaIHhN3K5wjJJqKmfUjYp8.jpg",
+        "rating": 8.056,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/9lfz2W2uGjyow3am00rsPJ8iOyq.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=5wfrDhgUMGI",
+        "genres": [
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 2024,
+        "slug": "the-patriot",
+        "title": "The Patriot",
+        "overview": "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
+        "release_date": "2000-06-28",
+        "backdrop_path": "\/c9xSFZQtC4c16Vn5CMOaB1pGk9J.jpg",
+        "rating": 7.175,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/fWZd815QxUCUcrWQZwUkAp9ljG.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=ZSssYtYYKzU",
+        "genres": [
+            "Drama",
+            "History",
+            "War",
+            "Action"
+        ]
+    },
+    {
+        "id": 1024541,
+        "slug": "the-teacher-who-promised-the-sea",
+        "title": "The Teacher Who Promised the Sea",
+        "overview": "Ariadna discovers that her grandfather has been searching for the remains of his father, who disappeared during the Civil War. Determined to help him, she travels to Burgos, where a mass grave is being excavated, and where he could be buried. During her stay there, she will learn the story of Antoni Benaiges, a young teacher from Tarragona who was her grandfather's teacher before the war. Through an innovative pedagogical method, Antoni inspired his students and made them a promise: to take them to see the sea.",
+        "release_date": "2023-11-10",
+        "backdrop_path": "\/d5bEPTpOf3OEBcPFM5zbWeoayjA.jpg",
+        "rating": 7.7,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/koD3jv3905vzMCT0VLH7UOVxYGo.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=UkWExYIkrY8",
+        "genres": [
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 862557,
+        "slug": "the-hill",
+        "title": "The Hill",
+        "overview": "The story of Rickey Hill, who overcomes his physical disability and repairs his relationship with his father in a quest to become a major league baseball (MLB) player.",
+        "release_date": "2023-08-18",
+        "backdrop_path": "\/puUUsAri2UchyJgsbkpO3HZfKiw.jpg",
+        "rating": 7.71,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/gKh28PVUqt1vY2oAdFlauXkDacW.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=wXj7IRAAGb4",
+        "genres": [
+            "History",
+            "Drama"
+        ]
+    },
+    {
+        "id": 652,
+        "slug": "troy",
+        "title": "Troy",
+        "overview": "In year 1250 B.C. during the late Bronze age, two emerging nations begin to clash. Paris, the Trojan prince, convinces Helen, Queen of Sparta, to leave her husband Menelaus, and sail with him back to Troy. After Menelaus finds out that his wife was taken by the Trojans, he asks his brother Agamemnon to help him get her back. Agamemnon sees this as an opportunity for power. They set off with 1,000 ships holding 50,000 Greeks to Troy.",
+        "release_date": "2004-05-13",
+        "backdrop_path": "\/8YURPHUqD2ODIffxPf8sG5l5UC7.jpg",
+        "rating": 7.157,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/a07wLy4ONfpsjnBqMwhlWTJTcm.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=6FG3BfPuwBA",
+        "genres": [
+            "Adventure",
+            "History",
+            "War",
+            "Action"
+        ]
+    },
+    {
+        "id": 6844,
+        "slug": "the-ten-commandments",
+        "title": "The Ten Commandments",
+        "overview": "Escaping death, a Hebrew infant is raised in a royal household to become a prince. Upon discovery of his true heritage, Moses embarks on a personal quest to reclaim his destiny as the leader and liberator of the Hebrew people.",
+        "release_date": "1956-10-05",
+        "backdrop_path": "\/rI1u4JgtnAZC99wXX4gwro4yaxe.jpg",
+        "rating": 7.756,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/2rBUaC6ngeFmYXjL4KA3eLjt5wA.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=KBzbyIPWVT4",
+        "genres": [
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 359724,
+        "slug": "ford-v-ferrari",
+        "title": "Ford v Ferrari",
+        "overview": "American car designer Carroll Shelby and the British-born driver Ken Miles work together to battle corporate interference, the laws of physics, and their own personal demons to build a revolutionary race car for Ford Motor Company and take on the dominating race cars of Enzo Ferrari at the 24 Hours of Le Mans in France in 1966.",
+        "release_date": "2019-11-13",
+        "backdrop_path": "\/ydmZIafp66mHABs3QJDwvjRgZfE.jpg",
+        "rating": 8.001,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=I3h9Z89U9ZA",
+        "genres": [
+            "Drama",
+            "Action",
+            "History"
+        ]
+    },
+    {
+        "id": 429351,
+        "slug": "12-strong",
+        "title": "12 Strong",
+        "overview": "A team of special forces head into Afghanistan in the aftermath of the September 11th attacks in an attempt to dismantle the Taliban.",
+        "release_date": "2018-01-18",
+        "backdrop_path": "\/x5EUEv1N9g4BCX9GQXKvv3nqMVo.jpg",
+        "rating": 6.288,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/j18021qCeRi3yUBtqd2UFj1c0RQ.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=Zxag9p-63RU",
+        "genres": [
+            "War",
+            "Drama",
+            "Action",
+            "History"
+        ]
+    },
+    {
+        "id": 197,
+        "slug": "braveheart",
+        "title": "Braveheart",
+        "overview": "Enraged at the slaughter of Murron, his new bride and childhood love, Scottish warrior William Wallace slays a platoon of the local English lord's soldiers. This leads the village to revolt and, eventually, the entire country to rise up against English rule.",
+        "release_date": "1995-05-24",
+        "backdrop_path": "\/8lBcqakI3F19NWkXdqE0M8W76b9.jpg",
+        "rating": 7.939,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/or1gBugydmjToAEq7OZY0owwFk.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=WtO3CsleMDg",
+        "genres": [
+            "Action",
+            "Drama",
+            "History",
+            "War"
+        ]
+    },
+    {
+        "id": 1495,
+        "slug": "kingdom-of-heaven",
+        "title": "Kingdom of Heaven",
+        "overview": "After his wife dies, a blacksmith named Balian is thrust into royalty, political intrigue and bloody holy wars during the Crusades.",
+        "release_date": "2005-05-03",
+        "backdrop_path": "\/kP8rK9dGS1pr0HrnmXfIi2heWjo.jpg",
+        "rating": 6.935,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/uk55nBEFIQFveIiy9jvLGiVtk4h.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=6Z2wGCZ2fSM",
+        "genres": [
+            "Drama",
+            "Action",
+            "Adventure",
+            "History",
+            "War"
+        ]
+    },
+    {
+        "id": 606870,
+        "slug": "the-survivor",
+        "title": "The Survivor",
+        "overview": "Harry Haft is a boxer who fought fellow prisoners in the concentration camps to survive. Haunted by the memories and his guilt, he attempts to use high-profile fights against boxing legends like Rocky Marciano as a way to find his first love again.",
+        "release_date": "2022-04-07",
+        "backdrop_path": "\/2X7BAu7x2oMB3cTMF38uJhGSqoB.jpg",
+        "rating": 7.064,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/oZWJ20tGWZ5xO9CrTCVavmDRy7J.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=2pfB1esUR5c",
+        "genres": [
+            "History",
+            "Action",
+            "Drama"
+        ]
+    },
+    {
+        "id": 14574,
+        "slug": "the-boy-in-the-striped-pyjamas",
+        "title": "The Boy in the Striped Pyjamas",
+        "overview": "When his family moves from their home in Berlin to a strange new house in Poland, young Bruno befriends Shmuel, a boy who lives on the other side of the fence where everyone seems to be wearing striped pajamas. Unaware of Shmuel's fate as a Jewish prisoner or the role his own Nazi father plays in his imprisonment, Bruno embarks on a dangerous journey inside the camp's walls.",
+        "release_date": "2008-05-07",
+        "backdrop_path": "\/7fJAYM0rhzpEhCK6wxbQ412EoYW.jpg",
+        "rating": 7.843,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/sLwYSEVVV3r047cjrpRAbGgNsfL.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=uwysOfnX2Qg",
+        "genres": [
+            "Drama",
+            "War",
+            "History"
+        ]
+    },
+    {
+        "id": 875104,
+        "slug": "ip-man:-the-awakening",
+        "title": "Ip Man: The Awakening",
+        "overview": "When a young Master Ip stops a kidnapping, he ignites a turf war with a ruthless human-trafficking ring. In retaliation, the gang kidnaps one of Ip Man's close friends, forcing him to face the group's brutal boxing champion head-on.",
+        "release_date": "2021-09-16",
+        "backdrop_path": "\/Xfn9eDOaZKSz5W3PRoJI928I9c.jpg",
+        "rating": 6.834,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/A7vhdyGrpPMKXsuFBZzxmave94F.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=yVCiktvgHb4",
+        "genres": [
+            "Action",
+            "Adventure",
+            "History",
+            "Drama"
+        ]
+    },
+    {
+        "id": 875104,
+        "slug": "ip-man:-the-awakening",
+        "title": "Ip Man: The Awakening",
+        "overview": "When a young Master Ip stops a kidnapping, he ignites a turf war with a ruthless human-trafficking ring. In retaliation, the gang kidnaps one of Ip Man's close friends, forcing him to face the group's brutal boxing champion head-on.",
+        "release_date": "2021-09-16",
+        "backdrop_path": "\/Xfn9eDOaZKSz5W3PRoJI928I9c.jpg",
+        "rating": 6.834,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/A7vhdyGrpPMKXsuFBZzxmave94F.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=yVCiktvgHb4",
+        "genres": [
+            "Action",
+            "Adventure",
+            "History",
+            "Drama"
+        ]
+    },
+    {
+        "id": 490132,
+        "slug": "green-book",
+        "title": "Green Book",
+        "overview": "Tony Lip, a bouncer in 1962, is hired to drive pianist Don Shirley on a tour through the Deep South in the days when African Americans, forced to find alternate accommodations and services due to segregation laws below the Mason-Dixon Line, relied on a guide called The Negro Motorist Green Book.",
+        "release_date": "2018-11-16",
+        "backdrop_path": "\/5En0fmDagt3Pk8d7P3uTwfeQceg.jpg",
+        "rating": 8.243,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=QkZxoko_HC0",
+        "genres": [
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 855,
+        "slug": "black-hawk-down",
+        "title": "Black Hawk Down",
+        "overview": "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
+        "release_date": "2001-12-28",
+        "backdrop_path": "\/7jaNOECZG8uS1tlq69HsY5xY8P9.jpg",
+        "rating": 7.374,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/imGygQbmuc7gC1JZiAVhJLsUWXq.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=2GfBkC3qs78",
+        "genres": [
+            "Action",
+            "War",
+            "History"
+        ]
+    },
+    {
+        "id": 300671,
+        "slug": "13-hours:-the-secret-soldiers-of-benghazi",
+        "title": "13 Hours: The Secret Soldiers of Benghazi",
+        "overview": "An American Ambassador is killed during an attack at a U.S. compound in Libya as a security team struggles to make sense out of the chaos.",
+        "release_date": "2016-01-14",
+        "backdrop_path": "\/ayDMYGUNVvXS76wQgFwTiUIDNb5.jpg",
+        "rating": 7.276,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/nAnfWdvUXQemns5BR0Azi4z9o1t.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=Wpsqh73gB78",
+        "genres": [
+            "War",
+            "Action",
+            "History",
+            "Drama"
+        ]
+    },
+    {
+        "id": 9453,
+        "slug": "caligula",
+        "title": "Caligula",
+        "overview": "The perversion behind imperial Rome, the epic story of Rome's mad Emporer. All the details of his cruel, bizarre reign are revealed right here: His unholy sexual passion for his sister, his marriage to Rome's most infamous prostitute, his fiendishly inventive means of disposing those who would oppose him, and more.",
+        "release_date": "1979-08-14",
+        "backdrop_path": "\/6UDep1cxHQqrNFhSW4ZNQLW3Alr.jpg",
+        "rating": 6.026,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/4N4l873TVreuaR4FVpvaL2gfQ0N.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=eKsuOWcT12c",
+        "genres": [
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 1579,
+        "slug": "apocalypto",
+        "title": "Apocalypto",
+        "overview": "Set in the Mayan civilization, when a man's idyllic presence is brutally disrupted by a violent invading force, he is taken on a perilous journey to a world ruled by fear and oppression where a harrowing end awaits him. Through a twist of fate and spurred by the power of his love for his woman and his family he will make a desperate break to return home and to ultimately save his way of life.",
+        "release_date": "2006-12-07",
+        "backdrop_path": "\/hMl124Go2Ed9Qu8VsPLiA3nBSMk.jpg",
+        "rating": 7.571,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/xVTSNeqEymd0iZKByf68A5nLIGM.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=ngWBddVNVZs",
+        "genres": [
+            "Action",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 724495,
+        "slug": "the-woman-king",
+        "title": "The Woman King",
+        "overview": "The story of the Agojie, the all-female unit of warriors who protected the African Kingdom of Dahomey in the 1800s with skills and a fierceness unlike anything the world has ever seen, and General Nanisca as she trains the next generation of recruits and readies them for battle against an enemy determined to destroy their way of life.",
+        "release_date": "2022-09-16",
+        "backdrop_path": "\/xTsERrOCW15OIYl5aPX7Jbj38wu.jpg",
+        "rating": 7.689,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/438QXt1E3WJWb3PqNniK0tAE5c1.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=3RDaPV_rJ1Y",
+        "genres": [
+            "Action",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 665,
+        "slug": "ben-hur",
+        "title": "Ben-Hur",
+        "overview": "In 25 AD, Judah Ben-Hur, a Jew in ancient Judea, opposes the occupying Roman empire.  Falsely accused by a Roman childhood friend-turned-overlord of trying to kill the Roman governor, he is put into slavery and his mother and sister are taken away as prisoners.",
+        "release_date": "1959-11-18",
+        "backdrop_path": "\/sU3gFo7Gn67zjtKXIvzJ4omcUbH.jpg",
+        "rating": 7.886,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=NR1ZHKw09n8",
+        "genres": [
+            "History",
+            "Drama",
+            "Adventure",
+            "Action"
+        ]
+    },
+    {
+        "id": 967,
+        "slug": "spartacus",
+        "title": "Spartacus",
+        "overview": "The rebellious Thracian Spartacus, born and raised a slave, is sold to Gladiator trainer Batiatus. After weeks of being trained to kill for the arena, Spartacus turns on his owners and leads the other slaves in rebellion. As the rebels move from town to town, their numbers swell as escaped slaves join their ranks. Under the leadership of Spartacus, they make their way to southern Italy, where they will cross the sea and return to their homes.",
+        "release_date": "1960-10-13",
+        "backdrop_path": "\/9caD0fGCrp96JTFFeGyI0CGNj7.jpg",
+        "rating": 7.548,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/xLPpQlFWE12cbqNJQ5Vf4eJU8ij.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=HcIMY1Ah3aw",
+        "genres": [
+            "History",
+            "War",
+            "Drama",
+            "Adventure"
+        ]
+    },
+    {
+        "id": 277216,
+        "slug": "straight-outta-compton",
+        "title": "Straight Outta Compton",
+        "overview": "In 1987, five young men, using brutally honest rhymes and hardcore beats, put their frustration and anger about life in the most dangerous place in America into the most powerful weapon they had: their music.  Taking us back to where it all began, Straight Outta Compton tells the true story of how these cultural rebels\u2014armed only with their lyrics, swagger, bravado and raw talent\u2014stood up to the authorities that meant to keep them down and formed the world\u2019s most dangerous group, N.W.A.  And as they spoke the truth that no one had before and exposed life in the hood, their voice ignited a social revolution that is still reverberating today.",
+        "release_date": "2015-08-11",
+        "backdrop_path": "\/cpqWIjNrAzLIBUHhRWB79LJ39lr.jpg",
+        "rating": 7.786,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/9B63hMwU6iICtNDTISCaZQ5US7R.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=-F5WcFPDzko",
+        "genres": [
+            "Drama",
+            "Music",
+            "History"
+        ]
+    },
+    {
+        "id": 9477,
+        "slug": "king-arthur",
+        "title": "King Arthur",
+        "overview": "The story of the Arthurian legend, based on the 'Sarmatian hypothesis' which contends that the legend has a historical nucleus in the Sarmatian heavy cavalry troops stationed in Britain, and that the Roman-British military commander, Lucius Artorius Castus is the historical person behind the legend.",
+        "release_date": "2004-07-07",
+        "backdrop_path": "\/bMGhPOcjvSPAepwfPdXIf9OxgxX.jpg",
+        "rating": 6.282,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/5Mqmke8JKE7s8JeYNp7XtzxQXbL.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=8Fw_1TwxTRU",
+        "genres": [
+            "Adventure",
+            "War",
+            "History",
+            "Action",
+            "Drama"
+        ]
+    },
+    {
+        "id": 589761,
+        "slug": "chernobyl:-abyss",
+        "title": "Chernobyl: Abyss",
+        "overview": "The aftermath of a shocking explosion at the Chernobyl nuclear power station made hundreds of people sacrifice their lives to clean up the site of the catastrophe and to successfully prevent an even bigger disaster that could have turned a large part of the European continent into an uninhabitable exclusion zone. This is their story.",
+        "release_date": "2021-04-15",
+        "backdrop_path": "\/qDqorNvx3P86LSoWOIAmJwMPdRH.jpg",
+        "rating": 6.203,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/AmJLuHjxPdIJO6vmymeWADG6jK5.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=XiztZZSMVZI",
+        "genres": [
+            "Drama",
+            "History",
+            "Adventure",
+            "Action",
+            "Fantasy",
+            "Mystery"
+        ]
+    },
+    {
+        "id": 310307,
+        "slug": "the-founder",
+        "title": "The Founder",
+        "overview": "The true story of how Ray Kroc, a salesman from Illinois, met Mac and Dick McDonald, who were running a burger operation in 1950s Southern California. Kroc was impressed by the brothers\u2019 speedy system of making the food and saw franchise potential. He maneuvered himself into a position to be able to pull the company from the brothers and create a billion-dollar empire.",
+        "release_date": "2016-09-13",
+        "backdrop_path": "\/5WparwIlAtSZW0tcWbK2NHEZJC6.jpg",
+        "rating": 7.116,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/8gLIksu5ggdfBL1UbeTeonHquxl.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=oprJX5BomEc",
+        "genres": [
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 3131,
+        "slug": "gangs-of-new-york",
+        "title": "Gangs of New York",
+        "overview": "In 1863, Amsterdam Vallon returns to the Five Points of America to seek vengeance against the psychotic gangland kingpin, Bill the Butcher, who murdered his father years earlier. With an eager pickpocket by his side and a whole new army, Vallon fights his way to seek vengeance on the Butcher and restore peace in the area.",
+        "release_date": "2002-12-14",
+        "backdrop_path": "\/a2Aj5ksEo2HOUH3FbGyZCtaJM4C.jpg",
+        "rating": 7.32,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/lemqKtcCuAano5aqrzxYiKC8kkn.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=1bjh979vVG0",
+        "genres": [
+            "Drama",
+            "History",
+            "Crime"
+        ]
+    },
+    {
+        "id": 9912,
+        "slug": "the-world's-fastest-indian",
+        "title": "The World's Fastest Indian",
+        "overview": "The life story of New Zealander Burt Munro, who spent years building a 1920 Indian motorcycle\u2014a bike which helped him set the land-speed world record at Utah's Bonneville Salt Flats in 1967.",
+        "release_date": "2005-10-12",
+        "backdrop_path": "\/k63u1PAW8aL7hy1Rwtn0d0oy4rn.jpg",
+        "rating": 7.623,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/i7obsEYXjo725H9vneFqxxUiZw7.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=02Yy1vihIKs",
+        "genres": [
+            "Drama",
+            "Adventure",
+            "History"
+        ]
+    },
+    {
+        "id": 980026,
+        "slug": "the-promised-land",
+        "title": "The Promised Land",
+        "overview": "Denmark, 1755. Captain Ludvig Kahlen sets out to conquer a Danish heath reputed to be uncultivable, with an impossible goal: to establish a colony in the name of the king, in exchange for a royal title. A single-minded ambition that the ruthless lord of the region will relentlessly seek to put down. Kahlen's fate hangs in the balance: will his endevours bring him wealth and honour, or cost him his life...?",
+        "release_date": "2023-10-05",
+        "backdrop_path": "\/6KTY6ld8Hu8XmgnzXVXS9frI3L8.jpg",
+        "rating": 7.6,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/okVwls2laPGOsLKKhXQCEiTBwpw.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=c9U1E9cC5is",
+        "genres": [
+            "History",
+            "Drama"
+        ]
+    },
+    {
+        "id": 76203,
+        "slug": "12-years-a-slave",
+        "title": "12 Years a Slave",
+        "overview": "In the pre-Civil War United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery. Facing cruelty as well as unexpected kindnesses Solomon struggles not only to stay alive, but to retain his dignity. In the twelfth year of his unforgettable odyssey, Solomon\u2019s chance meeting with a Canadian abolitionist will forever alter his life.",
+        "release_date": "2013-10-18",
+        "backdrop_path": "\/4Bb1kMIfrT2tYRZ9M6Jhqy6gkeF.jpg",
+        "rating": 7.944,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/xdANQijuNrJaw1HA61rDccME4Tm.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=z02Ie8wKKRg",
+        "genres": [
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 614917,
+        "slug": "king-richard",
+        "title": "King Richard",
+        "overview": "The story of how Richard Williams served as a coach to his daughters Venus and Serena, who will soon become two of the most legendary tennis players in history.",
+        "release_date": "2021-11-18",
+        "backdrop_path": "\/4kb7uR1UmXa33U6GB6F9xckFlhn.jpg",
+        "rating": 7.7,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/vjpMd1dsEsVBoUhq6iVHXwwFj9n.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=_6bsugyNpDU",
+        "genres": [
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 588108,
+        "slug": "hansan:-rising-dragon",
+        "title": "Hansan: Rising Dragon",
+        "overview": "In 1592, admiral Yi Sun-sin and his fleet face off against the might of the invading Japanese navy and its formidable warships. As the Korean forces fall into crisis, the admiral resorts to using his secret weapon, the dragon head ships known as geobukseon, in order to change the tide of this epic battle at sea.",
+        "release_date": "2022-07-27",
+        "backdrop_path": "\/ghycxyGDKvlOcVhRNvPoXDmCjYV.jpg",
+        "rating": 6.49,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/vH76IrIrZLHmO0WOD4U7nxBHgkR.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=OD1ocTY75ts",
+        "genres": [
+            "Action",
+            "History",
+            "Drama",
+            "War"
+        ]
+    },
+    {
+        "id": 7305,
+        "slug": "alive",
+        "title": "Alive",
+        "overview": "The amazing true story of a Uruguayan rugby team's plane that crashed in the middle of the Andes mountains, and their immense will to survive and pull through alive, forced to do anything and everything they could to stay alive on meager rations and through the freezing cold.",
+        "release_date": "1993-01-15",
+        "backdrop_path": "\/e23ip5v7Iw43Fv5HcyGDBrRHApt.jpg",
+        "rating": 6.882,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/uQACcCZqd7WCTRin9xRIW5gr1bd.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=C2lFPEp7dbI",
+        "genres": [
+            "Adventure",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 457232,
+        "slug": "lamborghini:-the-man-behind-the-legend",
+        "title": "Lamborghini: The Man Behind the Legend",
+        "overview": "Follow the launch of Lamborghini\u2019s career as a manufacturer of tractors, a creator of military vehicles during World War II, and the designer of Lamborghini cars, which he launched in 1963 as the high-end sports car company Automobili Lamborghini.",
+        "release_date": "2022-11-18",
+        "backdrop_path": "\/lUPz9zW0uf0bHfYsRRID8RtBHEU.jpg",
+        "rating": 6.5,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/RKgnYLhCNGCUkrhiCRrs40rEHe.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=WjTICfrC25s",
+        "genres": [
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 975056,
+        "slug": "cabrini",
+        "title": "Cabrini",
+        "overview": "Italian immigrant Francesca Cabrini arrives in 1889 New York City and is greeted by disease, crime, and impoverished children. Cabrini sets off on a daring mission to convince the hostile mayor to secure housing and healthcare for society's most vulnerable. With broken English and poor health, Cabrini uses her entrepreneurial mind to build an empire of hope unlike anything the world had ever seen.",
+        "release_date": "2024-03-07",
+        "backdrop_path": "\/jwmswCW3U8Uh0wEo46psJpgXejD.jpg",
+        "rating": 6.5,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/qJqEC0f51MJvUciRiDUc9Qrrugz.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=ZaMlUazXvyY",
+        "genres": [
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 7214,
+        "slug": "coach-carter",
+        "title": "Coach Carter",
+        "overview": "Based on a true story, in which Richmond High School head basketball coach Ken Carter made headlines in 1999 for benching his undefeated team due to poor academic results.",
+        "release_date": "2005-01-14",
+        "backdrop_path": "\/n4CvA50GBtIPrSqCl8nMNZCliYI.jpg",
+        "rating": 7.566,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/y3HOTTyM5nLsdUzXFtFCohG28qj.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=MV5v0zNDrlE",
+        "genres": [
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 540841,
+        "slug": "vlad-the-impaler",
+        "title": "Vlad the Impaler",
+        "overview": "The true story of 7 oddly dressed fearless men of ottoman army fight against cruel Vlad.",
+        "release_date": "2018-11-23",
+        "backdrop_path": "\/B4ZhigHvuOj0LRIbDQBWn7EF60.jpg",
+        "rating": 5.77,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/q0Y4m9z6CD1XriNottS6XFwtT21.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=xu7mqgkoN9k",
+        "genres": [
+            "Drama",
+            "History",
+            "War"
+        ]
+    },
+    {
+        "id": 853,
+        "slug": "enemy-at-the-gates",
+        "title": "Enemy at the Gates",
+        "overview": "A Russian and a German sniper play a game of cat-and-mouse during the Battle of Stalingrad in WWII.",
+        "release_date": "2001-02-28",
+        "backdrop_path": "\/pnEMDuaZeDXUQPPhhGTo9QMfMeA.jpg",
+        "rating": 7.414,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/9cSoNnB31hGY2mL78VT8mAbz6nR.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=xqwlIaOyBSA",
+        "genres": [
+            "Drama",
+            "War",
+            "History",
+            "Romance"
+        ]
+    },
+    {
+        "id": 57212,
+        "slug": "war-horse",
+        "title": "War Horse",
+        "overview": "On the brink of the First World War, Albert's beloved horse Joey is sold to the Cavalry by his father. Against the backdrop of the Great War, Joey begins an odyssey full of danger, joy, and sorrow, and he transforms everyone he meets along the way. Meanwhile, Albert, unable to forget his equine friend, searches the battlefields of France to find Joey and bring him home.",
+        "release_date": "2011-12-25",
+        "backdrop_path": "\/64YOcrslrijllDRCpQvXkSKvXQV.jpg",
+        "rating": 7.305,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/nF66DU2zPLFb9CxDQNSNX2RgNaq.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=kEhmx28Tbek",
+        "genres": [
+            "War",
+            "History",
+            "Drama",
+            "Adventure"
+        ]
+    },
+    {
+        "id": 524,
+        "slug": "casino",
+        "title": "Casino",
+        "overview": "In early-1970s Las Vegas, Sam \"Ace\" Rothstein gets tapped by his bosses to head the Tangiers Casino. At first, he's a great success in the job, but over the years, problems with his loose-cannon enforcer Nicky Santoro, his ex-hustler wife Ginger, her con-artist ex Lester Diamond and a handful of corrupt politicians put Sam in ever-increasing danger.",
+        "release_date": "1995-11-22",
+        "backdrop_path": "\/2W9HjAYWNug5RwyrEtrneXeL94Z.jpg",
+        "rating": 8.012,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/4TS5O1IP42bY2BvgMxL156EENy.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=AIRRDirf4KY",
+        "genres": [
+            "Crime",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 551271,
+        "slug": "medieval",
+        "title": "Medieval",
+        "overview": "The story of fifteenth century Czech icon and warlord, Jan Zizka, who defeated armies of the Teutonic Order and the Holy Roman Empire.",
+        "release_date": "2022-09-08",
+        "backdrop_path": "\/maxRhndtC4BJABvqRPvYNu69CHA.jpg",
+        "rating": 7.063,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/eeUNWsdoiOijOZAMaWFDA5Pb1n8.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=HNFk6FY5MRw",
+        "genres": [
+            "Action",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 363676,
+        "slug": "sully",
+        "title": "Sully",
+        "overview": "On 15 January 2009, the world witnessed the 'Miracle on the Hudson' when Captain 'Sully' Sullenberger glided his disabled plane onto the Hudson River, saving the lives of all 155 souls aboard. However, even as Sully was being heralded by the public and the media for his unprecedented feat of aviation skill, an investigation was unfolding that threatened to destroy his reputation and career.",
+        "release_date": "2016-09-07",
+        "backdrop_path": "\/phWZP5FESItyhQcqk6sWz35nUtP.jpg",
+        "rating": 7.18,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/r09ivJ1GGh5WArqRViRYDQLrTVG.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=6Tbkbx4Hz8Q",
+        "genres": [
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 792293,
+        "slug": "dumb-money",
+        "title": "Dumb Money",
+        "overview": "Vlogger Keith Gill sinks his life savings into GameStop stock and posts about it. When social media starts blowing up, so do his life and the lives of everyone following him. As a stock tip becomes a movement, everyone gets rich\u2014until the billionaires fight back, and both sides find their worlds turned upside down.",
+        "release_date": "2023-09-15",
+        "backdrop_path": "\/hb0BeFvZNx2zLGWwuwENOIVeK1U.jpg",
+        "rating": 6.7,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/e9u7luSxFKOZgPTB9XHFnPArGdP.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=_VxRoOZNaR8",
+        "genres": [
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 1966,
+        "slug": "alexander",
+        "title": "Alexander",
+        "overview": "Alexander, the King of Macedonia, leads his legions against the giant Persian Empire. After defeating the Persians, he leads his army across the then known world, venturing farther than any westerner had ever gone, all the way to India.",
+        "release_date": "2004-11-21",
+        "backdrop_path": "\/ySK5gxvXYnn55fjCIBeJVsG17RJ.jpg",
+        "rating": 5.94,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/jrwQu72sGwGqwE8Ijne89PSIvhp.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=WPwTtlx7wQU",
+        "genres": [
+            "War",
+            "History",
+            "Action",
+            "Adventure",
+            "Drama",
+            "Romance"
+        ]
+    },
+    {
+        "id": 522162,
+        "slug": "midway",
+        "title": "Midway",
+        "overview": "The story of the Battle of Midway, and the leaders and soldiers who used their instincts, fortitude and bravery to overcome massive odds.",
+        "release_date": "2019-11-06",
+        "backdrop_path": "\/5xegGPhCSVMKbyh6zeT6Th0BWLB.jpg",
+        "rating": 7.141,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/hj8pyoNnynGeJTAbl7jcLZO8Uhx.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=l9laReRAYFk",
+        "genres": [
+            "Action",
+            "Drama",
+            "War",
+            "History"
+        ]
+    },
+    {
+        "id": 947,
+        "slug": "lawrence-of-arabia",
+        "title": "Lawrence of Arabia",
+        "overview": "The story of British officer T.E. Lawrence's mission to aid the Arab tribes in their revolt against the Ottoman Empire during the First World War. Lawrence becomes a flamboyant, messianic figure in the cause of Arab unity but his psychological instability threatens to undermine his achievements.",
+        "release_date": "1962-12-11",
+        "backdrop_path": "\/mx2jS5Kaa5rmaldEFzKeKpDN9Q2.jpg",
+        "rating": 7.998,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/AiAm0EtDvyGqNpVoieRw4u65vD1.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=i0IzV1q9g9Q",
+        "genres": [
+            "Adventure",
+            "History",
+            "War"
+        ]
+    },
+    {
+        "id": 820446,
+        "slug": "downton-abbey:-a-new-era",
+        "title": "Downton Abbey: A New Era",
+        "overview": "The Crawley family goes on a grand journey to the south of France to uncover the mystery of the dowager countess's newly inherited villa.",
+        "release_date": "2022-04-27",
+        "backdrop_path": "\/nBHKT3pm5DmidZd5VS4bD5Hc2S3.jpg",
+        "rating": 7.174,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/r5n4CLoIjUcnT3shWDi6MHdJ25a.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=kkR_ojK6Q1E",
+        "genres": [
+            "Drama",
+            "Romance",
+            "History",
+            "Mystery"
+        ]
+    },
+    {
+        "id": 376972,
+        "slug": "the-devil's-mistress",
+        "title": "The Devil's Mistress",
+        "overview": "Salzburg, Germany, 2000. The elderly Czech actress L\u00edda Baarov\u00e1 tells a journalist the tumultuous story of her rise to fame in 1930s Berlin and her passionate relationship with the sinister Joseph Goebbels, Minister of Propaganda of the Third Reich.",
+        "release_date": "2016-01-21",
+        "backdrop_path": "\/oH38nxLfCe8Pgefo6CJq3XoiKj3.jpg",
+        "rating": 6.016,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/lViWHUj8m4XT7KsUTZiKVtYIedm.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=o4ckFEz7Nd4",
+        "genres": [
+            "Drama",
+            "History",
+            "Romance"
+        ]
+    },
+    {
+        "id": 510318,
+        "slug": "bu\u00f1uel-in-the-labyrinth-of-the-turtles",
+        "title": "Bu\u00f1uel in the Labyrinth of the Turtles",
+        "overview": "Paris, 1930. Luis Bu\u00f1uel is penniless after the scandal surrounding the release of his last movie. Sculptor Ram\u00f3n Ac\u00edn, a good friend, buys a lottery ticket and promises Bu\u00f1uel that he will pay for his next movie if he wins the prize.",
+        "release_date": "2019-04-18",
+        "backdrop_path": "\/7gmhUyLDagzOtbJizNFebHQSoQT.jpg",
+        "rating": 7,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/oHYRYgEcpjD6tXRxMr5xisjJCU4.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=__DLy5M3cas",
+        "genres": [
+            "Animation",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 11322,
+        "slug": "public-enemies",
+        "title": "Public Enemies",
+        "overview": "Depression-era bank robber John Dillinger's charm and audacity endear him to much of America's downtrodden public, but he's also a thorn in the side of J. Edgar Hoover and the fledgling FBI. Desperate to capture the elusive outlaw, Hoover makes Dillinger his first Public Enemy Number One and assigns his top agent, Melvin Purvis, the task of bringing him in dead or alive.",
+        "release_date": "2009-07-01",
+        "backdrop_path": "\/4C2Usp4K9CEV0Idy9VJv6tVOLpW.jpg",
+        "rating": 6.68,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/ezFQaPf4cOEfsl39Me0gSV29d7V.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=pv0DMzFwEW4",
+        "genres": [
+            "Crime",
+            "History"
+        ]
+    },
+    {
+        "id": 1149947,
+        "slug": "to-end-all-war:-oppenheimer-&-the-atomic-bomb",
+        "title": "To End All War: Oppenheimer & the Atomic Bomb",
+        "overview": "Explore how one man's relentless drive and invention of the atomic bomb changed the nature of war forever, led to the deaths of hundreds of thousands of people and unleashed mass hysteria.",
+        "release_date": "2023-07-09",
+        "backdrop_path": "\/wBuMF4MmmF3XDaTpvx3gNWbq0tR.jpg",
+        "rating": 7.9,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/xwkYWcs8aypUtk3xDRUh0ndo4GA.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=fnEOGMMLHCQ",
+        "genres": [
+            "Documentary",
+            "History"
+        ]
+    },
+    {
+        "id": 644495,
+        "slug": "house-of-gucci",
+        "title": "House of Gucci",
+        "overview": "When Patrizia Reggiani, an outsider from humble beginnings, marries into the Gucci family, her unbridled ambition begins to unravel the family legacy and triggers a reckless spiral of betrayal, decadence, revenge, and ultimately\u2026 murder.",
+        "release_date": "2021-11-24",
+        "backdrop_path": "\/d9cfPuZzai6d4ZaKNnicEUgXVjS.jpg",
+        "rating": 6.619,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/oJCQjD2byiVF1EG408F9dBn9ndU.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=eGNnpVKxV6s",
+        "genres": [
+            "Drama",
+            "History",
+            "Crime"
+        ]
+    },
+    {
+        "id": 1251636,
+        "slug": "the-bloody-hundredth",
+        "title": "The Bloody Hundredth",
+        "overview": "Meet the real-life airmen who inspired Masters of the Air as they share the harrowing and transformative events of the 100th Bomb Group.",
+        "release_date": "2024-03-14",
+        "backdrop_path": "\/4m8yq8vEVGVcmOxO39j1Yz8ry1s.jpg",
+        "rating": 0,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/5GnpAw5BaQBNqYd4wE1IptYEVKd.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=ZkYOtyp3hKU",
+        "genres": [
+            "Documentary",
+            "War",
+            "History"
+        ]
+    },
+    {
+        "id": 9361,
+        "slug": "the-last-of-the-mohicans",
+        "title": "The Last of the Mohicans",
+        "overview": "In war-torn colonial America, in the midst of a bloody battle between British, the French and Native American allies, the aristocratic daughter of a British Colonel and her party are captured by a group of Huron warriors. Fortunately, a group of three Mohican trappers comes to their rescue.",
+        "release_date": "1992-08-26",
+        "backdrop_path": "\/mhpDSuNyHPMsccI7zISEaskTgOQ.jpg",
+        "rating": 7.383,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/qzJMPWRtZveBkxXOv3ucWhoJuyj.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=yaQeVnN6pUc",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "History",
+            "Romance",
+            "War"
+        ]
+    },
+    {
+        "id": 568,
+        "slug": "apollo-13",
+        "title": "Apollo 13",
+        "overview": "The true story of technical troubles that scuttle the Apollo 13 lunar mission in 1970, risking the lives of astronaut Jim Lovell and his crew, with the failed journey turning into a thrilling saga of heroism. Drifting more than 200,000 miles from Earth, the astronauts work furiously with the ground crew to avert tragedy.",
+        "release_date": "1995-06-30",
+        "backdrop_path": "\/32zua2oKjn2EaRk7am3qK8zAlEj.jpg",
+        "rating": 7.452,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/kzj95o9FlVxKziQq36mjES3wxel.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=s6J6x9DojNg",
+        "genres": [
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 11362,
+        "slug": "the-count-of-monte-cristo",
+        "title": "The Count of Monte Cristo",
+        "overview": "Edmond Dant\u00e9s's life and plans to marry the beautiful Mercedes are shattered when his best friend, Fernand, deceives him. After spending 13 miserable years in prison, Dant\u00e9s escapes with the help of a fellow inmate and plots his revenge, cleverly insinuating himself into the French nobility.",
+        "release_date": "2002-01-23",
+        "backdrop_path": "\/y0sXAOehV5zx1E64HBSyjDSZK22.jpg",
+        "rating": 7.662,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/ifMgDAUXVQLY4DeOu3VTTi55jSP.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=TsQnK5_5VSk",
+        "genres": [
+            "Adventure",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 895549,
+        "slug": "nyad",
+        "title": "NYAD",
+        "overview": "Athlete Diana Nyad sets out at 60 to achieve a nearly impossible lifelong dream: to swim from Cuba to Florida across more than 100 miles of open ocean.",
+        "release_date": "2023-10-18",
+        "backdrop_path": "\/5CPbuhVfnUAbEyuf3LJ5bKiRvx4.jpg",
+        "rating": 7.076,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/ydSqUhKFvg5cZ5OwImmf3K1R6SS.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=bYks_-fPmaE",
+        "genres": [
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 796185,
+        "slug": "the-three-musketeers:-d'artagnan",
+        "title": "The Three Musketeers: D'Artagnan",
+        "overview": "D'Artagnan, a spirited young Gascon, is left for dead after trying to save a noblewoman from being kidnapped. Once in Paris, he tries by all means to find his attackers, unaware that his quest will lead him to the very heart of a war where the future of France is at stake. Aided by King's Musketeers Athos, Porthos and Aramis, he faces the machinations of villainous Cardinal Richelieu and Milady de Winter, while falling in love with Constance, the Queen's confidante.",
+        "release_date": "2023-04-05",
+        "backdrop_path": "\/byrnepNxBqUUdrlKPJvA846Lj9V.jpg",
+        "rating": 7.056,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/hfExJPcbBtDeFDEb7I1By72Drlr.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=IAizCzFkHI0",
+        "genres": [
+            "Adventure",
+            "Action",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 878361,
+        "slug": "big-george-foreman",
+        "title": "Big George Foreman",
+        "overview": "Fueled by an impoverished childhood, George Foreman channeled his anger into becoming an Olympic Gold medalist and World Heavyweight Champion, followed by a near-death experience that took him from the boxing ring to the pulpit. But when he sees his community struggling spiritually and financially, Foreman returns to the ring and makes history by reclaiming his title, becoming the oldest and most improbable World Heavyweight Boxing Champion ever.",
+        "release_date": "2023-04-27",
+        "backdrop_path": "\/xLsMxgMjko1rWbIUbvf6UBjToBE.jpg",
+        "rating": 7.611,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/fdVd6thTstt0MQ4dUC1IXiOXpxv.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=urKDu40iaXk",
+        "genres": [
+            "History",
+            "Drama"
+        ]
+    },
+    {
+        "id": 399404,
+        "slug": "darkest-hour",
+        "title": "Darkest Hour",
+        "overview": "In May 1940, the fate of World War II hangs on Winston Churchill, who must decide whether to negotiate with Adolf Hitler or fight on knowing that it could mean the end of the British Empire.",
+        "release_date": "2017-11-22",
+        "backdrop_path": "\/6prkTmEEsB3f9hhKBzUePLe27b2.jpg",
+        "rating": 7.351,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/xa6G3aKlysQeVg9wOb0dRcIGlWu.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=JQAYFbcgf60",
+        "genres": [
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 8095,
+        "slug": "cleopatra",
+        "title": "Cleopatra",
+        "overview": "Determined to hold on to the throne, Cleopatra seduces the Roman emperor Julius Caesar. When Caesar is murdered, she redirects her attentions to his general, Marc Antony, who vows to take power\u2014but Caesar\u2019s successor has other plans.",
+        "release_date": "1963-06-12",
+        "backdrop_path": "\/qQGHkmLWPcMGkKws78pFh14SzUo.jpg",
+        "rating": 7.1,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/bj7rUGUewofA9cpHt1h36gvDFfy.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=qepcw9Abw3E",
+        "genres": [
+            "Drama",
+            "History",
+            "Romance"
+        ]
+    },
+    {
+        "id": 522241,
+        "slug": "the-courier",
+        "title": "The Courier",
+        "overview": "Cold War spy Greville Wynne and his Russian source try to put an end to the Cuban Missile Crisis.",
+        "release_date": "2020-01-24",
+        "backdrop_path": "\/3pIqd1hgZ2xqzWEyiYp4blqE9Fi.jpg",
+        "rating": 7.033,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/zFIjKtZrzhmc7HecdFXXjsLR2Ig.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=Qeo8qs9xohM",
+        "genres": [
+            "Thriller",
+            "History",
+            "Drama"
+        ]
+    },
+    {
+        "id": 746,
+        "slug": "the-last-emperor",
+        "title": "The Last Emperor",
+        "overview": "A dramatic history of Pu Yi, the last of the Emperors of China, from his lofty birth and brief reign in the Forbidden City, the object of worship by half a billion people; through his abdication, his decline and dissolute lifestyle; his exploitation by the invading Japanese, and finally to his obscure existence as just another peasant worker in the People's Republic.",
+        "release_date": "1987-10-04",
+        "backdrop_path": "\/mTw4n5MYQMftHuGsSmBrgMu7C1H.jpg",
+        "rating": 7.631,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/7TILJhdeJAaEyDiwvJZMo9SQBoe.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=uJilPHcnnjw",
+        "genres": [
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 76649,
+        "slug": "pompeii",
+        "title": "Pompeii",
+        "overview": "In 79 A.D., Milo, a slave turned gladiator, finds himself in a race against time to save his true love Cassia, the beautiful daughter of a wealthy merchant who has been unwillingly betrothed to a corrupt Roman Senator. As Mount Vesuvius erupts in a torrent of blazing lava, Milo must fight his way out of the arena in order to save his beloved as the once magnificent Pompeii crumbles around him.",
+        "release_date": "2014-02-18",
+        "backdrop_path": "\/2Pd1IbMVubk2UNorJK5G1xR1cwG.jpg",
+        "rating": 5.531,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/dxxM3lLDjGRC50i5rhvfQziskAN.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=t6TRwfxDICM",
+        "genres": [
+            "Action",
+            "Adventure",
+            "History",
+            "Romance",
+            "Drama"
+        ]
+    },
+    {
+        "id": 10590,
+        "slug": "we-were-soldiers",
+        "title": "We Were Soldiers",
+        "overview": "The story of the first major battle of the American phase of the Vietnam War and the soldiers on both sides that fought it.",
+        "release_date": "2002-03-01",
+        "backdrop_path": "\/98YHKGqgiRSnjkpOvht9DJEhYHe.jpg",
+        "rating": 7.13,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/q2LeLzw4q9HTelkKx29dyTMf5zK.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=HnLHmGzByPA",
+        "genres": [
+            "Action",
+            "History",
+            "War"
+        ]
+    },
+    {
+        "id": 127533,
+        "slug": "rurouni-kenshin-part-i:-origins",
+        "title": "Rurouni Kenshin Part I: Origins",
+        "overview": "In 1868, after the Bakumatsu war ends, the ex-assassin Kenshin Himura traverses Japan with an inverted sword, to defend the needy without killing.",
+        "release_date": "2012-08-25",
+        "backdrop_path": "\/2bHoj05gR7I5gp4oeoDCY6bU42d.jpg",
+        "rating": 7.556,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/qw6UADMtSw7hg3bmvQQLbTXFvUf.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=SZCAIAvQeAM",
+        "genres": [
+            "Adventure",
+            "Action",
+            "Fantasy",
+            "War",
+            "History"
+        ]
+    },
+    {
+        "id": 733209,
+        "slug": "man-of-god",
+        "title": "Man of God",
+        "overview": "Exiled unjustly, convicted without trial, slandered without cause. Man of God depicts the trials and tribulations of Saint Nektarios of Aegina, as he bears the unjust hatred of his enemies while preaching the Word of God.",
+        "release_date": "2021-08-26",
+        "backdrop_path": "\/ecGdUZveExNhLwvVdo4E0qPjjFj.jpg",
+        "rating": 6.9,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/zvbyqV8CPMSiqaeOXteRXYg6CPI.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=0Oi1bsmR0Z8",
+        "genres": [
+            "History",
+            "Drama"
+        ]
+    },
+    {
+        "id": 491480,
+        "slug": "the-boy-who-harnessed-the-wind",
+        "title": "The Boy Who Harnessed the Wind",
+        "overview": "Against all the odds, a thirteen year old boy in Malawi invents an unconventional way to save his family and village from famine.",
+        "release_date": "2019-02-14",
+        "backdrop_path": "\/hpGkXl6iNdtQLXHS7xiv57N217B.jpg",
+        "rating": 7.919,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/yOr7RxHw15MMXNxGMXSmngDqHyI.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=nPkr9HmglG0",
+        "genres": [
+            "Drama",
+            "History",
+            "Family"
+        ]
+    },
+    {
+        "id": 491480,
+        "slug": "the-boy-who-harnessed-the-wind",
+        "title": "The Boy Who Harnessed the Wind",
+        "overview": "Against all the odds, a thirteen year old boy in Malawi invents an unconventional way to save his family and village from famine.",
+        "release_date": "2019-02-14",
+        "backdrop_path": "\/hpGkXl6iNdtQLXHS7xiv57N217B.jpg",
+        "rating": 7.919,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/yOr7RxHw15MMXNxGMXSmngDqHyI.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=nPkr9HmglG0",
+        "genres": [
+            "Drama",
+            "History",
+            "Family"
+        ]
+    },
+    {
+        "id": 696157,
+        "slug": "whitney-houston:-i-wanna-dance-with-somebody",
+        "title": "Whitney Houston: I Wanna Dance with Somebody",
+        "overview": "The joyous, emotional, heartbreaking celebration of the life and music of Whitney Houston, the greatest female R&B pop vocalist of all time. Tracking her journey from obscurity to musical superstardom.",
+        "release_date": "2022-12-20",
+        "backdrop_path": "\/AcKPLFva3hnfdsArF5bcPTESVCo.jpg",
+        "rating": 7.015,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/oodPJ3Op1pWBhnEFyw5fampRCWf.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=WcBKfSOKYdc",
+        "genres": [
+            "Music",
+            "History",
+            "Drama"
+        ]
+    },
+    {
+        "id": 82695,
+        "slug": "les-mis\u00e9rables",
+        "title": "Les Mis\u00e9rables",
+        "overview": "An adaptation of the successful stage musical based on Victor Hugo's classic novel set in 19th-century France. Jean Valjean, a man imprisoned for stealing bread, must flee a relentless policeman named Javert. The pursuit consumes both men's lives, and soon Valjean finds himself in the midst of the student revolutions in France.",
+        "release_date": "2012-12-18",
+        "backdrop_path": "\/jd3Z2sAPDavjRxFhfOak6kCrUIG.jpg",
+        "rating": 7.3,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/90PyvT7SI5INKhMC6P7B5NJVx4t.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=28sHoKcpugw",
+        "genres": [
+            "History",
+            "Drama"
+        ]
+    },
+    {
+        "id": 300168,
+        "slug": "dragon-blade",
+        "title": "Dragon Blade",
+        "overview": "Huo An, the commander of the Protection Squad of the Western Regions, was framed by evil forces and becomes enslaved. On the other hand, a Roman general escapes to China after rescuing the Prince. The heroic duo meet in the Western Desert and a thrilling story unfolds.",
+        "release_date": "2015-02-19",
+        "backdrop_path": "\/rnNkUJlo03a8D0utxiOrADstaMT.jpg",
+        "rating": 6.4,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/suTAWYLIHAnkH2V4nC8t3AG7HjR.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=lwMlpp8GIAI",
+        "genres": [
+            "Adventure",
+            "History",
+            "Action",
+            "Fantasy"
+        ]
+    },
+    {
+        "id": 1911,
+        "slug": "the-13th-warrior",
+        "title": "The 13th Warrior",
+        "overview": "A Muslim ambassador exiled from his homeland, Ahmad ibn Fadlan finds himself in the company of Vikings. While the behavior of the Norsemen initially offends ibn Fadlan, the more cultured outsider grows to respect the tough, if uncouth, warriors. During their travels together, ibn Fadlan and the Vikings get word of an evil presence closing in, and they must fight the frightening and formidable force, which was previously thought to exist only in legend.",
+        "release_date": "1999-08-13",
+        "backdrop_path": "\/xlSyZzufbB8Nq058EwAVA9HaMbt.jpg",
+        "rating": 6.665,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/rinf4I01FLwUKoXvcZV45QrWmAw.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=TgZYiBCAnME",
+        "genres": [
+            "Adventure",
+            "History",
+            "Action"
+        ]
+    },
+    {
+        "id": 94047,
+        "slug": "my-way",
+        "title": "My Way",
+        "overview": "During the invasion of Normandy the photograph of a slim Korean man in German uniform was found. It transpired that the man had served as a soldier in the Japanese, Russian and German armies. His incredible story inspired director Kang Je-Gyu to create this epic war drama.",
+        "release_date": "2011-12-21",
+        "backdrop_path": "\/4QHF7kAYjIpZ5U8A0amvhRkHlZ1.jpg",
+        "rating": 7.8,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/3moPqIC1EBFilLI3YJNa5Nfel3e.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=d8wjl1jHzro",
+        "genres": [
+            "Drama",
+            "Action",
+            "History",
+            "War"
+        ]
+    },
+    {
+        "id": 10047,
+        "slug": "the-messenger:-the-story-of-joan-of-arc",
+        "title": "The Messenger: The Story of Joan of Arc",
+        "overview": "In 1429 a teenage girl from a remote French village stood before her King with a message she claimed came from God; that she would defeat the world's greatest army and liberate her country from its political and religious turmoil. Following her mission to reclaim god's diminished kingdom - through her amazing victories until her violent and untimely death.",
+        "release_date": "1999-10-27",
+        "backdrop_path": "\/iW2ZLRkKJvFuI6ZkSchk5f8kCPc.jpg",
+        "rating": 6.377,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/bR16gmwgnCD5e5UWPZHc1BsOsV0.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=aCbMOQIs45s",
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Action",
+            "History",
+            "War"
+        ]
+    },
+    {
+        "id": 282631,
+        "slug": "the-admiral:-roaring-currents",
+        "title": "The Admiral: Roaring Currents",
+        "overview": "The film mainly follows the famous 1597 Battle of Myeongryang during the Japanese invasion of Korea 1592-1598, where the iconic Joseon admiral Yi Sun-sin managed to destroy a total of 133 Japanese warships with only 13 ships remaining in his command. The battle, which took place in the Myeongryang Strait off the southwest coast of the Korean Peninsula, is considered one of the greatest victories of Yi.",
+        "release_date": "2014-07-30",
+        "backdrop_path": "\/3KB32UjT3iL6YziK7760YzSiOEI.jpg",
+        "rating": 6.991,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/xx701fnV2e4BlQGwgISLYUG0DsG.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=7PBIHkKi0wM",
+        "genres": [
+            "War",
+            "Action",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 6312,
+        "slug": "brotherhood-of-the-wolf",
+        "title": "Brotherhood of the Wolf",
+        "overview": "In 18th century France, the Chevalier de Fronsac and his Native American friend Mani are sent by the King to the Gevaudan province to investigate the killings of hundreds by a mysterious beast.",
+        "release_date": "2001-01-31",
+        "backdrop_path": "\/d1xgTgcAd5VKDbXwLfnlM9OIWfP.jpg",
+        "rating": 6.7,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/x0bsgEeWqpvH8Lgwgmzi2tujlrV.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=cmMfnFPMGH8",
+        "genres": [
+            "Adventure",
+            "Horror",
+            "Action",
+            "History"
+        ]
+    },
+    {
+        "id": 617653,
+        "slug": "the-last-duel",
+        "title": "The Last Duel",
+        "overview": "King Charles VI declares that Knight Jean de Carrouges settle his dispute with his squire, Jacques Le Gris, by challenging him to a duel.",
+        "release_date": "2021-10-13",
+        "backdrop_path": "\/4LrL40XecjGLRpX5I2gzMTUt04l.jpg",
+        "rating": 7.444,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/zjrJE0fpzPvX8saJXj8VNfcjBoU.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=mgygUwPJvYk",
+        "genres": [
+            "History",
+            "Drama",
+            "Action"
+        ]
+    },
+    {
+        "id": 2525,
+        "slug": "the-bible:-in-the-beginning...",
+        "title": "The Bible: In the Beginning...",
+        "overview": "Covering only the first 22 chapters of the Book of Genesis, vignettes include: Adam and Eve frolicking in the Garden of Eden until their indulgence in the forbidden fruit sees them driven out; Cain murdering his brother Abel; Noah building an ark to preserve the animals of the world from the coming flood; and Abraham making a covenant with God.",
+        "release_date": "1966-09-28",
+        "backdrop_path": "\/6xBqZoj40gIAyLSuemwI38c6OID.jpg",
+        "rating": 7.232,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/2BtesvzFQJYFS2sPVVbUdet0TTC.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=uDrSn0wrJTU",
+        "genres": [
+            "Adventure",
+            "History",
+            "Drama"
+        ]
+    },
+    {
+        "id": 253412,
+        "slug": "everest",
+        "title": "Everest",
+        "overview": "Inspired by the incredible events surrounding a treacherous attempt to reach the summit of the world's highest mountain, \"Everest\" documents the awe-inspiring journey of two different expeditions challenged beyond their limits by one of the fiercest snowstorms ever encountered by mankind. Their mettle tested by the harshest of elements found on the planet, the climbers will face nearly impossible obstacles as a lifelong obsession becomes a breathtaking struggle for survival.",
+        "release_date": "2015-09-10",
+        "backdrop_path": "\/m4JzTSFDqWnvLkjTKIm4kyDXbTO.jpg",
+        "rating": 6.813,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/4xmndWnTYTE4bDdlWrkZyaGcZlo.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=5CKZwKpV06U",
+        "genres": [
+            "Adventure",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 9665,
+        "slug": "glory",
+        "title": "Glory",
+        "overview": "Robert Gould Shaw leads the US Civil War's first all-black volunteer company, fighting prejudices of both his own Union army and the Confederates.",
+        "release_date": "1989-12-15",
+        "backdrop_path": "\/eW8c4u3WhOVkPMnfe294lXggO3i.jpg",
+        "rating": 7.483,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/tubPIJJah9iJ9eDHXxaxjLdOcQd.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=PAq1_RJJEHo",
+        "genres": [
+            "Drama",
+            "History",
+            "War"
+        ]
+    },
+    {
+        "id": 9665,
+        "slug": "glory",
+        "title": "Glory",
+        "overview": "Robert Gould Shaw leads the US Civil War's first all-black volunteer company, fighting prejudices of both his own Union army and the Confederates.",
+        "release_date": "1989-12-15",
+        "backdrop_path": "\/eW8c4u3WhOVkPMnfe294lXggO3i.jpg",
+        "rating": 7.483,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/tubPIJJah9iJ9eDHXxaxjLdOcQd.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=PAq1_RJJEHo",
+        "genres": [
+            "Drama",
+            "History",
+            "War"
+        ]
+    },
+    {
+        "id": 5925,
+        "slug": "the-great-escape",
+        "title": "The Great Escape",
+        "overview": "The Nazis, exasperated at the number of escapes from their prison camps by a relatively small number of Allied prisoners, relocate them to a high-security 'escape-proof' camp to sit out the remainder of the war. Undaunted, the prisoners plan one of the most ambitious escape attempts of World War II. Based on a true story.",
+        "release_date": "1963-07-03",
+        "backdrop_path": "\/zlg0d4pnq1xDOU4cQxqGG8bX5l0.jpg",
+        "rating": 7.943,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/gBH4H8UMFxl139HaLz6lRuvsel8.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=M2bEzJFVdQ4",
+        "genres": [
+            "Adventure",
+            "Drama",
+            "History",
+            "Thriller",
+            "War"
+        ]
+    },
+    {
+        "id": 117,
+        "slug": "the-untouchables",
+        "title": "The Untouchables",
+        "overview": "Young Treasury Agent Eliot Ness arrives in Chicago and is determined to take down Al Capone, but it's not going to be easy because Capone has the police in his pocket. Ness meets Jim Malone, a veteran patrolman and probably the most honorable one on the force. He asks Malone to help him get Capone, but Malone warns him that if he goes after Capone, he is going to war.",
+        "release_date": "1987-06-03",
+        "backdrop_path": "\/i1oWUGVDNBhGBykcCRBlX326udb.jpg",
+        "rating": 7.774,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/8BquGK22zCcsmBWiaIakaaPpSZb.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=YbzkK06MJjE",
+        "genres": [
+            "Crime",
+            "Drama",
+            "History",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 823452,
+        "slug": "the-boys-in-the-boat",
+        "title": "The Boys in the Boat",
+        "overview": "The triumphant underdog story of the University of Washington men's rowing team, who stunned the world by winning gold at the 1936 Berlin Olympics.",
+        "release_date": "2023-12-25",
+        "backdrop_path": "\/mHpoCdCSebNDIIHbqaAxbD57o7H.jpg",
+        "rating": 7.633,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/ncJMztHprw3gLRAnDjNnnT23CIt.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=dfEA-udzjjQ",
+        "genres": [
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 300673,
+        "slug": "the-finest-hours",
+        "title": "The Finest Hours",
+        "overview": "The Coast Guard makes a daring rescue attempt off the coast of Cape Cod after a pair of oil tankers are destroyed during a blizzard in 1952.",
+        "release_date": "2016-01-27",
+        "backdrop_path": "\/6XJ5iKhwFb0rY3P8PTjfsgdSZ9u.jpg",
+        "rating": 6.587,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/6UG91TJ4DKI6FGdqXZfDBeRZHX8.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=R-XsppzuH-k",
+        "genres": [
+            "Action",
+            "Drama",
+            "History",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 873,
+        "slug": "the-color-purple",
+        "title": "The Color Purple",
+        "overview": "An epic tale spanning forty years in the life of Celie, an African-American woman living in the South who survives incredible abuse and bigotry. After Celie's abusive father marries her off to the equally debasing 'Mister' Albert Johnson, things go from bad to worse, leaving Celie to find companionship anywhere she can. She perseveres, holding on to her dream of one day being reunited with her sister in Africa.",
+        "release_date": "1985-12-18",
+        "backdrop_path": "\/rhMpAPvoy1beXd8gA6CvYoCSztj.jpg",
+        "rating": 7.8,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/ziosRyziefrmEmAMIswpjQzvAur.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=_h-efLS7VV4",
+        "genres": [
+            "Drama",
+            "History",
+            "Crime"
+        ]
+    },
+    {
+        "id": 261023,
+        "slug": "black-mass",
+        "title": "Black Mass",
+        "overview": "The true story of Whitey Bulger, the brother of a state senator and the most infamous violent criminal in the history of South Boston, who became an FBI informant to take down a Mafia family invading his turf.",
+        "release_date": "2015-09-17",
+        "backdrop_path": "\/hrUYRjmMniDyxAsuXhhNC4vrfck.jpg",
+        "rating": 6.507,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/zfwciv4LIJkNQsfuhYGv0Nkiweg.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=R_F-lVhSfx8",
+        "genres": [
+            "Drama",
+            "Crime",
+            "History"
+        ]
+    },
+    {
+        "id": 271969,
+        "slug": "ben-hur",
+        "title": "Ben-Hur",
+        "overview": "A falsely accused nobleman survives years of slavery to take vengeance on his best friend who betrayed him.",
+        "release_date": "2016-08-17",
+        "backdrop_path": "\/qcquSEEdkKeXDmyKvrAKWznk2Cs.jpg",
+        "rating": 5.719,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/c9CoGrBA5yw8A7YBMz0hGzfzpNq.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=gLJdzky63BA",
+        "genres": [
+            "Action",
+            "History",
+            "Adventure",
+            "Drama"
+        ]
+    },
+    {
+        "id": 726759,
+        "slug": "tetris",
+        "title": "Tetris",
+        "overview": "In 1988, American video game salesman Henk Rogers discovers the video game Tetris. When he sets out to bring the game to the world, he enters a dangerous web of lies and corruption behind the Iron Curtain.",
+        "release_date": "2023-03-15",
+        "backdrop_path": "\/4avmIRBBOs9b4DKoenf8SWWJJP7.jpg",
+        "rating": 7.73,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/4F2QwCOYHJJjecSvdOjStuVLkpu.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=-BLM1naCfME",
+        "genres": [
+            "Thriller",
+            "History",
+            "Drama"
+        ]
+    },
+    {
+        "id": 169881,
+        "slug": "the-physician",
+        "title": "The Physician",
+        "overview": "England, 1021. Rob Cole, a boy born in a miserable mining town, swears to become a physician and vanquish disease and death. His harsh path of many years, a quest for knowledge besieged by countless challenges and sacrifices, leads him to the remote Isfahan, in Persia, where he meets Ibn Sina, the greatest healer of his time.",
+        "release_date": "2013-12-25",
+        "backdrop_path": "\/5VuOmxGfqu7yf05q8Q6SUKOh7oe.jpg",
+        "rating": 7.344,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/6koFQEuyZKNYcBMSVEHYtAeIpUE.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=IOj-Pn5WJkw",
+        "genres": [
+            "Adventure",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 152760,
+        "slug": "the-monuments-men",
+        "title": "The Monuments Men",
+        "overview": "Based on the true story of the greatest treasure hunt in history, The Monuments Men is an action drama focusing on seven over-the-hill, out-of-shape museum directors, artists, architects, curators, and art historians who went to the front lines of WWII to rescue the world\u2019s artistic masterpieces from Nazi thieves and return them to their rightful owners.  With the art hidden behind enemy lines, how could these guys hope to succeed?",
+        "release_date": "2014-01-24",
+        "backdrop_path": "\/uLBJtONQwHoGc61vbIfoC6a9gUp.jpg",
+        "rating": 6.045,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/wiWAg4mKV2S4vImPxsPRIdj2R2B.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=oBfMOmR4S9M",
+        "genres": [
+            "War",
+            "Drama",
+            "History",
+            "Action"
+        ]
+    },
+    {
+        "id": 401200,
+        "slug": "kursk",
+        "title": "Kursk",
+        "overview": "Barents Sea, August 12th, 2000. During a Russian naval exercise, and after suffering a serious accident, the K-141 Kursk submarine sinks with 118 crew members on board. While the few sailors who are still alive barely manage to survive, their families push for accurate information and a British officer struggles to obtain from the Russian government a permit to attempt a rescue before it is late. But general incompetence are against all their efforts.",
+        "release_date": "2018-11-07",
+        "backdrop_path": "\/tpn4FbxL6oeZh8YtanV1a0k7dLB.jpg",
+        "rating": 6.688,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/1Y09MkMJ8CESSPW4fcbDm9s5cAS.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=vJAQKZ-byw4",
+        "genres": [
+            "Drama",
+            "History",
+            "Thriller",
+            "Action"
+        ]
+    },
+    {
+        "id": 3683,
+        "slug": "flags-of-our-fathers",
+        "title": "Flags of Our Fathers",
+        "overview": "There were five Marines and one Navy Corpsman photographed raising the U.S. flag on Mt. Suribachi by Joe Rosenthal on February 23, 1945. This is the story of three of the six surviving servicemen - John 'Doc' Bradley, Pvt. Rene Gagnon and Pvt. Ira Hayes - who fought in the battle to take Iwo Jima from the Japanese.",
+        "release_date": "2006-10-18",
+        "backdrop_path": "\/vscsDExaKK0oKqrYBze9Tm2oitf.jpg",
+        "rating": 6.848,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/2nkPrhf4YIyMFelfe4zdOnGRYz5.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=NktXJiCi4mk",
+        "genres": [
+            "War",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 398978,
+        "slug": "the-irishman",
+        "title": "The Irishman",
+        "overview": "Pennsylvania, 1956. Frank Sheeran, a war veteran of Irish origin who works as a truck driver, accidentally meets mobster Russell Bufalino. Once Frank becomes his trusted man, Bufalino sends him to Chicago with the task of helping Jimmy Hoffa, a powerful union leader related to organized crime, with whom Frank will maintain a close friendship for nearly twenty years.",
+        "release_date": "2019-11-01",
+        "backdrop_path": "\/1RDto0tLo8Fhq7OcwgDaM7nECb7.jpg",
+        "rating": 7.607,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=RS3aHkkfuEI",
+        "genres": [
+            "Crime",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 11515,
+        "slug": "goya's-ghosts",
+        "title": "Goya's Ghosts",
+        "overview": "Painter Francisco Goya becomes involved with the Spanish Inquisition after his muse, In\u00e9s, is arrested by the church for heresy. Her family turns to him, hoping that his connection with fanatical Inquisitor Lorenzo, whom he is painting, can secure her release.",
+        "release_date": "2006-11-08",
+        "backdrop_path": "\/50jOUPVvqcK3bTOVwfAa0FO2fOk.jpg",
+        "rating": 6.63,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/tyZhS8kA07oU5fO3ruamJkgAC0M.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=AS5dIeKPiCE",
+        "genres": [
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 1904,
+        "slug": "memoirs-of-a-geisha",
+        "title": "Memoirs of a Geisha",
+        "overview": "In the years before World War II, a penniless Japanese child is torn from her family to work as a maid in a geisha house.",
+        "release_date": "2005-12-06",
+        "backdrop_path": "\/zJDnqXtGNHUmexiaWNa52Vslve5.jpg",
+        "rating": 7.673,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/pBwYsQaSTgnPphIy02DJjCF2cqs.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=NwJw70Yufug",
+        "genres": [
+            "Drama",
+            "Romance",
+            "History"
+        ]
+    },
+    {
+        "id": 387,
+        "slug": "das-boot",
+        "title": "Das Boot",
+        "overview": "A German submarine hunts allied ships during the Second World War, but it soon becomes the hunted. The crew tries to survive below the surface, while stretching both the boat and themselves to their limits.",
+        "release_date": "1981-09-17",
+        "backdrop_path": "\/tRI6Csmw4rKzMYDrfUx5xtyBSVE.jpg",
+        "rating": 8.087,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/spE9nbdqhoKoTaCNp4H9Tj6Xcrm.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=KhNnU4h1Q50",
+        "genres": [
+            "Drama",
+            "History",
+            "War"
+        ]
+    },
+    {
+        "id": 79,
+        "slug": "hero",
+        "title": "Hero",
+        "overview": "During China's Warring States period, a district prefect arrives at the palace of Qin Shi Huang, claiming to have killed the three assassins who had made an attempt on the king's life three years ago.",
+        "release_date": "2002-07-22",
+        "backdrop_path": "\/jDz6RYN3nKYtlo7J9IMvGoJit7B.jpg",
+        "rating": 7.511,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/1NBtOH3KPU9UUp1vzVHJ8qzdW88.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=_USDk5jaGek",
+        "genres": [
+            "Drama",
+            "Adventure",
+            "Action",
+            "History"
+        ]
+    },
+    {
+        "id": 715931,
+        "slug": "emancipation",
+        "title": "Emancipation",
+        "overview": "Inspired by the gripping true story of a man who would do anything for his family\u2014and for freedom. When Peter, an enslaved man, risks his life to escape and return to his family, he embarks on a perilous journey of love and endurance.",
+        "release_date": "2022-12-02",
+        "backdrop_path": "\/ypFD4TJ3nLJesou76V59CnweaT0.jpg",
+        "rating": 7.859,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/s9sUK1vAaOcxJfKzNTszrNkPhkH.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=C3yHUpR7yv8",
+        "genres": [
+            "Drama",
+            "War",
+            "History"
+        ]
+    },
+    {
+        "id": 437068,
+        "slug": "a-taxi-driver",
+        "title": "A Taxi Driver",
+        "overview": "May, 1980. Man-seob is a taxi driver in Seoul who lives from hand to mouth, raising his young daughter alone. One day, he hears that there is a foreigner who will pay big money for a drive down to Gwangju city. Not knowing that he\u2019s a German journalist with a hidden agenda, Man-seob takes the job.",
+        "release_date": "2017-08-02",
+        "backdrop_path": "\/5l2kTFOC9QicBxOVpocy5pSu4i8.jpg",
+        "rating": 8.062,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/iXVaWbxmyPk4KZGZk5GGDGFieMX.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=bB7z4Xn5oNA",
+        "genres": [
+            "Action",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 314365,
+        "slug": "spotlight",
+        "title": "Spotlight",
+        "overview": "The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.",
+        "release_date": "2015-11-06",
+        "backdrop_path": "\/8FbbcmwmpGd7brfiC7f7lWFNGdi.jpg",
+        "rating": 7.816,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/olYvlO7lZLpUM62w1LYnAgdd6CD.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=WgnrwwiIDlI",
+        "genres": [
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 11422,
+        "slug": "midway",
+        "title": "Midway",
+        "overview": "This war drama depicts the U.S. and Japanese forces in the naval Battle of Midway, which became a turning point for Americans during World War II.",
+        "release_date": "1976-06-18",
+        "backdrop_path": "\/2QCwYIcWkRcGMNSqHFrbdppZgX6.jpg",
+        "rating": 6.625,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/vCzGV28YFmWubUn1jh8ytagYocR.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=WjofsqGsDvY",
+        "genres": [
+            "Action",
+            "Drama",
+            "History",
+            "War"
+        ]
+    },
+    {
+        "id": 531876,
+        "slug": "the-outpost",
+        "title": "The Outpost",
+        "overview": "A small unit of U.S. soldiers, alone at the remote Combat Outpost Keating, located deep in the valley of three mountains in Afghanistan, battles to defend against an overwhelming force of Taliban fighters in a coordinated attack. The Battle of Kamdesh, as it was known, was the bloodiest American engagement of the Afghan War in 2009 and Bravo Troop 3-61 CAV became one of the most decorated units of the 19-year conflict.",
+        "release_date": "2020-06-24",
+        "backdrop_path": "\/n1RohH2VoK1CdVI2fXvcP19dSlm.jpg",
+        "rating": 6.877,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/hPkqY2EMqWUnFEoedukilIUieVG.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=f4LM9a02q9Q",
+        "genres": [
+            "War",
+            "Drama",
+            "History",
+            "Action"
+        ]
+    },
+    {
+        "id": 899524,
+        "slug": "golda",
+        "title": "Golda",
+        "overview": "Set during the tense 19 days of the Yom Kippur War in 1973, Israeli Prime Minister Golda Meir is faced with the potential of Israel\u2019s complete destruction. She must navigate overwhelming odds, a skeptical cabinet and a complex relationship with US Secretary of State Henry Kissinger, with millions of lives in the balance. Her tough leadership and compassion would ultimately decide the fate of her nation and leave her with a controversial legacy around the world.",
+        "release_date": "2023-08-23",
+        "backdrop_path": "\/d1A5OQ4PRYssLilGCTRxqwKSQ8q.jpg",
+        "rating": 6.435,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/4SbxFDkhxZeAAN1zxgVJpdUB3V.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=unW5w6JCEb8",
+        "genres": [
+            "History",
+            "Drama",
+            "Thriller",
+            "War"
+        ]
+    },
+    {
+        "id": 625169,
+        "slug": "12-mighty-orphans",
+        "title": "12 Mighty Orphans",
+        "overview": "Haunted by his mysterious past, a devoted high school football coach leads a scrawny team of orphans to the state championship during the Great Depression and inspires a broken nation along the way.",
+        "release_date": "2021-06-18",
+        "backdrop_path": "\/eg6cyUItUFSBi8ohc9sjehqpJi2.jpg",
+        "rating": 7.17,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/aIY2QF211NLB1AOjZPFImusCLI1.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=cgM_oyXE0d0",
+        "genres": [
+            "History",
+            "Drama",
+            "Action"
+        ]
+    },
+    {
+        "id": 11953,
+        "slug": "kagemusha",
+        "title": "Kagemusha",
+        "overview": "Akira Kurosawa's lauded feudal epic presents the tale of a petty thief who is recruited to impersonate Shingen, an aging warlord, in order to avoid attacks by competing clans. When Shingen dies, his generals reluctantly agree to have the impostor take over as the powerful ruler. He soon begins to appreciate life as Shingen, but his commitment to the role is tested when he must lead his troops into battle against the forces of a rival warlord.",
+        "release_date": "1980-04-26",
+        "backdrop_path": "\/lkivVsolS6RPCuy8wgHvixGRJcE.jpg",
+        "rating": 7.808,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/ag3sgXg27j8NTaIbWoODIFiikfw.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=w6jYtVvor6s",
+        "genres": [
+            "Action",
+            "Drama",
+            "History",
+            "War"
+        ]
+    },
+    {
+        "id": 487616,
+        "slug": "curiosa",
+        "title": "Curiosa",
+        "overview": "A passionate love story set against a backdrop of sexual freedom, loosely based on the relationship between 19th century authors Pierre Lou\u00ffs and Marie de R\u00e9gnier",
+        "release_date": "2019-04-03",
+        "backdrop_path": "\/aRrwidSeet0PSUquMGpWXp3Ikic.jpg",
+        "rating": 6,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/fxHchovLxOnH65Eel3fAHr9i4Qi.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=CiEnQqm89EY",
+        "genres": [
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 11820,
+        "slug": "mona-lisa-smile",
+        "title": "Mona Lisa Smile",
+        "overview": "Katherine Watson is a recent UCLA graduate hired to teach art history at the prestigious all-female Wellesley College, in 1953. Determined to confront the outdated mores of society and the institution that embraces them, Katherine inspires her traditional students, including Betty and Joan, to challenge the lives they are expected to lead.",
+        "release_date": "2003-12-19",
+        "backdrop_path": "\/tYEy2yRjzQ1hmbT7AHJYjkTZQlh.jpg",
+        "rating": 6.939,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/bg0VKsXnLjIZ0cHmZHZLs9gzrvm.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=TqSX57vIXIg",
+        "genres": [
+            "Drama",
+            "History",
+            "Romance"
+        ]
+    },
+    {
+        "id": 72431,
+        "slug": "red-tails",
+        "title": "Red Tails",
+        "overview": "The story of the Tuskegee Airmen, the first African-American pilots to fly in a combat squadron during World War II.",
+        "release_date": "2012-01-19",
+        "backdrop_path": "\/k0q6OmVjVsMIocC3ovjh1Vzgx7J.jpg",
+        "rating": 6.5,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/jiORLnBsGcVcqIibkGBE213zAyh.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=NVq6Xr5fcfk",
+        "genres": [
+            "Drama",
+            "Action",
+            "Adventure",
+            "History",
+            "War"
+        ]
+    },
+    {
+        "id": 58882,
+        "slug": "snow-flower-and-the-secret-fan",
+        "title": "Snow Flower and the Secret Fan",
+        "overview": "A story set in 19th century China and centered on the lifelong friendship between two girls who develop their own secret code as a way to contend with the rigid cultural norms imposed on women.",
+        "release_date": "2011-07-15",
+        "backdrop_path": "\/207Wp7WU6QGoxKB0iEQtLXAHue0.jpg",
+        "rating": 6.059,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/lhhlq19I9BjcfmGLZc7SzHQULo0.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=Aa93drpm30E",
+        "genres": [
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 1016084,
+        "slug": "blackberry",
+        "title": "BlackBerry",
+        "overview": "Two mismatched entrepreneurs \u2013 egghead innovator Mike Lazaridis and cut-throat businessman Jim Balsillie \u2013 joined forces in an endeavour that was to become a worldwide hit in little more than a decade. The story of the meteoric rise and catastrophic demise of the world's first smartphone.",
+        "release_date": "2023-02-13",
+        "backdrop_path": "\/cUHxmWfkp6se0Rt10Kr86bMCYDE.jpg",
+        "rating": 7.174,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/nQSvHZDuMlrZdm7ooMo8gb4CXhW.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=cXL_HDzBQsM",
+        "genres": [
+            "Drama",
+            "Comedy",
+            "History"
+        ]
+    },
+    {
+        "id": 978,
+        "slug": "seven-years-in-tibet",
+        "title": "Seven Years in Tibet",
+        "overview": "Austrian mountaineer, Heinrich Harrer journeys to the Himalayas without his family to head an expedition in 1939. But when World War II breaks out, the arrogant Harrer falls into Allied forces' hands as a prisoner of war. He escapes with a fellow detainee and makes his way to Llaso, Tibet, where he meets the 14-year-old Dalai Lama, whose friendship ultimately transforms his outlook on life.",
+        "release_date": "1997-09-12",
+        "backdrop_path": "\/dgiOBykxfUAtb01VUnkHsTCwfsG.jpg",
+        "rating": 7.169,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/5euQXAgJ34TdUFl1t3O6Jw2lJAs.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=TWkrRTPtKss",
+        "genres": [
+            "Adventure",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 11620,
+        "slug": "quo-vadis",
+        "title": "Quo Vadis",
+        "overview": "After fierce Roman commander Marcus Vinicius becomes infatuated with beautiful Christian hostage Lygia, he begins to question the tyrannical leadership of the despotic emperor Nero.",
+        "release_date": "1951-11-08",
+        "backdrop_path": "\/goyLlBUlfZwbKIJFvPbRmpkKYZ.jpg",
+        "rating": 7.06,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/205q2KznSETw5MeUHupvusQGXDC.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=TorZfZwuhls",
+        "genres": [
+            "Drama",
+            "History",
+            "Romance"
+        ]
+    },
+    {
+        "id": 583406,
+        "slug": "judas-and-the-black-messiah",
+        "title": "Judas and the Black Messiah",
+        "overview": "Bill O'Neal infiltrates the Black Panthers on the orders of FBI Agent Mitchell and J. Edgar Hoover. As Black Panther Chairman Fred Hampton ascends\u2014falling for a fellow revolutionary en route\u2014a battle wages for O\u2019Neal\u2019s soul.",
+        "release_date": "2021-02-12",
+        "backdrop_path": "\/fatz1aegtBGh7KS0gipcsw9MqUn.jpg",
+        "rating": 7.347,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/iIgr75GoqFxe1X5Wz9siOODGe9u.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=6ivHf4ODMi4",
+        "genres": [
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 928123,
+        "slug": "the-battle-at-lake-changjin-ii:-water-gate-bridge",
+        "title": "The Battle at Lake Changjin II: Water Gate Bridge",
+        "overview": "In the follow-up to \"The Battle At Lake Changjin\", brothers Wu Qianli and Wu Wanli undertake a new task for the People's Volunteer Army, defending a bridge part of the American troops' escape route from the advancing Chinese.",
+        "release_date": "2022-02-01",
+        "backdrop_path": "\/mMA2YNddowV8MZtxpbn0a7Yilum.jpg",
+        "rating": 6.385,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/4W58wirZhbzcw2lNzRS2ErKnOGS.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=xOxJ76KW_8g",
+        "genres": [
+            "War",
+            "History",
+            "Action",
+            "Drama"
+        ]
+    },
+    {
+        "id": 928123,
+        "slug": "the-battle-at-lake-changjin-ii:-water-gate-bridge",
+        "title": "The Battle at Lake Changjin II: Water Gate Bridge",
+        "overview": "In the follow-up to \"The Battle At Lake Changjin\", brothers Wu Qianli and Wu Wanli undertake a new task for the People's Volunteer Army, defending a bridge part of the American troops' escape route from the advancing Chinese.",
+        "release_date": "2022-02-01",
+        "backdrop_path": "\/mMA2YNddowV8MZtxpbn0a7Yilum.jpg",
+        "rating": 6.385,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/4W58wirZhbzcw2lNzRS2ErKnOGS.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=xOxJ76KW_8g",
+        "genres": [
+            "War",
+            "History",
+            "Action",
+            "Drama"
+        ]
+    },
+    {
+        "id": 289222,
+        "slug": "the-zookeeper's-wife",
+        "title": "The Zookeeper's Wife",
+        "overview": "The account of keepers of the Warsaw Zoo, Jan and Antonina Zabinski, who helped save hundreds of people and animals during the Nazi invasion.",
+        "release_date": "2017-03-24",
+        "backdrop_path": "\/rE6W3KHdIuTdgRDLOOOMR3gfGgc.jpg",
+        "rating": 7.3,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/50KGpMiIvSkF4WHOgp0gM6r6sMU.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=rJNFeHHGGN4",
+        "genres": [
+            "Drama",
+            "History",
+            "War"
+        ]
+    },
+    {
+        "id": 502425,
+        "slug": "escape-from-pretoria",
+        "title": "Escape from Pretoria",
+        "overview": "South Africa, 1978. Tim Jenkin and Stephen Lee, two white political activists from the African National Congress imprisoned by the apartheid regime, put a plan in motion to escape from the infamous Pretoria Prison.",
+        "release_date": "2020-03-06",
+        "backdrop_path": "\/vwbmp3vvX4U0VjinaQktYOBt5kW.jpg",
+        "rating": 7.247,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/5vePsmbekQ1ysXS6f0lhzgCwvc4.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=fKwsz6ua5EM",
+        "genres": [
+            "Drama",
+            "History",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 826,
+        "slug": "the-bridge-on-the-river-kwai",
+        "title": "The Bridge on the River Kwai",
+        "overview": "The classic story of English POWs in Burma forced to build a bridge to aid the war effort of their Japanese captors. British and American intelligence officers conspire to blow up the structure, but Col. Nicholson, the commander who supervised the bridge's construction, has acquired a sense of pride in his creation and tries to foil their plans.",
+        "release_date": "1957-10-11",
+        "backdrop_path": "\/liZhDhrrNVX8IK4TaeaFodzMamy.jpg",
+        "rating": 7.834,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/7paXMt2e3Tr5dLmEZOGgFEn2Vo7.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=B0FkqP8ipNY",
+        "genres": [
+            "Drama",
+            "History",
+            "War"
+        ]
+    },
+    {
+        "id": 45269,
+        "slug": "the-king's-speech",
+        "title": "The King's Speech",
+        "overview": "The King's Speech tells the story of the man who became King George VI, the father of Queen Elizabeth II. After his brother abdicates, George ('Bertie') reluctantly assumes the throne. Plagued by a dreaded stutter and considered unfit to be king, Bertie engages the help of an unorthodox speech therapist named Lionel Logue. Through a set of unexpected techniques, and as a result of an unlikely friendship, Bertie is able to find his voice and boldly lead the country into war.",
+        "release_date": "2010-11-26",
+        "backdrop_path": "\/5eb7l7AE2yU0mvb38fR5qLNhDDH.jpg",
+        "rating": 7.741,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/pVNKXVQFukBaCz6ML7GH3kiPlQP.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=OpH8kO1AyVA",
+        "genres": [
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 487558,
+        "slug": "blackkklansman",
+        "title": "BlacKkKlansman",
+        "overview": "Colorado Springs, late 1970s. Ron Stallworth, an African American police officer, and Flip Zimmerman, his Jewish colleague, run an undercover operation to infiltrate the Ku Klux Klan.",
+        "release_date": "2018-08-09",
+        "backdrop_path": "\/ot3eZ9XfOF42a3zFWluMPWkfCHB.jpg",
+        "rating": 7.517,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/8jxqAvSDoneSKRczaK8v9X5gqBp.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=7tgMuagdEhc",
+        "genres": [
+            "Comedy",
+            "Crime",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 152532,
+        "slug": "dallas-buyers-club",
+        "title": "Dallas Buyers Club",
+        "overview": "Loosely based on the true-life tale of Ron Woodroof, a drug-taking, women-loving, homophobic man who in 1986 was diagnosed with HIV\/AIDS and given thirty days to live.",
+        "release_date": "2013-11-01",
+        "backdrop_path": "\/jHwASc8hBtdfRGUmxS6pq5mHiyN.jpg",
+        "rating": 7.93,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/7Fdh7gUq3plvQqxRbNYhWvDABXA.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=KDvPcBeOn8E",
+        "genres": [
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 279,
+        "slug": "amadeus",
+        "title": "Amadeus",
+        "overview": "Wolfgang Amadeus Mozart is a remarkably talented young Viennese composer who unwittingly finds a fierce rival in the disciplined and determined Antonio Salieri. Resenting Mozart for both his hedonistic lifestyle and his undeniable talent, the highly religious Salieri is gradually consumed by his jealousy and becomes obsessed with Mozart's downfall, leading to a devious scheme that has dire consequences for both men.",
+        "release_date": "1984-09-19",
+        "backdrop_path": "\/4i3Amppd6eW5Qkhjv4gdHk3CCoE.jpg",
+        "rating": 8.038,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/1n5VUlCqgmVax1adxGZm8oCFaKc.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=_R4fbdzzXok",
+        "genres": [
+            "History",
+            "Music",
+            "Drama"
+        ]
+    },
+    {
+        "id": 10423,
+        "slug": "dragon:-the-bruce-lee-story",
+        "title": "Dragon: The Bruce Lee Story",
+        "overview": "This film is a glimpse into the life, love and the unconquerable spirit of the legendary Bruce Lee. From a childhood of rigorous martial arts training, Lee realizes his dream of opening his own kung-fu school in America. Before long, he is discovered by a Hollywood producer and begins a meteoric rise to fame and an all too short reign as one the most charismatic action heroes in cinema history.",
+        "release_date": "1993-05-07",
+        "backdrop_path": "\/jLHEJba6m2SJKzMJRzVaoFGCbg2.jpg",
+        "rating": 6.903,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/lxhsdC8wuGgQf0gKCt8wyHHxGcQ.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=64Fi-X_74gQ",
+        "genres": [
+            "Drama",
+            "History",
+            "Action"
+        ]
+    },
+    {
+        "id": 943822,
+        "slug": "prizefighter:-the-life-of-jem-belcher",
+        "title": "Prizefighter: The Life of Jem Belcher",
+        "overview": "At the turn of the 19th century, Pugilism was the sport of kings and a gifted young boxer fought his way to becoming champion of England.",
+        "release_date": "2022-06-30",
+        "backdrop_path": "\/sd7HrUtbdWhuJ5NLYz0a9ysR6TB.jpg",
+        "rating": 6.3,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/x3PIk93PTbxT88ohfeb26L1VpZw.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=Ljn43-dp5oQ",
+        "genres": [
+            "History",
+            "Drama"
+        ]
+    },
+    {
+        "id": 10907,
+        "slug": "the-adventures-of-robin-hood",
+        "title": "The Adventures of Robin Hood",
+        "overview": "Robin Hood fights nobly for justice against the evil Sir Guy of Gisbourne while striving to win the hand of the beautiful Maid Marian.",
+        "release_date": "1938-05-13",
+        "backdrop_path": "\/ifxyUSC5QDnjWaCmSgEJ7DhLt5Y.jpg",
+        "rating": 7.453,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/c7LX3GMf9uXQTgVm3uxpm7E6Woc.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=dwzLBwPLB_E",
+        "genres": [
+            "Adventure",
+            "Romance",
+            "History"
+        ]
+    },
+    {
+        "id": 10907,
+        "slug": "the-adventures-of-robin-hood",
+        "title": "The Adventures of Robin Hood",
+        "overview": "Robin Hood fights nobly for justice against the evil Sir Guy of Gisbourne while striving to win the hand of the beautiful Maid Marian.",
+        "release_date": "1938-05-13",
+        "backdrop_path": "\/ifxyUSC5QDnjWaCmSgEJ7DhLt5Y.jpg",
+        "rating": 7.453,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/c7LX3GMf9uXQTgVm3uxpm7E6Woc.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=dwzLBwPLB_E",
+        "genres": [
+            "Adventure",
+            "Romance",
+            "History"
+        ]
+    },
+    {
+        "id": 972433,
+        "slug": "race-for-glory:-audi-vs-lancia",
+        "title": "Race for Glory: Audi vs Lancia",
+        "overview": "Inspired by true events that occurred during the fierce rivalry between Germany (Audi) and Italy (Lancia) at the 1983 Rally World Championships.",
+        "release_date": "2024-01-05",
+        "backdrop_path": "\/wdVIxl9ZtODOfUIELC9KKrnbQPK.jpg",
+        "rating": 6.2,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/ovoybG8mCn6nQ6i5WoC8DdR08c2.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=3X1jyBaPTAs",
+        "genres": [
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 820,
+        "slug": "jfk",
+        "title": "JFK",
+        "overview": "Follows the investigation into the assassination of President John F. Kennedy led by New Orleans district attorney Jim Garrison.",
+        "release_date": "1991-12-20",
+        "backdrop_path": "\/lGJxJQCiEeaoXAoQUvBcv6lRa7U.jpg",
+        "rating": 7.591,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/r0VWVTYlqdRCK5ZoOdNnHdqM2gt.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=s8az13Y1rUM",
+        "genres": [
+            "Drama",
+            "Thriller",
+            "History"
+        ]
+    },
+    {
+        "id": 820,
+        "slug": "jfk",
+        "title": "JFK",
+        "overview": "Follows the investigation into the assassination of President John F. Kennedy led by New Orleans district attorney Jim Garrison.",
+        "release_date": "1991-12-20",
+        "backdrop_path": "\/lGJxJQCiEeaoXAoQUvBcv6lRa7U.jpg",
+        "rating": 7.591,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/r0VWVTYlqdRCK5ZoOdNnHdqM2gt.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=s8az13Y1rUM",
+        "genres": [
+            "Drama",
+            "Thriller",
+            "History"
+        ]
+    },
+    {
+        "id": 13813,
+        "slug": "defiance",
+        "title": "Defiance",
+        "overview": "Based on a true story, during World War II, four Jewish brothers escape their Nazi-occupied homeland of West Belarus in Poland and join the Soviet partisans to combat the Nazis. The brothers begin the rescue of roughly 1,200 Jews still trapped in the ghettos of Poland.",
+        "release_date": "2008-12-31",
+        "backdrop_path": "\/cwVwPnsMHrgfM0dkpAJIeU4YEQN.jpg",
+        "rating": 6.846,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/z6yNHcQOveRuAohuejdDFQDEBSs.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=7APcuF5nNfQ",
+        "genres": [
+            "Action",
+            "Drama",
+            "History",
+            "War"
+        ]
+    },
+    {
+        "id": 384680,
+        "slug": "hostiles",
+        "title": "Hostiles",
+        "overview": "A legendary Native American-hating Army captain nearing retirement in 1892 is given one last assignment: to escort a Cheyenne chief and his family through dangerous territory back to his Montana reservation.",
+        "release_date": "2017-12-22",
+        "backdrop_path": "\/rZTj8AVUD8IKlsVF0XFoZzPG2dv.jpg",
+        "rating": 6.913,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/rqoezyB51GfhiloOB5ZErg5HXas.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=lrD0I-vLsXM",
+        "genres": [
+            "Western",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 454527,
+        "slug": "benedetta",
+        "title": "Benedetta",
+        "overview": "A 17th-century nun becomes entangled in a forbidden lesbian affair with a novice. But it is Benedetta's shocking religious visions that threaten to shake the Church to its core.",
+        "release_date": "2021-07-09",
+        "backdrop_path": "\/voi88IfoNAykXAEd0zrnczNM8LF.jpg",
+        "rating": 6.651,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/bQnP9YzjxbJ4kGYYChip4lUIS5U.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=jMpPVqyOTw8",
+        "genres": [
+            "Drama",
+            "History",
+            "Romance"
+        ]
+    },
+    {
+        "id": 522212,
+        "slug": "just-mercy",
+        "title": "Just Mercy",
+        "overview": "The powerful true story of Harvard-educated lawyer Bryan Stevenson, who goes to Alabama to defend the disenfranchised and wrongly condemned \u2014 including Walter McMillian, a man sentenced to death despite evidence proving his innocence. Bryan fights tirelessly for Walter with the system stacked against them.",
+        "release_date": "2019-12-25",
+        "backdrop_path": "\/3gVo3f5We49VKk5BKEIRkxcibwz.jpg",
+        "rating": 7.891,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/4YJNp1cquIkX8JxFwkKNEFQ9tgr.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=GVQbeG5yW78",
+        "genres": [
+            "Drama",
+            "Crime",
+            "History"
+        ]
+    },
+    {
+        "id": 504949,
+        "slug": "the-king",
+        "title": "The King",
+        "overview": "England, 15th century. Hal, a capricious prince who lives among the populace far from court, is forced by circumstances to reluctantly accept the throne and become Henry V.",
+        "release_date": "2019-10-11",
+        "backdrop_path": "\/urwWVsciRiNSmhtMJcck0noWAXr.jpg",
+        "rating": 7.157,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/8u0QBGUbZcBW59VEAdmeFl9g98N.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=svVykTznk9Q",
+        "genres": [
+            "Drama",
+            "History",
+            "War"
+        ]
+    },
+    {
+        "id": 1163258,
+        "slug": "12th-fail",
+        "title": "12th Fail",
+        "overview": "Based on the true story of IPS officer Manoj Kumar Sharma, 12th Fail sheds limelight on fearlessly embracing the idea of restarting the academic journey despite the setbacks and challenges and reclaiming one's destiny at a place where millions of students attempt the world's toughest competitive exam: UPSC.",
+        "release_date": "2023-10-27",
+        "backdrop_path": "\/6RV2o8PBCEyw9ylOWViV1CtULIF.jpg",
+        "rating": 8.342,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/cDWW5l4NTWtQi9McwevrY3knsTd.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=WeMJo701mvQ",
+        "genres": [
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 8741,
+        "slug": "the-thin-red-line",
+        "title": "The Thin Red Line",
+        "overview": "The story of a group of men, an Army Rifle company called C-for-Charlie, who change, suffer, and ultimately make essential discoveries about themselves during the fierce World War II battle of Guadalcanal. It follows their journey, from the surprise of an unopposed landing, through the bloody and exhausting battles that follow, to the ultimate departure of those who survived.",
+        "release_date": "1998-12-23",
+        "backdrop_path": "\/nBBu3nP7uvBAGmock4gOMXdrdrA.jpg",
+        "rating": 7.446,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/seMydAaoxQP6F0xbE1jOcTmn5Jr.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=ejm0XvT3rB8",
+        "genres": [
+            "Drama",
+            "History",
+            "War"
+        ]
+    },
+    {
+        "id": 7978,
+        "slug": "the-wolfman",
+        "title": "The Wolfman",
+        "overview": "Lawrence Talbot, an American man on a visit to Victorian London to make amends with his estranged father, gets bitten by a werewolf and, after a moonlight transformation, leaves him with a savage hunger for flesh.",
+        "release_date": "2010-02-10",
+        "backdrop_path": "\/aJKcFHxZp0oFJwQ1wHqjyqNpqXY.jpg",
+        "rating": 5.853,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/guedPkxdWYoi8zv9l05uWbKtbQ5.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=NS3nTkvvHi8",
+        "genres": [
+            "Horror",
+            "History",
+            "Drama",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 975,
+        "slug": "paths-of-glory",
+        "title": "Paths of Glory",
+        "overview": "A commanding officer defends three scapegoats on trial for a failed offensive that occurred within the French Army in 1916.",
+        "release_date": "1957-10-25",
+        "backdrop_path": "\/354kfjVb96mtFALMhBE6jzHGiA2.jpg",
+        "rating": 8.274,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/p7OHwomA8UOhe3EhckF2IetBTh9.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=icZyfkL4FMY",
+        "genres": [
+            "War",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 891,
+        "slug": "all-the-president's-men",
+        "title": "All the President's Men",
+        "overview": "During the 1972 elections, two reporters' investigation sheds light on the controversial Watergate scandal that compels President Nixon to resign from his post.",
+        "release_date": "1976-04-09",
+        "backdrop_path": "\/qvLjTAwwQTcAiYXxnGaXctlqUJ6.jpg",
+        "rating": 7.67,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/cPtSHR7D2WGsDBfnC5DxV927hKn.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=vLt6djxhNe8",
+        "genres": [
+            "Drama",
+            "History",
+            "Mystery",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 333167,
+        "slug": "empire-of-lust",
+        "title": "Empire of Lust",
+        "overview": "A brilliant general distinguishes himself by protecting the dynasty's borders while keeping an eye on one of the sons of the king.",
+        "release_date": "2015-03-05",
+        "backdrop_path": "\/r7E1wjETuYChaZ8vK7rAim6bVlD.jpg",
+        "rating": 6.925,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/bhkjOVlgTFCjLuLFx1GCM9qrszo.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=3vHLlfz9Www",
+        "genres": [
+            "Romance",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 1247,
+        "slug": "the-good-shepherd",
+        "title": "The Good Shepherd",
+        "overview": "Edward Wilson, the only witness to his father's suicide and member of the Skull and Bones Society while a student at Yale, is a morally upright young man who values honor and discretion, qualities that help him to be recruited for a career in the newly founded OSS. His dedication to his work does not come without a price though, leading him to sacrifice his ideals and eventually his family.",
+        "release_date": "2006-12-11",
+        "backdrop_path": "\/9djPnra3CJs83JAqcyhy9lpvsnI.jpg",
+        "rating": 6.343,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/ruyJwuDdxFJB0Tvumm1DKPRlC2p.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=MKStOxOrxiE",
+        "genres": [
+            "Drama",
+            "Thriller",
+            "History"
+        ]
+    },
+    {
+        "id": 20539,
+        "slug": "the-crucible",
+        "title": "The Crucible",
+        "overview": "A Salem resident attempts to frame her ex-lover's wife for being a witch in the middle of the 1692 witchcraft trials.",
+        "release_date": "1996-11-27",
+        "backdrop_path": "\/p7IHqGBWqNtwPA3184jmEpYFEE5.jpg",
+        "rating": 6.573,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/zv69Rev43me5gQ68x7fk1mQzhHn.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=4OBffF0s3Hc",
+        "genres": [
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 2289,
+        "slug": "cold-mountain",
+        "title": "Cold Mountain",
+        "overview": "In this classic story of love and devotion set against the backdrop of the American Civil War, a wounded Confederate soldier named W.P. Inman deserts his unit and travels across the South, aiming to return to his young wife, Ada, who he left behind to tend their farm. As Inman makes his perilous journey home, Ada struggles to keep their home intact with the assistance of Ruby, a mysterious drifter sent to help her by a kindly neighbor.",
+        "release_date": "2003-12-24",
+        "backdrop_path": "\/xjJz025MAPrSeNj18LPjcyu4xFM.jpg",
+        "rating": 6.915,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/32MsALfK6shuSopCrFjSNoxDc5p.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=VuGqy7BZyIo",
+        "genres": [
+            "Drama",
+            "War",
+            "History",
+            "Adventure",
+            "Romance"
+        ]
+    },
+    {
+        "id": 454227,
+        "slug": "outlaw-king",
+        "title": "Outlaw King",
+        "overview": "Forced into exile by the English after being crowned King of Scotland, legendary warrior Robert the Bruce fights to reclaim the throne.",
+        "release_date": "2018-09-06",
+        "backdrop_path": "\/6gfQAboB3UYC6NNSyudYvZtQGT.jpg",
+        "rating": 6.8,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/rT49ousKUWN3dV7UlhaC9onTNdl.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=wHpO9AG_dkE",
+        "genres": [
+            "Action",
+            "History",
+            "War"
+        ]
+    },
+    {
+        "id": 454227,
+        "slug": "outlaw-king",
+        "title": "Outlaw King",
+        "overview": "Forced into exile by the English after being crowned King of Scotland, legendary warrior Robert the Bruce fights to reclaim the throne.",
+        "release_date": "2018-09-06",
+        "backdrop_path": "\/6gfQAboB3UYC6NNSyudYvZtQGT.jpg",
+        "rating": 6.8,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/rT49ousKUWN3dV7UlhaC9onTNdl.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=wHpO9AG_dkE",
+        "genres": [
+            "Action",
+            "History",
+            "War"
+        ]
+    },
+    {
+        "id": 661231,
+        "slug": "operation-mincemeat",
+        "title": "Operation Mincemeat",
+        "overview": "In 1943, two British intelligence officers concoct Operation Mincemeat, wherein their plan to drop a corpse with false papers off the coast of Spain would fool Nazi spies into believing the Allied forces were planning to attack by way of Greece rather than Sicily.",
+        "release_date": "2022-04-01",
+        "backdrop_path": "\/oZtoyj3rhOST8FUtIXUqblIYmCv.jpg",
+        "rating": 6.533,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/tfdfh1mK24VujxT5z11732asxdR.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=zwkSyrN0mvY",
+        "genres": [
+            "War",
+            "History",
+            "Drama"
+        ]
+    },
+    {
+        "id": 493551,
+        "slug": "operation-finale",
+        "title": "Operation Finale",
+        "overview": "In 1960, a team of Israeli secret agents is deployed to find Adolf Eichmann, the infamous Nazi architect of the Holocaust, supposedly hidden in Argentina, and get him to Israel to be judged.",
+        "release_date": "2018-08-29",
+        "backdrop_path": "\/mGR157HpQommDbU0MYQFkHLpvtj.jpg",
+        "rating": 6.695,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/nlIdPeH5IrR1qRErschnVQeZAQu.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=07Y4_6PD0Z4",
+        "genres": [
+            "Drama",
+            "History",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 274109,
+        "slug": "palm-trees-in-the-snow",
+        "title": "Palm Trees in the Snow",
+        "overview": "Spain, 2003. An accidental discovery leads Clarence to travel from the snowy mountains of Huesca to Equatorial Guinea, to visit the land where her father Jacobo and her uncle Kilian spent most of their youth, the island of Fernando Poo.",
+        "release_date": "2015-12-25",
+        "backdrop_path": "\/s3pniDBtG52O26WySm6HY0YLVWh.jpg",
+        "rating": 7.4,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/iIVqgTKbqt24bUTzMlyRX8kB1Ac.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=FvIlsaBxs3k",
+        "genres": [
+            "Drama",
+            "History",
+            "Romance"
+        ]
+    },
+    {
+        "id": 14538,
+        "slug": "three-kingdoms:-resurrection-of-the-dragon",
+        "title": "Three Kingdoms: Resurrection of the Dragon",
+        "overview": "The aging Zhao embarks on his final and greatest campaign, a road to adventure that will crown his name in glory for all time.",
+        "release_date": "2008-04-03",
+        "backdrop_path": "\/aYanA2uSRfYAHRNXqs797PjC9BK.jpg",
+        "rating": 6.2,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/q3MTP7z1d5jEf3aUdMzrW0ww54W.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=1TJEyLqB6JY",
+        "genres": [
+            "Action",
+            "History",
+            "Drama"
+        ]
+    },
+    {
+        "id": 8665,
+        "slug": "k-19:-the-widowmaker",
+        "title": "K-19: The Widowmaker",
+        "overview": "When Russia's first nuclear submarine malfunctions on its maiden voyage, the crew must race to save the ship and prevent a nuclear disaster.",
+        "release_date": "2002-07-19",
+        "backdrop_path": "\/t6fQaSbnYF4NLtf7QiebFDHP4Sr.jpg",
+        "rating": 6.5,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/ojUbKgXLeGr67XCuGVfU9KZh2rg.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=BvHWH8xg0Rw",
+        "genres": [
+            "Drama",
+            "History",
+            "Thriller",
+            "Mystery",
+            "War"
+        ]
+    },
+    {
+        "id": 284552,
+        "slug": "lover-of-the-last-empress",
+        "title": "Lover of the Last Empress",
+        "overview": "The story of an innocent girl who is destined to become one of the emperor\u00b4s concubines. Initially she suffers from a loss of innocence and the intrigues of the other concubines but over the course of time she becomes less and less scrupulous and finally is impregnated by the emperor and thus becomes his wife - the empress of China. However, her \"career\" has corrupted her once innocent soul and so, after the emperor dies she rules the land with terror.",
+        "release_date": "1995-03-17",
+        "backdrop_path": "\/i6lAjyJeU6WaZt92ZCtib1wB1PE.jpg",
+        "rating": 6.083,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/lLuT2O4kEOjeiWOFFO6rf4Smzx9.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=qiDEdHHs0mc",
+        "genres": [
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 29912,
+        "slug": "the-robe",
+        "title": "The Robe",
+        "overview": "Marcellus is a tribune in the time of Christ. He is in charge of the group that is assigned to crucify Jesus. Drunk, he wins Jesus' homespun robe after the crucifixion. He is tormented by nightmares and delusions after the event. Hoping to find a way to live with what he has done, and still not believing in Jesus, he returns to Palestine to try and learn what he can of the man he killed.",
+        "release_date": "1953-09-16",
+        "backdrop_path": "\/kTrxH81sw6cXoTRk0DCoKBbn67I.jpg",
+        "rating": 6.8,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/qFYZNGzftIM8dqGMJBToGraAFJp.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=hzAoBh2ZLL0",
+        "genres": [
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 1492,
+        "slug": "1492:-conquest-of-paradise",
+        "title": "1492: Conquest of Paradise",
+        "overview": "1492: Conquest of Paradise depicts Christopher Columbus\u2019 discovery of The New World and his effect on the indigenous people.",
+        "release_date": "1992-10-09",
+        "backdrop_path": "\/zvQxdWJ1Lb7JNF072EyHcx3kOvE.jpg",
+        "rating": 6.234,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/3effmbI6BbGW9i0HzEDfVGuOsvz.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=bmnLrzG2zKw",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 1492,
+        "slug": "1492:-conquest-of-paradise",
+        "title": "1492: Conquest of Paradise",
+        "overview": "1492: Conquest of Paradise depicts Christopher Columbus\u2019 discovery of The New World and his effect on the indigenous people.",
+        "release_date": "1992-10-09",
+        "backdrop_path": "\/zvQxdWJ1Lb7JNF072EyHcx3kOvE.jpg",
+        "rating": 6.234,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/3effmbI6BbGW9i0HzEDfVGuOsvz.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=bmnLrzG2zKw",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 302401,
+        "slug": "snowden",
+        "title": "Snowden",
+        "overview": "CIA employee Edward Snowden leaks thousands of classified documents to the press.",
+        "release_date": "2016-09-15",
+        "backdrop_path": "\/mYZYVrQ2ghU3m79q7byeLzNXo1M.jpg",
+        "rating": 7.101,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/yfK7zxNL63VWfluFuoUaJj5PdNw.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=QlSAiI3xMh4",
+        "genres": [
+            "Drama",
+            "History",
+            "Crime",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 606,
+        "slug": "out-of-africa",
+        "title": "Out of Africa",
+        "overview": "Tells the life story of Danish author Karen Blixen, who at the beginning of the 20th century moved to Africa to build a new life for herself. The film is based on her 1937 autobiographical novel.",
+        "release_date": "1985-12-20",
+        "backdrop_path": "\/oGYRCq5eBhgXuLX20czONxa0uC8.jpg",
+        "rating": 7.173,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/3ao9wNPTdpFDWVMyqDZGZnSGpz5.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=CbVTzvvvtQ8",
+        "genres": [
+            "History",
+            "Romance",
+            "Drama"
+        ]
+    },
+    {
+        "id": 10839,
+        "slug": "cross-of-iron",
+        "title": "Cross of Iron",
+        "overview": "It is 1943, and the German army\u2014ravaged and demoralised\u2014is hastily retreating from the Russian front. In the midst of the madness, conflict brews between the aristocratic yet ultimately pusillanimous Captain Stransky and the courageous Corporal Steiner. Stransky is the only man who believes that the Third Reich is still vastly superior to the Russian army. However, within his pompous persona lies a quivering coward who longs for the Iron Cross so that he can return to Berlin a hero. Steiner, on the other hand is cynical, defiantly non-conformist and more concerned with the safety of his own men rather than the horde of military decorations offered to him by his superiors.",
+        "release_date": "1977-01-29",
+        "backdrop_path": "\/edUMdGAWTwc6RA2uhvagZJkrhAw.jpg",
+        "rating": 7.087,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/fR6pqh5aFn0fawsn7sR2zC15swx.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=PBn3kOvK_qI",
+        "genres": [
+            "Drama",
+            "Action",
+            "History",
+            "War"
+        ]
+    },
+    {
+        "id": 378108,
+        "slug": "in-this-corner-of-the-world",
+        "title": "In This Corner of the World",
+        "overview": "Japan, 1943, during World War II. Young Suzu leaves her village near Hiroshima to marry and live with her in-laws in Kure, a military harbor. Her creativity to overcome deprivation quickly makes her indispensable at home. Inhabited by an ancestral wisdom, Suzu impregnates the simple gestures of everyday life with poetry and beauty. The many hardships, the loss of loved ones, the frequent air raids of the enemy, nothing alters her enthusiasm\u2026",
+        "release_date": "2016-11-12",
+        "backdrop_path": "\/mNOB5JoW1imvdGrZ52RGZgJCop0.jpg",
+        "rating": 7.934,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/9Z4H4M2F8OQTB04YC1Opds8MFBb.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=sDPRMcZs5Lw",
+        "genres": [
+            "Drama",
+            "Animation",
+            "Romance",
+            "War",
+            "History"
+        ]
+    },
+    {
+        "id": 566076,
+        "slug": "the-united-states-vs.-billie-holiday",
+        "title": "The United States vs. Billie Holiday",
+        "overview": "Billie Holiday spent much of her career being adored by fans. In the 1940s, the government targeted Holiday in a growing effort to racialize the war on drugs, ultimately aiming to stop her from singing her controversial ballad, \"Strange Fruit.\"",
+        "release_date": "2021-03-31",
+        "backdrop_path": "\/k1gni8AVfAGNmZmv7vVHAFbNRkO.jpg",
+        "rating": 6.569,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/vEzkxuE2sJcmHYjXQHM8xvR9ICH.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=USi-ppCfxEA",
+        "genres": [
+            "Music",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 633515,
+        "slug": "the-forgotten-battle",
+        "title": "The Forgotten Battle",
+        "overview": "November 1944. On the flooded isle of Walcheren, Zeeland, thousands of Allied soldiers are battling the German army. Three young lives become inextricably connected. A Dutch boy fighting for the Germans, an English glider pilot and a girl from Zeeland connected to the resistance against her will, are forced to make crucial choices that impact both their own freedom and the freedom of others.",
+        "release_date": "2021-06-05",
+        "backdrop_path": "\/8h2Ok2eo4YrQLoDfsOZF3TM7aJp.jpg",
+        "rating": 7.102,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/wU8ijITXE2ZgoXJexTQByJiHCbp.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=bGiR5ZiEWkM",
+        "genres": [
+            "War",
+            "History",
+            "Drama"
+        ]
+    },
+    {
+        "id": 3777,
+        "slug": "throne-of-blood",
+        "title": "Throne of Blood",
+        "overview": "Returning to their lord's castle, samurai warriors Washizu and Miki are waylaid by a spirit who predicts their futures. When the first part of the spirit's prophecy comes true, Washizu's scheming wife, Asaji, presses him to speed up the rest of the spirit's prophecy by murdering his lord and usurping his place. Director Akira Kurosawa's resetting of William Shakespeare's \"Macbeth\" in feudal Japan is one of his most acclaimed films.",
+        "release_date": "1957-01-15",
+        "backdrop_path": "\/aliPMgGiHu8hnnNS5thAjExr3j1.jpg",
+        "rating": 7.9,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/zaZFMNxJST0TtPd68yF7fNt1he8.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=LY7ETIO1KB8",
+        "genres": [
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 13922,
+        "slug": "the-great-raid",
+        "title": "The Great Raid",
+        "overview": "As World War II rages, the elite Sixth Ranger Battalion is given a mission of heroic proportions: push 30 miles behind enemy lines and liberate over 500 American prisoners of war.",
+        "release_date": "2005-08-12",
+        "backdrop_path": "\/6gFB71pIo0PY3OOrojTQ97Qy8qq.jpg",
+        "rating": 6.578,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/k5Q76tzV2T4RtDdYwNj64c1qQ16.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=N51IAYnlNK0",
+        "genres": [
+            "Action",
+            "History",
+            "War"
+        ]
+    },
+    {
+        "id": 76758,
+        "slug": "the-flowers-of-war",
+        "title": "The Flowers of War",
+        "overview": "A Westerner finds refuge with a group of women in a church during Japan's rape of Nanking in 1937. Posing as a priest, he attempts to lead the women to safety.",
+        "release_date": "2011-12-15",
+        "backdrop_path": "\/q8Ea7BIux9GevWePejuz8a1zHx8.jpg",
+        "rating": 7.47,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/pYltmnA1VDWl45EcVQoJYPsTpLW.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=cj2uhyfVNmQ",
+        "genres": [
+            "Drama",
+            "History",
+            "War"
+        ]
+    },
+    {
+        "id": 836009,
+        "slug": "against-the-ice",
+        "title": "Against the Ice",
+        "overview": "In 1909, two explorers fight to survive after they're left behind while on a Danish expedition in ice-covered Greenland.",
+        "release_date": "2022-02-10",
+        "backdrop_path": "\/f0rJiN5BLhd8oSTBQanKArcV7GN.jpg",
+        "rating": 6.758,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/6FSGYvPEhIx3ThOikGqHmKxeyNN.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=bEyyKwVORvo",
+        "genres": [
+            "Drama",
+            "Adventure",
+            "History"
+        ]
+    },
+    {
+        "id": 339259,
+        "slug": "the-man-with-the-iron-heart",
+        "title": "The Man with the Iron Heart",
+        "overview": "With the Third Reich at its peak in 1942, the Czech resistance in London plans the most ambitious military operation of WWII \u2013  Anthropoid. Two young recruits are sent to Prague to assassinate the most ruthless Nazi leader \u2013 Reinhardt Heydrich, head of the SS, the Gestapo and the architect of the Final Solution.",
+        "release_date": "2017-05-25",
+        "backdrop_path": "\/pKXtR7X45VFyC1zpEXSw2zZyWPF.jpg",
+        "rating": 6.546,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/ZVQfCY2DgCjrm8w2saXvT8Ao3B.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=3GyVqaPBvyE",
+        "genres": [
+            "War",
+            "Action",
+            "History",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 1852,
+        "slug": "world-trade-center",
+        "title": "World Trade Center",
+        "overview": "Two police officers struggle to survive when they become trapped beneath the rubble of the World Trade Center on September 11, 2001.",
+        "release_date": "2006-08-09",
+        "backdrop_path": "\/1PtzrpMbuYg9rfWpEkm6qwN63oW.jpg",
+        "rating": 6.148,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/bfTiVc8kxq8uRXeblV3Ct35APGu.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=8M9lz5R1K2A",
+        "genres": [
+            "Drama",
+            "History",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 205,
+        "slug": "hotel-rwanda",
+        "title": "Hotel Rwanda",
+        "overview": "Inspired by true events, this film takes place in Rwanda in the 1990s when more than a million Tutsis were killed in a genocide that went mostly unnoticed by the rest of the world. Hotel owner Paul Rusesabagina houses over a thousand refuges in his hotel in attempt to save their lives.",
+        "release_date": "2004-12-22",
+        "backdrop_path": "\/ljEdpkceJ9b3TEcTVQISS0Goft0.jpg",
+        "rating": 7.713,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/p3pHw85UMZPegfMZBA6dZ06yarm.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=2x8UzELvKlY",
+        "genres": [
+            "Drama",
+            "History",
+            "War"
+        ]
+    },
+    {
+        "id": 5902,
+        "slug": "a-bridge-too-far",
+        "title": "A Bridge Too Far",
+        "overview": "The story of Operation Market Garden\u2014a failed attempt by the allies in the latter stages of WWII to end the war quickly by securing three bridges in Holland allowing access over the Rhine into Germany. A combination of poor allied intelligence and the presence of two crack German panzer divisions meant that the final part of this operation (the bridge in Arnhem over the Rhine) was doomed to failure.",
+        "release_date": "1977-06-15",
+        "backdrop_path": "\/1oRug23GWxgyQmqQGbX7ke974lp.jpg",
+        "rating": 7.226,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/lszOk3Xmh7qpLaM9J4K9E6ADLk1.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=yPPycZo8H7c",
+        "genres": [
+            "Drama",
+            "History",
+            "War"
+        ]
+    },
+    {
+        "id": 12184,
+        "slug": "the-other-boleyn-girl",
+        "title": "The Other Boleyn Girl",
+        "overview": "A sumptuous and sensual tale of intrigue, romance and betrayal set against the backdrop of a defining moment in European history: two beautiful sisters, Anne and Mary Boleyn, driven by their family's blind ambition, compete for the love of the handsome and passionate King Henry VIII.",
+        "release_date": "2008-02-28",
+        "backdrop_path": "\/jovVe4UGpmQEAE6ZEmV5xa6Kk1f.jpg",
+        "rating": 6.7,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/9zD3hXV24zJzYvSuakXZU8yMEY4.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=2YoiWr-yvws",
+        "genres": [
+            "Drama",
+            "Romance",
+            "History"
+        ]
+    },
+    {
+        "id": 754609,
+        "slug": "mrs.-harris-goes-to-paris",
+        "title": "Mrs. Harris Goes to Paris",
+        "overview": "A 1950s London cleaning lady falls in love with an haute couture dress by Christian Dior and decides to gamble everything for the sake of this folly.",
+        "release_date": "2022-07-15",
+        "backdrop_path": "\/AhkirfgU32n0D1uxpaGYJEKy2Hu.jpg",
+        "rating": 7.066,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/2SV7RYEqiPr3LpTaI33eUtYn09c.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=iO9JcPbbmAA",
+        "genres": [
+            "Drama",
+            "Comedy",
+            "History"
+        ]
+    },
+    {
+        "id": 10971,
+        "slug": "a-night-to-remember",
+        "title": "A Night to Remember",
+        "overview": "The sinking of the Titanic is presented in a highly realistic fashion in this tense British drama. The disaster is portrayed largely from the perspective of the ocean liner's second officer, Charles Lightoller. Despite numerous warnings about ice, the ship sails on, with Capt. Edward John Smith keeping it going at a steady clip. When the doomed vessel finally hits an iceberg, the crew and passengers discover that they lack enough lifeboats, and tragedy follows.",
+        "release_date": "1958-07-03",
+        "backdrop_path": "\/fO2Z9E09BBAXJMsML5IzSxNcMGm.jpg",
+        "rating": 7.572,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/6fDhJAz6AuYWj3hAnvUL42Xlxfj.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=dPAqttGXFaU",
+        "genres": [
+            "Drama",
+            "Action",
+            "History"
+        ]
+    },
+    {
+        "id": 29996,
+        "slug": "solomon-and-sheba",
+        "title": "Solomon and Sheba",
+        "overview": "Near death, King David has a vision that his poet son, Solomon, should succeed him, rather than hot-headed Adonijah. Furious, Adonijah departs the court, swearing he will become king. Other rulers are concerned that Solomon's benevolent rule and interest in monotheism will threaten their tyrannical, polytheistic kingdoms. The Queen of Sheba makes an agreement with the Egyptian pharaoh to corrupt Solomon for their mutual benefit.",
+        "release_date": "1959-12-18",
+        "backdrop_path": "\/lRCzwOKb5Xq4NTGpCIcJrCJPVhl.jpg",
+        "rating": 6.305,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/sQPLRT014vOADFyvh54TpXFyBPZ.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=Im9Jp7Y-T38",
+        "genres": [
+            "History",
+            "Romance"
+        ]
+    },
+    {
+        "id": 11645,
+        "slug": "ran",
+        "title": "Ran",
+        "overview": "With Ran, legendary director Akira Kurosawa reimagines Shakespeare's King Lear as a singular historical epic set in sixteenth-century Japan. Majestic in scope, the film is Kurosawa's late-life masterpiece, a profound examination of the folly of war and the crumbling of one family under the weight of betrayal, greed, and the insatiable thirst for power.",
+        "release_date": "1985-06-01",
+        "backdrop_path": "\/8wdxa4JgiAXvITgqkra1W0Dpii5.jpg",
+        "rating": 8.1,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/jQnUtWaHYfqnXPOIf77K7Ycqk4M.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=YwP_kXyd-Rw",
+        "genres": [
+            "Action",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 245168,
+        "slug": "suffragette",
+        "title": "Suffragette",
+        "overview": "Based on true events about the foot soldiers of the early feminist movement, women who were forced underground to pursue a dangerous game of cat and mouse with an increasingly brutal State.",
+        "release_date": "2015-10-16",
+        "backdrop_path": "\/3e2Gd20yocbqXZz4smZh8NOtxxl.jpg",
+        "rating": 7.3,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/bghODOwU2JGpshzK1SO0G5eFDMY.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=Y4jBXQM7mIk",
+        "genres": [
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 402529,
+        "slug": "all-eyez-on-me",
+        "title": "All Eyez on Me",
+        "overview": "All Eyez on Me chronicles the life and legacy of Tupac Shakur, including his rise to superstardom as a hip-hop artist, actor, poet and activist, as well as his imprisonment and prolific, controversial time at Death Row Records. Against insurmountable odds, Tupac rose to become a cultural icon whose career and persona both continue to grow long after his passing.",
+        "release_date": "2017-06-12",
+        "backdrop_path": "\/4W7FBG3bBHcOh31v4G9CULQNcPy.jpg",
+        "rating": 6.704,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/zmgsaKFWbmZ1Grz4SO0PLNxilv3.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=nsrOCzUwcjE",
+        "genres": [
+            "History",
+            "Drama",
+            "Music"
+        ]
+    },
+    {
+        "id": 365222,
+        "slug": "ip-man-3",
+        "title": "Ip Man 3",
+        "overview": "When a band of brutal gangsters led by a crooked property developer make a play to take over the city, Master Ip is forced to take a stand.",
+        "release_date": "2015-12-24",
+        "backdrop_path": "\/19Shb0Xn0PeLXA4CkT2TIIvxaR6.jpg",
+        "rating": 7.008,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/RTt4lgyTDI8JHMGbZGDDbcZmkM.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=klg-nxejrp8",
+        "genres": [
+            "Action",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 267970,
+        "slug": "miss-hokusai",
+        "title": "Miss Hokusai",
+        "overview": "A daughter is constantly overshadowed by her famous father, but she is determined to make her own mark in the world.",
+        "release_date": "2015-05-09",
+        "backdrop_path": "\/kWT9hKpbd0MhvQ38Dga1KAVMrqU.jpg",
+        "rating": 6.711,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/21botnUdVFVeg2nb8j5SHfupWD9.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=wuiU81oJ5xE",
+        "genres": [
+            "Animation",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 898713,
+        "slug": "rustin",
+        "title": "Rustin",
+        "overview": "Activist Bayard Rustin faces racism and homophobia as he helps change the course of Civil Rights history by orchestrating the 1963 March on Washington.",
+        "release_date": "2023-11-03",
+        "backdrop_path": "\/dFmp1KIGdSVDhIhy0yQNmCDTjav.jpg",
+        "rating": 6.652,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/lCawCmTJhKT7c2ZOzLBTXDIR8JS.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=EuZ-UONInl4",
+        "genres": [
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 919207,
+        "slug": "12.12:-the-day",
+        "title": "12.12: The Day",
+        "overview": "After the assassination of President Park, martial law has been declared. A coup d\u2019\u00e9tat bursts out by Defense Security Commander Chun Doo-gwang and a private band of officers following him. Capital Defense Commander Lee Tae-shin, an obstinate soldier who believes the military should not take political actions, fights against Chun Doo-gwang to stop him. The conflict between the two grows while military leaders are holding their decision and Defense Minister is gone. In the midst of chaos, the spring of Seoul that everyone longed for heads to unexpected direction.",
+        "release_date": "2023-11-22",
+        "backdrop_path": "\/kcrjQkK9XlUe0yD1cZptf4z5h3v.jpg",
+        "rating": 7.2,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/qYczuua2tgjfxcdtLNDC0n4mOHz.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=mmQKt07PaHs",
+        "genres": [
+            "Drama",
+            "History",
+            "War",
+            "Thriller",
+            "Crime"
+        ]
+    },
+    {
+        "id": 508935,
+        "slug": "the-eight-hundred",
+        "title": "The Eight Hundred",
+        "overview": "In 1937, eight hundred Chinese soldiers fight under siege from a warehouse in the middle of the Shanghai battlefield, completely surrounded by the Japanese army.",
+        "release_date": "2020-08-14",
+        "backdrop_path": "\/IRN1JuNwr1VKp88Dscgja2uR8H.jpg",
+        "rating": 6.951,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/7L3bDCQaSJiJ42v4WGml5xLQPWW.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=wdaf_D1KeMY",
+        "genres": [
+            "War",
+            "History",
+            "Drama",
+            "Action"
+        ]
+    },
+    {
+        "id": 12100,
+        "slug": "windtalkers",
+        "title": "Windtalkers",
+        "overview": "Joe Enders is a gung-ho Marine assigned to protect a \"windtalker\" - one of several Navajo Indians who were used to relay messages during World War II because their spoken language was indecipherable to Japanese code breakers.",
+        "release_date": "2002-06-14",
+        "backdrop_path": "\/xr60oCXkfFIqMRJ4YxtMiD53zBy.jpg",
+        "rating": 6.3,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/547q4HXlvEcS06lujfb2yzsTP3H.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=BfI-vfxEN3U",
+        "genres": [
+            "War",
+            "Drama",
+            "Action",
+            "History"
+        ]
+    },
+    {
+        "id": 432527,
+        "slug": "padmaavat",
+        "title": "Padmaavat",
+        "overview": "Rajputana, India, 13th century. The tyrannical usurper Alauddin Khilji, sultan of Delhi, becomes obsessed with Queen Padmavati, wife of King Ratan Singh of Mewar, and goes to great lengths to satisfy his greed for her.",
+        "release_date": "2018-01-25",
+        "backdrop_path": "\/50reJgWrWTXK3fvGh8idw71gxAO.jpg",
+        "rating": 6.896,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/qrvHfnVbx2FLCB5lfhOPnSzg6mS.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=X_5_BLt76c0",
+        "genres": [
+            "Drama",
+            "History",
+            "Romance"
+        ]
+    },
+    {
+        "id": 14537,
+        "slug": "harakiri",
+        "title": "Harakiri",
+        "overview": "Down-on-his-luck veteran Tsugumo Hanshir\u014d enters the courtyard of the prosperous House of Iyi. Unemployed, and with no family, he hopes to find a place to commit seppuku\u2014and a worthy second to deliver the coup de gr\u00e2ce in his suicide ritual. The senior counselor for the Iyi clan questions the ronin\u2019s resolve and integrity, suspecting Hanshir\u014d of seeking charity rather than an honorable end. What follows is a pair of interlocking stories which lay bare the difference between honor and respect, and promises to examine the legendary foundations of the Samurai code.",
+        "release_date": "1962-09-15",
+        "backdrop_path": "\/nC3IjYhUgZWgfKfFX0ygMigFwgc.jpg",
+        "rating": 8.375,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/5konZnIbcAxZjP616Cz5o9bKEfW.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=gfABwM-Ppng",
+        "genres": [
+            "Action",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 1955,
+        "slug": "the-elephant-man",
+        "title": "The Elephant Man",
+        "overview": "A Victorian surgeon rescues a heavily disfigured man being mistreated by his \"owner\" as a side-show freak. Behind his monstrous fa\u00e7ade, there is revealed a person of great intelligence and sensitivity. Based on the true story of Joseph Merrick (called John Merrick in the film), a severely deformed man in 19th century London.",
+        "release_date": "1980-10-09",
+        "backdrop_path": "\/hKpzq3U7X1C1lqnYh0WQwlPyxO5.jpg",
+        "rating": 8.043,
+        "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/3SInR81qnXjY7Or5qXyiQLmWfEh.jpg",
+        "trailer": "https:\/\/www.youtube.com\/watch?v=AF9gNKJi79g",
+        "genres": [
+            "Drama",
+            "History"
+        ]
+    }
+]

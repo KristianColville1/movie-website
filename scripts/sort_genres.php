@@ -1,6 +1,6 @@
 <?php
 
-$moviesJson = file_get_contents('src/assets/data/movies.json');
+$moviesJson = file_get_contents('public/assets/data/movies.json');
 $movies = json_decode($moviesJson, true);
 
 $sortedMoviesByGenre = [];

@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import { useMovies } from "../context/MovieContext";
-import { Container, Row, Col, Card, Button } from "react-bootstrap";
+import { Container, Row, Col, Card } from "react-bootstrap";
 import "./MovieDetail.css";
 
 const MovieDetail = () => {
@@ -22,21 +22,35 @@ const MovieDetail = () => {
     if (!movie) {
         return <p>Loading movie details...</p>;
     }
-
+const youtubeId = movie.trailer.split("v=")[1];
     return (
         <Container className="my-5 pb-5">
             {movie ? (
-                <Card className="mb-3">
+                <Card className="mb-3 border-0 rounded">
                     <Row noGutters>
-                        <Col md={4}>
+                        <Col md={5}>
                             <Card.Img
                                 variant="top"
                                 src={movie.poster_path}
                                 alt={movie.title}
+                                className="rounded-0 h-100"
                             />
                         </Col>
-                        <Col md={8}>
+                        <Col md={7}>
                             <Card.Body>
+                                {/* Embed YouTube Video Player */}
+                                {youtubeId && (
+                                    <div className="embed-player mb-4 rounded overflow-hidden" >
+                                        <iframe
+                                            className="embed-content"
+                                            src={`https://www.youtube.com/embed/${youtubeId}`}
+                                            title="YouTube video player"
+                                            frameBorder="0"
+                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                            allowFullScreen
+                                        ></iframe>
+                                    </div>
+                                )}
                                 <Card.Title className="fw-bold fs-1">
                                     {movie.title}
                                 </Card.Title>
@@ -86,13 +100,6 @@ const MovieDetail = () => {
                                     {/* shorten to 1 decimal place*/}
                                     {movie.rating.toFixed(1)} / 10
                                 </Card.Text>
-                                <Button
-                                    variant="primary"
-                                    href={movie.trailer}
-                                    target="_blank"
-                                >
-                                    Watch Trailer
-                                </Button>
                             </Card.Body>
                         </Col>
                     </Row>

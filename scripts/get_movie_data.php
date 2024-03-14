@@ -14,7 +14,7 @@ foreach ($genresData['genres'] as $genre) {
 $moviesCount = 0;
 $customMoviesArray = [];
 $page = 1;
-$maxMovies = 1250;
+$maxMovies = 5000;
 
 while ($moviesCount < $maxMovies) {
     $moviesUrl = "{$baseUrl}/movie/popular?api_key={$apiKey}&language=en-US&page={$page}";
@@ -46,6 +46,7 @@ while ($moviesCount < $maxMovies) {
 
             $customMoviesArray[] = [
                 'id' => $movie['id'],
+                'slug' => strtolower(str_replace(' ', '-', $movie['title'])),
                 'title' => $movie['title'],
                 'overview' => $movie['overview'],
                 'release_date' => $movie['release_date'],
@@ -64,7 +65,7 @@ while ($moviesCount < $maxMovies) {
     $page++;
 }
 
-$filePath = './src/assets/data/movies.json';
+$filePath = './public/assets/data/movies.json';
 if (file_put_contents($filePath, json_encode($customMoviesArray, JSON_PRETTY_PRINT))) {
     echo "Movies data has been saved successfully!";
 } else {

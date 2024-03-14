@@ -54,12 +54,12 @@ const Navbar = ({ onSignIn, onSignUp}) => {
                 />
                 <BootstrapNavbar.Collapse
                     id="navbar"
-                    className="p-5 bg-sm-dark p-md-0 justify-content-between"
+                    className=""
                 >
                     <Form className="ms-md-5 d-sm-flex">
                         <MovieSearch/>
                     </Form>
-                    <Nav className="">
+                    <Nav className="w-100 d-flex justify-content-end">
                         {
                             // for each tab dynamically map the location, classes and text to a nav item
                             tabs.map((tab) => (
