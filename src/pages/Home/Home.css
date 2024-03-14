@@ -43,8 +43,13 @@
         background: linear-gradient(90deg, rgba(30, 32, 25, 1) 20%, rgba(255, 255, 255, 0) 50%, rgba(30, 32, 25, 1) 95%);
     }
 
+    .movie-contents-container {
+        height:80vh;
+    }
     .movie-contents {
-
+        margin-left: auto;
+        margin-right:auto;
+        text-align:center;
     }
 }
 

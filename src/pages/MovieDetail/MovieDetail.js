@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
-import { useMovies } from "../context/MovieContext";
+import { useMovies } from "../../context/MovieContext";
 import { Container, Row, Col, Card } from "react-bootstrap";
 import "./MovieDetail.css";
 
@@ -22,9 +22,10 @@ const MovieDetail = () => {
     if (!movie) {
         return <p>Loading movie details...</p>;
     }
-const youtubeId = movie.trailer.split("v=")[1];
+    const youtubeId = movie.trailer.split("v=")[1];
+    const actors = movie.actors;
     return (
-        <Container className="my-5 pb-5">
+        <Container className="my-md-5 pb-5">
             {movie ? (
                 <Card className="mb-3 border-0 rounded">
                     <Row noGutters>
@@ -40,7 +41,7 @@ const youtubeId = movie.trailer.split("v=")[1];
                             <Card.Body>
                                 {/* Embed YouTube Video Player */}
                                 {youtubeId && (
-                                    <div className="embed-player mb-4 rounded overflow-hidden" >
+                                    <div className="embed-player mb-4 rounded overflow-hidden">
                                         <iframe
                                             className="embed-content"
                                             src={`https://www.youtube.com/embed/${youtubeId}`}
@@ -65,6 +66,16 @@ const youtubeId = movie.trailer.split("v=")[1];
                                             day: "numeric",
                                         })}
                                     </small>
+                                </Card.Text>
+                                <Card.Text>
+                                    {actors.map((actor, index) => (
+                                        <span className="text-muted">
+                                            {actor}
+                                            {index < actors.length - 1
+                                                ? ", "
+                                                : ""}
+                                        </span>
+                                    ))}
                                 </Card.Text>
                                 <Card.Text>{movie.overview}</Card.Text>
                                 <Card.Text>
