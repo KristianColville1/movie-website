@@ -1,6 +1,7 @@
 .top-nav {
     background-image: linear-gradient(to right top, #1e2019, #1c1b15, #191612, #15110e, #0e0a09, #0e0a09, #0e0a09, #0e0a09, #15110e, #191612, #1c1b15, #1e2019);
     z-index: 1000;
+    min-height: 8vh;
 }
 /* changes the color of the 'Search' */
 .placeholder-white::placeholder {

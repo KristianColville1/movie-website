@@ -40,22 +40,28 @@ const Home = () => {
                     alt="Movie Poster"
                 />
             )}
-            {movieInfo && (
-                <div className="movie-contents">
-                    <h1 className="movie-title">{movieInfo.title}</h1>
-                    <p className="movie-tagline">{movieInfo.tagline}</p>
-                    <Button variant="primary" size="lg" className="rent-button">
-                        Rent Now
-                    </Button>
-                    <Button
-                        variant="secondary"
-                        size="lg"
-                        className="trailer-button"
-                    >
-                        Watch Trailer
-                    </Button>
-                </div>
-            )}
+            <Container className=" p-0 movie-contents-container">
+                {movieInfo && (
+                    <div className="movie-contents">
+                        <h1 className="movie-title">{movieInfo.title}</h1>
+                        <p className="movie-tagline">{movieInfo.tagline}</p>
+                        <Button
+                            variant="primary"
+                            size="lg"
+                            className="rent-button"
+                        >
+                            Rent Now
+                        </Button>
+                        <Button
+                            variant="secondary"
+                            size="lg"
+                            className="trailer-button"
+                        >
+                            Watch Trailer
+                        </Button>
+                    </div>
+                )}
+            </Container>
         </Container>
     );
 };

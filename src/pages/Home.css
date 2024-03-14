@@ -1,7 +1,7 @@
 .movie-poster {
-    max-height: 100vh;
+    max-height: 92vh;
     position: absolute;
-    top:0;
+    top:8vh;
     right: 0;
 }
 
@@ -17,11 +17,18 @@
 }
 
 
-.movie-contents {
-    position: absolute;
-    top: 20%;
-    left: 19%;
+.movie-contents-container {
+    height: 70vh;
+    position: relative;
     z-index: 100;
+    display: flex;
+    justify-content: flex-start;
+    /* aligns content to the left */
+    align-items: flex-end;
+    /* aligns content to the bottom */
+}
+
+.movie-contents {
     color: var(--lavender-web);
     text-shadow: 1px 1px 1px black;
 }
@@ -37,9 +44,7 @@
     }
 
     .movie-contents {
-        top: 70%;
-        left: 0%;
-        padding-left: 5vw;
+
     }
 }
 

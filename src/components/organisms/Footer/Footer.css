@@ -1,0 +1,8 @@
+.page-footer {
+    background-color: white;
+}
+
+.footer-logo {
+    color: var(--raspberry);
+    text-shadow: 1px 1px;
+}

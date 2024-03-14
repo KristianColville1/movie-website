@@ -14,6 +14,8 @@ import Col from "react-bootstrap/Col";
 import FormInput from "./components/molecules/FormInput/FromInput";
 import { MovieProvider } from "./context/MovieContext";
 import MovieDetail from "./pages/MovieDetail";
+import Footer from "./components/organisms/Footer/Footer";
+
 /**
  *
  * Responsible for handling the app and running the router for the different content on the site
@@ -56,6 +58,7 @@ function App() {
                     onSignIn={() => setShowSignInModal(true)}
                     onSignUp={() => setShowSignUpModal(true)}
                 />
+                <Footer />
                 <ModalWrapper
                     title="Account Sign in"
                     show={showSignInModal}

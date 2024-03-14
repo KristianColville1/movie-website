@@ -1,4 +1,4 @@
-import React, { createContext, useContext, useState, useEffect } from "react";
+import React, { createContext, useContext, useState, useEffect, useCallback } from "react";
 import axios from "axios";
 
 /**
@@ -24,7 +24,7 @@ export const MovieProvider = ({ children }) => {
     const [movies, setMovies] = useState([]);
 
     // Asynchronous arrow function fetches the file contents like a regular API
-    const fetchMovies = async () => {
+    const fetchMovies = useCallback(async () => {
         if (movies.length === 0) {
             // Check if movies need to be fetched
             try {
@@ -35,11 +35,11 @@ export const MovieProvider = ({ children }) => {
                 console.error("Failed to fetch movies:", error);
             }
         }
-    };
+    }, [movies]);
 
     useEffect(() => {
         fetchMovies();
-    }, []);
+    }, [fetchMovies]);
 
     // find a movie by its ID within the movies array
     const getMovieById = async (id) => {
