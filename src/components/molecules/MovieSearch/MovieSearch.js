@@ -1,33 +1,52 @@
 import React, { useState, useEffect, useRef } from "react";
-import { useMovies } from "../../../context/MovieContext";
+import { useMovies } from "../../../context/MovieContext"; // Assuming useMovies now gives access to cinemas too
 import { Link } from "react-router-dom";
 import useOutsideClick from "../../../hooks/useOutsideClick";
-
 import "./MovieSearch.css";
+
 const MovieSearch = () => {
-    const { movies } = useMovies();
+    const { movies, genres, actors, cinemas } = useMovies(); // accessing all movie contexts
     const [searchTerm, setSearchTerm] = useState("");
     const [filteredMovies, setFilteredMovies] = useState([]);
+    const [filteredGenres, setFilteredGenres] = useState([]);
+    const [filteredActors, setFilteredActors] = useState([]);
+    const [filteredCinemas, setFilteredCinemas] = useState([]);
 
-    // gets the search results filtering by the search term user enters
-    useEffect(() => {
-        const results = searchTerm
-            ? movies
-                  .filter((movie) =>
-                      movie.title
-                          .toLowerCase()
-                          .includes(searchTerm.toLowerCase())
-                  )
-                  .slice(0, 5)
-            : [];
-        setFilteredMovies(results);
-    }, [searchTerm, movies]);
+useEffect(() => {
+    const lowercasedSearchTerm = searchTerm.toLowerCase();
 
-    const handleLinkClick = () => {
-        setSearchTerm("");
-    };
+    // Filter movies
+    const moviesResults = movies
+        .filter((movie) =>
+            movie.title.toLowerCase().includes(lowercasedSearchTerm)
+        )
+        .slice(0, 5); // Limiting the number of results
+    setFilteredMovies(moviesResults);
 
-    // closes the dropdown if user clicks outside it
+    // filter genres
+    const genreResults = genres
+        .filter((genre) => genre.toLowerCase().includes(lowercasedSearchTerm))
+        .slice(0, 5);
+    setFilteredGenres(genreResults);
+
+    // filter actors by their name
+    const actorResults = actors
+        .filter((actor) =>
+            actor.name.toLowerCase().includes(lowercasedSearchTerm)
+        )
+        .slice(0, 5);
+    setFilteredActors(actorResults);
+
+    // filter cinemas
+    const cinemaResults = cinemas
+        .filter((cinema) => cinema.toLowerCase().includes(lowercasedSearchTerm))
+        .slice(0, 5);
+    setFilteredCinemas(cinemaResults);
+}, [searchTerm, movies, genres, actors, cinemas]);
+
+
+    const handleLinkClick = () => setSearchTerm("");
+
     const searchRef = useRef(null);
     useOutsideClick(searchRef, () => setSearchTerm(""));
 
@@ -37,49 +56,61 @@ const MovieSearch = () => {
                 <i className="bx bx-search"></i>
                 <input
                     type="text"
-                    placeholder="Search Movies"
+                    placeholder="Search Movies, Genres, Actors, or Cinemas"
                     value={searchTerm}
                     onChange={(e) => setSearchTerm(e.target.value)}
                 />
             </div>
             {searchTerm && (
-                <div className="position-absolute search-results-dropdown bg-dark text-light shadow">
-                    {filteredMovies.map((movie) => (
-                        <Link
-                            to={`/movie/${movie.id}`}
-                            key={movie.id}
-                            className="search-result-item d-block text-decoration-none p-2"
-                            onClick={handleLinkClick}
-                        >
-                            <div className="d-flex align-items-center">
-                                <img
-                                    src={movie.poster_path}
-                                    alt={`${movie.title} Poster`}
-                                    style={{
-                                        width: "50px",
-                                        height: "auto",
-                                        marginRight: "10px",
-                                    }}
-                                />
-                                <div>
-                                    <div className="font-weight-bold">
-                                        {movie.title}
-                                    </div>
-                                    <div
-                                        className=""
-                                        style={{ fontSize: "0.8rem" }}
-                                    >
-                                        {movie.overview.length > 50
-                                            ? `${movie.overview.substring(
-                                                  0,
-                                                  50
-                                              )}...`
-                                            : movie.overview}
-                                    </div>
+                <div className="search-results-dropdown mt-3 rounded-bottom">
+                    <div className="d-flex flex-column flex-md-row">
+                        <div className="search-results-column">
+                            <h5>Movies</h5>
+                            {filteredMovies.map((movie) => (
+                                <Link
+                                    to={`/movie/${movie.id}`}
+                                    key={movie.id}
+                                    className="search-result-item d-block text-decoration-none p-2"
+                                    onClick={handleLinkClick}
+                                >
+                                    <img
+                                        src={movie.poster_path}
+                                        alt={movie.title}
+                                        style={{
+                                            width: "50px",
+                                            height: "auto",
+                                            marginRight: "10px",
+                                        }}
+                                    />
+                                    <span>{movie.title}</span>
+                                </Link>
+                            ))}
+                        </div>
+                        <div className="search-results-column">
+                            <h5>Genres</h5>
+                            {filteredGenres.map((genre, index) => (
+                                <div key={index} className="search-result-item">
+                                    {genre}
                                 </div>
-                            </div>
-                        </Link>
-                    ))}
+                            ))}
+                        </div>
+                        <div className="search-results-column">
+                            <h5>Actors</h5>
+                            {filteredActors.map((actor, index) => (
+                                <div key={index} className="search-result-item">
+                                    {actor.name}{" "}
+                                </div>
+                            ))}
+                        </div>
+                        <div className="search-results-column">
+                            <h5>Cinemas</h5>
+                            {filteredCinemas.map((cinema, index) => (
+                                <div key={index} className="search-result-item">
+                                    {cinema}
+                                </div>
+                            ))}
+                        </div>
+                    </div>
                 </div>
             )}
         </div>

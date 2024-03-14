@@ -18,6 +18,7 @@
 
 
 .movie-contents-container {
+    position:absolute;
     height: 70vh;
     position: relative;
     z-index: 100;
@@ -35,8 +36,11 @@
 
 @media screen and (max-width:768px) {
     .movie-poster {
+        margin-left: auto;
+        margin-right: auto;
         max-width: 100vw;
-        max-height:80vh;
+        max-height:60vh;
+        left:0;
     }
 
     .overlay {
@@ -44,12 +48,16 @@
     }
 
     .movie-contents-container {
-        height:80vh;
+        position:absolute;
+        height:40vh;
+        margin-top:45vh;
+        max-width: 100vw;
     }
     .movie-contents {
         margin-left: auto;
         margin-right:auto;
         text-align:center;
+        padding: 0 5px;
     }
 }
 

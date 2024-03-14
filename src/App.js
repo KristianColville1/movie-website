@@ -2,10 +2,10 @@ import React, {useState} from "react";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Navbar from "./components/organisms/Navbar/Navbar";
 import MobileNav from "./components/organisms/MobileNav/MobileNav";
-import Home from "./pages/Home";
-import Movies from "./pages/Movies";
-import Booking from "./pages/Booking";
-import Search from "./pages/Search";
+import Home from "./pages/Home/Home";
+import Movies from "./pages/Movies/Movies";
+import Booking from "./pages/Booking/Booking";
+import Search from "./pages/Search/Search";
 import ModalWrapper from "./components/organisms/ModalWrapper/ModalWrapper";
 import GoogleSignIn from "./components/molecules/GoogleSignIn/GoogleSignIn";
 import Container from "react-bootstrap/Container";
@@ -13,7 +13,7 @@ import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import FormInput from "./components/molecules/FormInput/FromInput";
 import { MovieProvider } from "./context/MovieContext";
-import MovieDetail from "./pages/MovieDetail";
+import MovieDetail from "./pages/MovieDetail/MovieDetail";
 import Footer from "./components/organisms/Footer/Footer";
 
 /**

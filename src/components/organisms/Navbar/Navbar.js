@@ -41,7 +41,7 @@ const Navbar = ({ onSignIn, onSignUp}) => {
         <BootstrapNavbar
             collapseOnSelect
             expand="md"
-            className="navbar-dark top-nav"
+            className="navbar-dark top-nav position-fixed w-100"
             expanded={expanded} // toggled using our custom toggler
         >
             <Container>
@@ -52,12 +52,9 @@ const Navbar = ({ onSignIn, onSignUp}) => {
                 <CustomNavBarToggle
                     onClick={() => toggleNavbar()} // toggles the menu open and close
                 />
-                <BootstrapNavbar.Collapse
-                    id="navbar"
-                    className=""
-                >
+                <BootstrapNavbar.Collapse id="navbar" className="">
                     <Form className="ms-md-5 d-sm-flex">
-                        <MovieSearch/>
+                        <MovieSearch />
                     </Form>
                     <Nav className="w-100 d-flex justify-content-end">
                         {
@@ -69,11 +66,19 @@ const Navbar = ({ onSignIn, onSignUp}) => {
                                     children={tab.text}
                                 />
                             ))
-
-                            
                         }
-                        <Button onClick={onSignIn} className="btn-sm btn-dark my-1">Sign In</Button>
-                        <Button onClick={onSignUp} className="btn-sm btn-light my-1">Sign up</Button>
+                        <Button
+                            onClick={onSignIn}
+                            className="btn-sm btn-dark my-1"
+                        >
+                            Sign In
+                        </Button>
+                        <Button
+                            onClick={onSignUp}
+                            className="btn-sm btn-light my-1"
+                        >
+                            Sign up
+                        </Button>
                     </Nav>
                 </BootstrapNavbar.Collapse>
             </Container>

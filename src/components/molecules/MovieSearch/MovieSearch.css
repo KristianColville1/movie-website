@@ -1,10 +1,22 @@
 .search-results-dropdown {
-    position: absolute;
-    background-color: #fff;
-    max-height: 500px;
-    overflow-y: auto;
-    border: 1px solid #ddd;
-    z-index: 1000;
+    position:absolute;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    min-width: 900px;
+    max-width: 100%;
+    max-height:500px;
+    background-color: var(--eerie-black);
+    color: var(--lavender-web);
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    padding: 20px;
+    overflow: scroll;
+}
+
+.search-results-column {
+    flex: 1;
+    padding: 10px;
 }
 
 .search-result-item {
@@ -28,7 +40,7 @@
 .search-box i {
     position: absolute;
     left: 10px;
-    top:50%;
+    top: 50%;
     transform: translateY(-50%);
     color: #aaa;
 }
@@ -38,4 +50,12 @@
     background: transparent;
     border: none;
     color: white;
+}
+
+@media (max-width: 768px) {
+    .search-results-dropdown {
+        flex-direction: column;
+        left:0;
+        margin:0;
+    }
 }

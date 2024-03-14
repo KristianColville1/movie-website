@@ -3,6 +3,8 @@ include("env.php");
 $apiKey = $KRISTIANS_API_KEY;
 $baseUrl = "https://api.themoviedb.org/3";
 
+$cinemas = ["Omniplex", "Lighthouse", "IMC Cinemas", "Cineworld", "Eye Cinema"];
+
 $genresUrl = "{$baseUrl}/genre/movie/list?api_key={$apiKey}&language=en-US";
 $genresResponse = file_get_contents($genresUrl);
 $genresData = json_decode($genresResponse, true);
@@ -24,6 +26,7 @@ while ($moviesCount < $maxMovies) {
 
     $data = json_decode($response, true);
     foreach ($data['results'] as $movie) {
+        // Fetch videos
         $videosUrl = "{$baseUrl}/movie/{$movie['id']}/videos?api_key={$apiKey}&language=en-US";
         $videosResponse = file_get_contents($videosUrl);
         if ($videosResponse === FALSE)
@@ -37,6 +40,29 @@ while ($moviesCount < $maxMovies) {
                 break;
             }
         }
+
+        // Fetch actors (cast)
+        $creditsUrl = "{$baseUrl}/movie/{$movie['id']}/credits?api_key={$apiKey}&language=en-US";
+        $creditsResponse = file_get_contents($creditsUrl);
+        $creditsData = json_decode($creditsResponse, true);
+        $actors = [];
+        foreach ($creditsData['cast'] as $index => $cast) {
+            if ($index < 7) { // Limit to top 5 actors
+                $actors[] = [
+                    'name' => $cast['name'],
+                    'image_w45' => $cast['profile_path'] ? 'https://image.tmdb.org/t/p/w45' . $cast['profile_path'] : null,
+                    'image_w185' => $cast['profile_path'] ? 'https://image.tmdb.org/t/p/w185' . $cast['profile_path'] : null,
+                    'image_h632' => $cast['profile_path'] ? 'https://image.tmdb.org/t/p/h632' . $cast['profile_path'] : null,
+                    'image_original' => $cast['profile_path'] ? 'https://image.tmdb.org/t/p/original' . $cast['profile_path'] : null,
+                ];
+
+            } else {
+                break;
+            }
+        }
+
+        // randomly assign cinemas to movies
+        $assignedCinemas = array_rand(array_flip($cinemas), 2); // assign 2 random cinemas per film
 
         // only include movies with trailers and map genre IDs to names and no adult films - PG friendly :) 
         if (!$movie['adult'] && $trailerKey) {
@@ -55,6 +81,8 @@ while ($moviesCount < $maxMovies) {
                 'poster_path' => 'https://image.tmdb.org/t/p/w500' . $movie['poster_path'],
                 'trailer' => "https://www.youtube.com/watch?v={$trailerKey}",
                 'genres' => $genres,
+                'actors' => $actors,
+                'cinemas' => $assignedCinemas,
             ];
             $moviesCount++;
             echo $moviesCount . PHP_EOL;

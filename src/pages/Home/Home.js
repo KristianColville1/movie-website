@@ -31,7 +31,7 @@ const Home = () => {
     }, []);
 
     return (
-        <Container fluid className="m-0 p-0" style={{ height: "100vh" }}>
+        <Container fluid className="m-0 p-0 min-vh-100">
             <div className="overlay"></div>
             {moviePosterUrl && (
                 <img
@@ -40,7 +40,7 @@ const Home = () => {
                     alt="Movie Poster"
                 />
             )}
-            <Container className=" p-0 movie-contents-container">
+            <Container className="movie-contents-container">
                 {movieInfo && (
                     <div className="movie-contents">
                         <h1 className="movie-title">{movieInfo.title}</h1>
