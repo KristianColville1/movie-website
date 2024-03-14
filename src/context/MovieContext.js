@@ -22,6 +22,9 @@ export const useMovies = () => useContext(MovieContext);
  */
 export const MovieProvider = ({ children }) => {
     const [movies, setMovies] = useState([]);
+    const [genres, setGenres] = useState([]);
+    const [actors, setActors] = useState([]);
+    const [cinemas, setCinemas] = useState([]);
 
     // Asynchronous arrow function fetches the file contents like a regular API
     const fetchMovies = useCallback(async () => {
@@ -30,7 +33,26 @@ export const MovieProvider = ({ children }) => {
             try {
                 // uses axios for the request
                 const response = await axios.get(`/assets/data/movies.json`);
-                setMovies(response.data);
+                                const fetchedMovies = response.data;
+                                setMovies(fetchedMovies);
+
+                // extract unique genres
+                const extractedGenres = [
+                    ...new Set(fetchedMovies.flatMap((movie) => movie.genres)),
+                ];
+                setGenres(extractedGenres);
+
+                // extract unique actors
+                const extractedActors = [
+                    ...new Set(fetchedMovies.flatMap((movie) => movie.actors)),
+                ];
+                setActors(extractedActors);
+
+                // extract unique cinemas
+                const extractedCinemas = [
+                    ...new Set(fetchedMovies.flatMap((movie) => movie.cinemas)),
+                ];
+                setCinemas(extractedCinemas);
             } catch (error) {
                 console.error("Failed to fetch movies:", error);
             }
@@ -50,7 +72,7 @@ export const MovieProvider = ({ children }) => {
     };
 
     return (
-        <MovieContext.Provider value={{ movies, setMovies, getMovieById }}>
+        <MovieContext.Provider value={{ movies, genres, actors, cinemas, setMovies, getMovieById }}>
             {children}
         </MovieContext.Provider>
     );
