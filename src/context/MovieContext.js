@@ -23,24 +23,29 @@ export const useMovies = () => useContext(MovieContext);
 export const MovieProvider = ({ children }) => {
     const [movies, setMovies] = useState([]);
 
-    useEffect(() => {
-        // Asynchronous arrow function fetches the file contents like a regular API
-        const fetchMovies = async () => {
+    // Asynchronous arrow function fetches the file contents like a regular API
+    const fetchMovies = async () => {
+        if (movies.length === 0) {
+            // Check if movies need to be fetched
             try {
                 // uses axios for the request
-                const response = await axios.get(`assets/data/movies.json`);
-                const movies = response.data;
-                setMovies(movies);
+                const response = await axios.get(`/assets/data/movies.json`);
+                setMovies(response.data);
             } catch (error) {
                 console.error("Failed to fetch movies:", error);
             }
-        };
+        }
+    };
 
+    useEffect(() => {
         fetchMovies();
     }, []);
 
     // find a movie by its ID within the movies array
-    const getMovieById = (id) => {
+    const getMovieById = async (id) => {
+        if (movies.length === 0) {
+            await fetchMovies(); // Ensure movies are loaded
+        }
         return movies.find((movie) => movie.id.toString() === id);
     };
 

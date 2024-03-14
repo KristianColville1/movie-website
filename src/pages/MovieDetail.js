@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import { useMovies } from "../context/MovieContext";
 import { Container, Row, Col, Card, Button } from "react-bootstrap";
@@ -7,9 +7,21 @@ import "./MovieDetail.css";
 const MovieDetail = () => {
     // fetches the movie context
     const { id } = useParams();
-    const { movies } = useMovies();
+    const { getMovieById } = useMovies();
+    const [movie, setMovie] = useState(null);
 
-    const movie = movies.find((movie) => movie.id.toString() === id);
+    useEffect(() => {
+        const fetchMovie = async () => {
+            const movieDetail = await getMovieById(id);
+            setMovie(movieDetail);
+        };
+
+        fetchMovie();
+    }, [id, getMovieById]);
+
+    if (!movie) {
+        return <p>Loading movie details...</p>;
+    }
 
     return (
         <Container className="my-5 pb-5">
