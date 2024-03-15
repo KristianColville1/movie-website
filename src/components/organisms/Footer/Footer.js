@@ -4,6 +4,10 @@ import NavItem from "../../molecules/NavItem/NavItem";
 import Nav from "react-bootstrap/Nav";
 import './Footer.css';
 
+/**
+ * Footer component renders the footer section of the website
+ * @returns {JSX.Element} Footer component
+ */
 const Footer = () => {
     // encapsulate the tabs
     const tabs = [
@@ -16,12 +20,7 @@ const Footer = () => {
             to: "/movies",
             className: "text-dark",
             text: "Movies",
-        },
-        {
-            to: "/booking",
-            className: "text-dark",
-            text: "Booking",
-        },
+        }
     ];
 
     return (

@@ -5,6 +5,10 @@ import useSearch from "../../../hooks/useSearch";
 import SearchInput from "../../atoms/SearchInput/SearchInput";
 import SearchResults from "../../molecules/SearchResults/SearchResults";
 
+/**
+ * MovieSearch component handles the movie search functionality
+ * @returns {JSX.Element} MovieSearch component
+ */
 const MovieSearch = () => {
     const { movies, genres, actors, cinemas } = useMovies();
     const [searchTerm, setSearchTerm] = useState("");

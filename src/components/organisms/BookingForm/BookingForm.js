@@ -5,6 +5,16 @@ import ShowtimeSelector from "../../molecules/ShowtimeSelector/ShowtimeSelector"
 import UserInfoForm from "../../molecules/UserInfoForm/UserInfoForm";
 import Button from "../../atoms/Button/Button";
 
+/**
+ * BookingForm manages the booking process for a movie
+ * @param {object} props The properties passed to the component
+ * @param {object} props.movie The movie object containing details
+ * @param {string[]} props.cinemas An array of available cinemas
+ * @param {string[]} props.showtimes An array of available showtimes
+ * @param {function} props.onSubmit A function to handle form submission
+ * @param {boolean} props.resetFormTrigger A trigger to reset the form
+ * @returns {JSX.Element} A component managing the booking process for a movie
+ */
 const BookingForm = ({
     movie,
     cinemas,

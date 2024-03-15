@@ -6,6 +6,11 @@ import MovieSlider from "../../components/molecules/MovieSlider/MovieSlider";
 import { Link } from "react-router-dom";
 import "./Home.css";
 
+/**
+ * home displays the main page of the application, featuring a movie poster, movie details, and sliders for trending movies, new releases, and classics
+ * @param {object} props the properties passed to the component
+ * @returns {JSX.Element} a component that renders the homepage of the movie application, which includes a highlighted movie and movie sliders for different categories
+ */
 const Home = () => {
     const { movies } = useMovies(); // Uses the movies from the context
     const [moviePosterUrl, setMoviePosterUrl] = useState("");
