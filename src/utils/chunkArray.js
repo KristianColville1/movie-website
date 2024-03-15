@@ -1,8 +1,8 @@
 
 /**
  * Chunks an array so we can split it up into smaller parts.
- * @param {*} array 
- * @param {*} size 
+ * @param {*} array of the content
+ * @param {*} size to be chunked
  * @returns 
  */
 const chunkArray = (array, size) => {

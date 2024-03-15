@@ -1,4 +1,4 @@
-import React, {useState} from "react";
+import React, { useState } from "react";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Navbar from "./components/organisms/Navbar/Navbar";
 import MobileNav from "./components/organisms/MobileNav/MobileNav";
@@ -16,6 +16,8 @@ import { MovieProvider } from "./context/MovieContext";
 import MovieDetail from "./pages/MovieDetail/MovieDetail";
 import Footer from "./components/organisms/Footer/Footer";
 import Genre from "./pages/Genre/Genre";
+import ScrollToTop from "./utils/ScrollToTop";
+
 /**
  *
  * Responsible for handling the app and running the router for the different content on the site
@@ -26,7 +28,6 @@ function App() {
     const [showSignInModal, setShowSignInModal] = useState(false);
     const [showSignUpModal, setShowSignUpModal] = useState(false);
 
-
     // define pages here and the element for routing
     const pages = [
         { element: <Home />, path: "/" },
@@ -36,6 +37,7 @@ function App() {
     ];
     return (
         <Router>
+            <ScrollToTop/>
             <MovieProvider>
                 <Navbar
                     onSignIn={() => setShowSignInModal(true)}
