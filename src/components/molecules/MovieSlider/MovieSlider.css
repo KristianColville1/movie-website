@@ -24,3 +24,10 @@
     transform: scale(1.05);
     transition: transform 0.2s ease-in-out;
 }
+
+.movie-slider .custom-arrow {
+    height:80%;
+    width: 6vw;
+    border: none;
+   
+}

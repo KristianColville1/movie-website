@@ -1,10 +1,17 @@
 import React from "react";
 import Slider from "react-slick";
-import { Link } from "react-router-dom";
-
+import Arrow from "../../atoms/Arrow/Arrow";
+import MovieLink from "../MovieLink/MovieLink";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import "./MovieSlider.css";
+
+/**
+ * MovieSlider implements a slider for browsing through movies
+ * @param {Object} props The props passed to the component
+ * @param {Array} props.movies An array of movie objects to display in the slider
+ * @returns {JSX.Element} A Slider component populated with movies
+ */
 const MovieSlider = ({ movies }) => {
     const settings = {
         dots: false,
@@ -12,6 +19,8 @@ const MovieSlider = ({ movies }) => {
         speed: 500,
         slidesToShow: 5,
         slidesToScroll: 3,
+        nextArrow: <Arrow className="arrow-next" />,
+        prevArrow: <Arrow className="arrow-prev" />,
         responsive: [
             {
                 breakpoint: 1024,
@@ -43,13 +52,11 @@ const MovieSlider = ({ movies }) => {
     return (
         <Slider {...settings} className="movie-slider">
             {movies.map((movie) => (
-                <Link to={`/movie/${movie.id}`} key={movie.id} className="text-decoration-none">
-                    <img
-                        src={`https://image.tmdb.org/t/p/w500/${movie.backdrop_path}`}
-                        alt={movie.title}
-                    />
-                    <p className="bg-dark mt-0 pt-0">{movie.title}</p>
-                </Link>
+                <MovieLink
+                    key={movie.id}
+                    movie={movie}
+                    moviePath={`https://image.tmdb.org/t/p/w500/${movie.backdrop_path}`}
+                />
             ))}
         </Slider>
     );

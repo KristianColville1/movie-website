@@ -1,0 +1,89 @@
+/* Movies.css */
+
+.movies-page-container {
+    background-color: #000;
+    color: #fff;
+}
+
+.featured-movie {
+    height: 65vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.featured-movie-content {
+    text-align: center;
+    background: rgba(0, 0, 0, 0.5);
+    /* Semi-transparent overlay */
+    padding: 2rem;
+    border-radius: 10px;
+    margin-bottom: -4rem;
+    /* Position it partly over the next section */
+}
+
+.movie-title {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+.movie-overview {
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.button-more-info {
+    font-size: 1.2rem;
+    padding: 0.5rem 2rem;
+    background: var(--brand-color);
+    border: none;
+    transition: background-color 0.2s ease;
+}
+
+.button-more-info:hover {
+    background: darken(var(--brand-color), 10%);
+}
+
+.genre-sliders {
+    padding: 4rem 0;
+}
+
+.genre-slider-row {
+    position: relative;
+    z-index: 4;
+}
+
+.movies-overlay {
+        top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: rgb(30, 32, 25);
+            background: linear-gradient(90deg, rgba(30, 32, 25, 1) 30%, rgba(255, 255, 255, 0) 60%, rgba(30, 32, 25, 1) 98%);
+            z-index: 3;
+}
+@media (max-width: 768px) {
+    .featured-movie {
+        height: 50vh;
+    }
+
+    .featured-movie-content {
+        margin-bottom: -2rem;
+        /* Adjust for mobile */
+    }
+
+    .movie-title {
+        font-size: 2rem;
+    }
+
+    .movie-overview {
+        font-size: 1rem;
+    }
+
+    .button-more-info {
+        font-size: 1rem;
+        padding: 0.5rem 1.5rem;
+    }
+}
