@@ -8,7 +8,7 @@ import { LinkContainer } from "react-router-bootstrap";
 import NavItem from "../../molecules/NavItem/NavItem";
 import Form from "react-bootstrap/Form";
 import Button from "../../atoms/Button/Button";
-import MovieSearch from "../../molecules/MovieSearch/MovieSearch";
+import MovieSearch from "../MovieSearch/MovieSearch";
 import "./Navbar.css";
 /**
  * NavBar manages the site's main navigation using React Router for SPA page transitions. It controls the collapsible menu's state for responsive design.

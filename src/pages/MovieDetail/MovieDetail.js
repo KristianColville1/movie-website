@@ -4,6 +4,12 @@ import { useMovies } from "../../context/MovieContext";
 import { Container, Row, Col, Card } from "react-bootstrap";
 import "./MovieDetail.css";
 
+/**
+ * MovieDetail fetches and displays detailed information about a specific movie
+ * @param {Object} props The props passed to the component
+ * @param {React.ReactNode} props.children The content passed down the tree, not used explicitly but can be utilized for extending the component
+ * @returns {JSX.Element} A detailed view of a movie including its poster, title, release date, actors, overview, and rating. If the movie data is not yet loaded, it displays a loading message. If the movie is not found, it displays a not found message.
+ */
 const MovieDetail = ({children}) => {
     // fetches the movie context
     const { id } = useParams();
