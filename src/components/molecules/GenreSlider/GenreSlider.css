@@ -1,0 +1,43 @@
+.genre-slider {
+    display: flex;
+    overflow-x: auto;
+    padding: 20px 0;
+    scrollbar-width: thin;
+    scrollbar-color: var(--raspberry);
+    -ms-overflow-style: none;
+}
+
+.genre-slider::-webkit-scrollbar {
+    height: 8px;
+}
+
+.genre-slider::-webkit-scrollbar-track {
+    background: #ffffff;
+}
+
+.genre-slider::-webkit-scrollbar-thumb {
+    background-color: var(--raspberry);
+    border-radius: 10px;
+}
+
+.genre-item {
+    margin-right: 15px;
+    padding: 5px 10px;
+    white-space: nowrap;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+    background-color: transparent;
+    color: #fff;
+    font-size: 16px;
+}
+
+.genre-item:hover,
+.genre-item.active {
+    transform: scale(1.1);
+    background-color: var(--raspberry);
+    color: #fff;
+}
+
+.genre-item.active {
+    font-weight: bold;
+}

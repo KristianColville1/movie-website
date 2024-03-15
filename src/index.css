@@ -8,6 +8,9 @@
   --lavender-web: #e5eafaff;
   --polynesian-blue: #004e98ff;
   --raspberry: #db2955ff;
+
+  --eerie-black-rgba: 30, 32, 25;
+    /* RGB equivalent of #1e2019 */
 }
 
 /*---------------------------------------------------------------------------Base CSS Only */

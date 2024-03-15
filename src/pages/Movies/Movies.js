@@ -5,66 +5,103 @@ import Col from "react-bootstrap/Col";
 import Button from "react-bootstrap/Button";
 import { useMovies } from "../../context/MovieContext";
 import MovieSlider from "../../components/molecules/MovieSlider/MovieSlider";
-import { Link } from "react-router-dom";
-import "./Movies.css"; // Your CSS for styling this page
-
-const trimOverview = (text, limit) => {
-    const words = text.split(" ", limit);
-    return words.join(" ") + (words.length >= limit ? "..." : "");
-};
+import GenreSlider from "../../components/molecules/GenreSlider/GenreSlider";
+import "./Movies.css";
 
 const Movies = () => {
-    const { movies, genres } = useMovies();
-    const [selectedMovie, setSelectedMovie] = useState(null);
+  const { movies, genres } = useMovies();
+  const [currentMovieImage, setCurrentMovieImage] = useState("");
+  const [selectedMovie, setSelectedMovie] = useState(null);
+  const [activeGenre, setActiveGenre] = useState("");
+  const [truncatedOverview, setTruncatedOverview] = useState("");
 
-    useEffect(() => {
-        if (movies.length > 0) {
-            const randomIndex = Math.floor(Math.random() * movies.length); // Use random index for variety
-            const movie = {
-                ...movies[randomIndex],
-                overview: trimOverview(movies[randomIndex].overview, 8),
-            };
-            setSelectedMovie(movie);
-        }
-    }, [movies]);
+  // Function to truncate text based on screen size
+  const truncateText = (text, maxLength) => {
+      return text.length > maxLength
+          ? text.substring(0, maxLength) + "..."
+          : text;
+  };
 
+  useEffect(() => {
+      if (genres.length > 0) {
+          setActiveGenre(genres[0]);
+      }
+  }, [genres]);
+
+  useEffect(() => {
+      const updateFeaturedMovie = () => {
+          const filteredMovies = movies.filter((movie) =>
+              movie.genres.includes(activeGenre)
+          );
+          if (filteredMovies.length > 0) {
+              const newSelectedMovie = filteredMovies[0];
+              setSelectedMovie(newSelectedMovie);
+
+              const screenWidth = window.innerWidth;
+              const imageUrl =
+                  screenWidth > 768
+                      ? `https://image.tmdb.org/t/p/original/${newSelectedMovie.backdrop_path}`
+                      : `${newSelectedMovie.poster_path}`;
+              setCurrentMovieImage(imageUrl);
+
+              // Truncate overview based on screen width
+              const maxLength =
+                  screenWidth > 1024 ? 500 : screenWidth > 768 ? 250 : 50;
+              setTruncatedOverview(
+                  truncateText(newSelectedMovie.overview, maxLength)
+              );
+          } else {
+              setSelectedMovie(null);
+              setCurrentMovieImage("");
+              setTruncatedOverview("");
+          }
+      };
+
+      if (activeGenre) {
+          updateFeaturedMovie();
+      }
+  }, [activeGenre, movies]);
+                
     return (
-        <Container fluid className="movies-page-container min-vh-100 position-relative">
-            {/* Featured Movie Section */}
+        <Container className="movies-page-container min-vh-100 mt-5">
             {selectedMovie && (
-                <Row
-                    className="align-items-center featured-movie"
-                    style={{
-                        backgroundImage: `url(${
-                            selectedMovie.backdrop_path
-                                ? `https://image.tmdb.org/t/p/original${selectedMovie.backdrop_path}`
-                                : ""
-                        })`,
-                    }}
-                >
-                    <Col md={12} className="text-center text-md-left">
-                        <h1 className="movie-title">{selectedMovie.title}</h1>
-                        <p className="movie-overview">
-                            {selectedMovie.overview}
-                        </p>
-                        <Link to={`/movie/${selectedMovie.id}`}>
-                            <Button variant="info" className="button-more-info">
+                <Row>
+                    <Row
+                        className="featured-movie g-0"
+                        style={{
+                            backgroundImage: `url(${currentMovieImage})`,
+                        }}
+                    >
+                        <Col md={12} className="movie-page-content m-0 p-0 g-0">
+                            <h1 className="movie-title text-center">
+                                {selectedMovie.title}
+                            </h1>
+                            <p className="movie-overview">
+                                {truncatedOverview}
+                            </p>
+                            <Button
+                                variant="info"
+                                className="float-end my-2 mx-3"
+                            >
                                 More Info
                             </Button>
-                        </Link>
-                    </Col>
+                        </Col>
+                    </Row>
+                    <Row className="movies-overlay"></Row>
                 </Row>
             )}
-            <Row className="position-absolute movies-overlay"></Row>
-
-            {/* Genre-based Movie Sliders */}
-            <Row className="genre-slider-row my-4">
-                {genres.map((genre) => (
-                    <Col>
-                        <p className="text-white">{genre}</p>
-                    </Col>
-                ))}
-            </Row>
+            <GenreSlider
+                genres={genres}
+                setActiveGenre={setActiveGenre}
+                activeGenre={activeGenre}
+            />
+            {activeGenre && (
+                <MovieSlider
+                    movies={movies
+                        .filter((movie) => movie.genres.includes(activeGenre))
+                        .slice(0, 20)}
+                />
+            )}
         </Container>
     );
 };
