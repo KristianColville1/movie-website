@@ -53,11 +53,11 @@ const Footer = () => {
                         </Nav>
                     </div>
 
-                    <div className="col-md-3 mb-md-0 mb-3">
+                    {/* <div className="col-md-3 mb-md-0 mb-3">
                         <h5 className="text-uppercase">Genre</h5>
                         <ul className="list-unstyled">
                         </ul>
-                    </div>
+                    </div> */}
                 </div>
             </Container>
 

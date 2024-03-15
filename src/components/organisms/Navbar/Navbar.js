@@ -67,12 +67,12 @@ const Navbar = ({ onSignIn, onSignUp}) => {
                         >
                             Sign In
                         </Button>
-                        <Button
+                        {/* <Button
                             onClick={onSignUp}
                             className="btn-sm btn-light my-1"
                         >
                             Sign up
-                        </Button>
+                        </Button> */}
                     </Nav>
                 </BootstrapNavbar.Collapse>
             </Container>

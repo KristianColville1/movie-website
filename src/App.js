@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Navbar from "./components/organisms/Navbar/Navbar";
-import MobileNav from "./components/organisms/MobileNav/MobileNav";
+// import MobileNav from "./components/organisms/MobileNav/MobileNav"; // for later edition
 import Home from "./pages/Home/Home";
 import Movies from "./pages/Movies/Movies";
 import Booking from "./pages/Booking/Booking";
@@ -59,10 +59,12 @@ function App() {
                     <Route path="/genre/:genreName" element={<Genre />} />
                     <Route path="/actor/:actorName" element={<ActorDetail />}/>
                 </Routes>
+                {/* 
+                    For later development version
                 <MobileNav
                     onSignIn={() => setShowSignInModal(true)}
                     onSignUp={() => setShowSignUpModal(true)}
-                />
+                /> */}
                 <Footer />
                 <ModalWrapper
                     title="Account Sign in"
@@ -74,12 +76,12 @@ function App() {
                             <Row className="justify-content-center pb-4">
                                 <Col xs={12} md={8}>
                                     <GoogleSignIn className="py-2 w-100 mx-auto d-block rounded d-flex justify-content-center align-items-center" />
-                                    <p className="text-center pt-5">Or</p>
+                                    {/* <p className="text-center pt-5">Or</p>
                                     <FormInput
                                         placeholder="Username"
                                         className=""
                                     />
-                                    <FormInput placeholder="Password" />
+                                    <FormInput placeholder="Password" /> */}
                                 </Col>
                             </Row>
                         </Container>
