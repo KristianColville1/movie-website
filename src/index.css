@@ -11,7 +11,7 @@
 }
 
 /*---------------------------------------------------------------------------Base CSS Only */
-body {
+body, html {
   font-family: 'Roboto', sans-serif;
   background-color: var(--eerie-black);
   overflow-x: hidden !important;

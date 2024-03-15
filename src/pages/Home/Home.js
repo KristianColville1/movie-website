@@ -29,7 +29,7 @@ const Home = () => {
     }, [movies]);
 
     return (
-        <Container fluid>
+        <Container fluid className="g-0 m-0 p-0">
             <Container fluid className="m-0 p-0 min-vh-100">
                 <div className="overlay"></div>
                 {moviePosterUrl && (

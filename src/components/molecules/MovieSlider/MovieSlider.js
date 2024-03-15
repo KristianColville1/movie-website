@@ -2,6 +2,7 @@ import React from "react";
 import Slider from "react-slick";
 import Arrow from "../../atoms/Arrow/Arrow";
 import MovieLink from "../MovieLink/MovieLink";
+import Container from "react-bootstrap/Container";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import "./MovieSlider.css";
@@ -50,15 +51,17 @@ const MovieSlider = ({ movies }) => {
     };
 
     return (
-        <Slider {...settings} className="movie-slider">
-            {movies.map((movie) => (
-                <MovieLink
-                    key={movie.id}
-                    movie={movie}
-                    moviePath={`https://image.tmdb.org/t/p/w500/${movie.backdrop_path}`}
-                />
-            ))}
-        </Slider>
+        <Container fluid className="">
+            <Slider {...settings} className="movie-slider">
+                {movies.map((movie) => (
+                    <MovieLink
+                        key={movie.id}
+                        movie={movie}
+                        moviePath={`https://image.tmdb.org/t/p/w500/${movie.backdrop_path}`}
+                    />
+                ))}
+            </Slider>
+        </Container>
     );
 };
 

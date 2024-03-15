@@ -33,19 +33,20 @@ const SearchResults = ({
                         onClick={handleLinkClick}
                     >
                         <Row>
-                            <Col xs={4} md={5} lg={6}>
+                            <Col xs={4} md={5} lg={4}>
                                 <img
                                     src={movie.poster_path}
                                     alt={movie.title}
                                     style={{
-                                        width: "100%",
+                                        width: "100px",
                                         height: "auto",
                                         marginRight: "10px",
                                     }}
                                 />
                             </Col>
                             <Col xs={8} md={7} lg={6}>
-                                <span className="text-sm">{movie.title}</span>
+                                <h6 className="">{movie.title}</h6>
+                                <span className="">{movie.overview }</span>
                             </Col>
                         </Row>
                     </Link>

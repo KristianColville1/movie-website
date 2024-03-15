@@ -1,5 +1,5 @@
 import React from "react";
-
+import "./SearchInput.css";
 /**
  * SearchInput renders an input field for entering search terms
  * @param {Object} props The props passed to the component

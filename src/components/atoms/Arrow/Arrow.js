@@ -10,7 +10,7 @@ import React from "react";
 const Arrow = ({ className, onClick }) => {
     return (
         <div
-            className={`${className} custom-arrow`}
+            className={`${className} arrow custom-arrow`}
             onClick={onClick}
             onMouseEnter={onClick}
         />

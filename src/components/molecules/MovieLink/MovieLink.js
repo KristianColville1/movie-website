@@ -11,14 +11,14 @@ import MovieTitle from "../../atoms/MovieTitle/MovieTitle";
  * @returns {JSX.Element} A Link element wrapping the movie's image and title
  */
 
-const MovieLink = ({ movie, moviePath }) => {
+const MovieLink = ({ movie, moviePath, onClick }) => {
     return (
-        <Link to={`/movie/${movie.id}`} className="text-decoration-none">
+        <Link to={`/movie/${movie.id}`} className="text-decoration-none" onClick={onClick}>
             <MovieImage
                 src={moviePath}
                 alt={movie.title}
             />
-            <MovieTitle title={movie.title} />
+            <MovieTitle title={movie.title} className="text-decoration-none text-light bg-dark text-center w-100 p-0 m-0" />
         </Link>
     );
 };
