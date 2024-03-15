@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import { useMovies } from "../../context/MovieContext";
 import { Container, Row, Col, Card } from "react-bootstrap";
+import { Link } from "react-router-dom";
 import "./MovieDetail.css";
 
 /**
@@ -30,6 +31,7 @@ const MovieDetail = ({children}) => {
     }
     const youtubeId = movie.trailer.split("v=")[1];
     const actors = movie.actors;
+    const cinemas = movie.cinemas;
     return (
         <Container className="pt-5 mt-5 min-vh-100">
             {movie ? (
@@ -60,6 +62,7 @@ const MovieDetail = ({children}) => {
                                 )}
                                 <Card.Title className="fw-bold fs-1">
                                     {movie.title}
+                                    <Link to={`/booking/${movie.id}`} className="btn btn-info float-end">Book Now</Link>
                                 </Card.Title>
                                 <Card.Text>
                                     <small className="text-muted">
@@ -74,9 +77,20 @@ const MovieDetail = ({children}) => {
                                     </small>
                                 </Card.Text>
                                 <Card.Text>
+                                    <small className="text-muted">
+                                        Available Cinemas:{ " "}
+                                        {
+                                            cinemas.map(cinema => (
+                                                <span className="mx-2">{cinema }</span>
+                                            ))
+                                        }
+                                    </small>
+                                </Card.Text>
+                                <Card.Text>
                                     {actors.map((actor, index) => (
-                                        <span
-                                            className="text-muted"
+                                        <Link
+                                            to={`/actor/${actor.name}`}
+                                            className="text-muted text-decoration-underline"
                                             key={index}
                                         >
                                             {actor.name}{" "}
@@ -84,7 +98,7 @@ const MovieDetail = ({children}) => {
                                             {index < actors.length - 1
                                                 ? ", "
                                                 : ""}
-                                        </span>
+                                        </Link>
                                     ))}
                                 </Card.Text>
 

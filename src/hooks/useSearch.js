@@ -32,12 +32,17 @@ const useSearch = (movieContext, searchTerm) => {
             .slice(0, 5);
         setFilteredGenres(genreResults);
 
-        // Filter actors by their name
-        const actorResults = actors
-            .filter((actor) =>
-                actor.name.toLowerCase().includes(lowercasedSearchTerm)
+        // Adjust actor filtering to include detailed information
+        const actorResults = Object.entries(actors)
+            .filter(([actorName, actorDetails]) =>
+                actorName.toLowerCase().includes(lowercasedSearchTerm)
             )
+            .map(([actorName, actorDetails]) => ({
+                name: actorName,
+                ...actorDetails, // This includes all details from the actor object
+            }))
             .slice(0, 5);
+
         setFilteredActors(actorResults);
 
         // Filter cinemas

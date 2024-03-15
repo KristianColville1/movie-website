@@ -28,13 +28,7 @@ const Navbar = ({ onSignIn, onSignUp}) => {
             className: "ms-md-5",
             text: "Home",
         },
-        { to: "/movies", handler: closeNavbar, className: "", text: "Movies" },
-        {
-            to: "/booking",
-            handler: closeNavbar,
-            className: "",
-            text: "Booking",
-        },
+        { to: "/movies", handler: closeNavbar, className: "", text: "Movies" }
     ];
 
     return (

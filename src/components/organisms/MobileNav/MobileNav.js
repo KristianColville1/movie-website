@@ -14,8 +14,7 @@ const MobileNav = () => {
     const icons = [
         { name: "bx-home", to: "/" },
         { name: "bx-search", to: "/search" },
-        { name: "bxs-movie-play", to: "/movies" },
-        { name: "bx-calendar", to: "/booking" },
+        { name: "bxs-movie-play", to: "/movies" }
     ];
 
     const handleIconClick = (iconName) => {

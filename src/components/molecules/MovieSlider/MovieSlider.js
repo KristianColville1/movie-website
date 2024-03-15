@@ -14,9 +14,10 @@ import "./MovieSlider.css";
  * @returns {JSX.Element} A Slider component populated with movies
  */
 const MovieSlider = ({ movies }) => {
+    const hasEnoughMovies = movies.length >= 5;
     const settings = {
         dots: false,
-        infinite: true,
+        infinite: hasEnoughMovies,
         speed: 500,
         slidesToShow: 5,
         slidesToScroll: 3,
@@ -28,7 +29,7 @@ const MovieSlider = ({ movies }) => {
                 settings: {
                     slidesToShow: 3,
                     slidesToScroll: 3,
-                    infinite: true,
+                    infinite: hasEnoughMovies,
                     dots: true,
                 },
             },

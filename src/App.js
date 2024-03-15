@@ -11,12 +11,13 @@ import GoogleSignIn from "./components/molecules/GoogleSignIn/GoogleSignIn";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
-import FormInput from "./components/molecules/FormInput/FromInput";
+import FormInput from "./components/molecules/FormInput/FormInput";
 import { MovieProvider } from "./context/MovieContext";
 import MovieDetail from "./pages/MovieDetail/MovieDetail";
 import Footer from "./components/organisms/Footer/Footer";
 import Genre from "./pages/Genre/Genre";
 import ScrollToTop from "./utils/ScrollToTop";
+import ActorDetail from "./pages/ActorDetail/ActorDetail";
 
 /**
  *
@@ -32,8 +33,7 @@ function App() {
     const pages = [
         { element: <Home />, path: "/" },
         { element: <Search />, path: "/search" },
-        { element: <Movies />, path: "/movies" },
-        { element: <Booking />, path: "/booking" },
+        { element: <Movies />, path: "/movies" }
     ];
     return (
         <Router>
@@ -54,8 +54,10 @@ function App() {
                             />
                         ))
                     }
+                    <Route path="/booking/:movieId" element={<Booking />} />
                     <Route path="/movie/:id" element={<MovieDetail />} />
                     <Route path="/genre/:genreName" element={<Genre />} />
+                    <Route path="/actor/:actorName" element={<ActorDetail />}/>
                 </Routes>
                 <MobileNav
                     onSignIn={() => setShowSignInModal(true)}

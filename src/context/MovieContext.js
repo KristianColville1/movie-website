@@ -1,4 +1,10 @@
-import React, { createContext, useContext, useState, useEffect, useCallback } from "react";
+import React, {
+    createContext,
+    useContext,
+    useState,
+    useEffect,
+    useCallback,
+} from "react";
 import axios from "axios";
 
 /**
@@ -23,7 +29,8 @@ export const useMovies = () => useContext(MovieContext);
 export const MovieProvider = ({ children }) => {
     const [movies, setMovies] = useState([]);
     const [genres, setGenres] = useState([]);
-    const [actors, setActors] = useState([]);
+    // Adjust actors state to an object to include actor names and the movies they are in
+    const [actors, setActors] = useState({});
     const [cinemas, setCinemas] = useState([]);
 
     // Asynchronous arrow function fetches the file contents like a regular API
@@ -33,22 +40,39 @@ export const MovieProvider = ({ children }) => {
             try {
                 // uses axios for the request
                 const response = await axios.get(`/assets/data/movies.json`);
-                                const fetchedMovies = response.data;
-                                setMovies(fetchedMovies);
+                const fetchedMovies = response.data;
+                setMovies(fetchedMovies);
 
-                // extract unique genres
+                // Extract unique genres
                 const extractedGenres = [
                     ...new Set(fetchedMovies.flatMap((movie) => movie.genres)),
                 ];
                 setGenres(extractedGenres);
 
-                // extract unique actors
-                const extractedActors = [
-                    ...new Set(fetchedMovies.flatMap((movie) => movie.actors)),
-                ];
+                // Extract actors and their details
+                let extractedActors = {};
+                fetchedMovies.forEach((movie) => {
+                    movie.actors.forEach((actor) => {
+                        if (!extractedActors[actor.name]) {
+                            extractedActors[actor.name] = {
+                                ...actor,
+                                movies: [movie.title], // Initialize with the current movie title
+                            };
+                        } else if (
+                            !extractedActors[actor.name].movies.includes(
+                                movie.title
+                            )
+                        ) {
+                            // Add the movie title if it's not already listed for the actor
+                            extractedActors[actor.name].movies.push(
+                                movie.title
+                            );
+                        }
+                    });
+                });
                 setActors(extractedActors);
 
-                // extract unique cinemas
+                // Extract unique cinemas
                 const extractedCinemas = [
                     ...new Set(fetchedMovies.flatMap((movie) => movie.cinemas)),
                 ];
@@ -63,7 +87,7 @@ export const MovieProvider = ({ children }) => {
         fetchMovies();
     }, [fetchMovies]);
 
-    // find a movie by its ID within the movies array
+    // Find a movie by its ID within the movies array
     const getMovieById = async (id) => {
         if (movies.length === 0) {
             await fetchMovies(); // Ensure movies are loaded
@@ -72,7 +96,9 @@ export const MovieProvider = ({ children }) => {
     };
 
     return (
-        <MovieContext.Provider value={{ movies, genres, actors, cinemas, setMovies, getMovieById }}>
+        <MovieContext.Provider
+            value={{ movies, genres, actors, cinemas, setMovies, getMovieById }}
+        >
             {children}
         </MovieContext.Provider>
     );

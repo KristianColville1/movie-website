@@ -16,7 +16,8 @@ foreach ($genresData['genres'] as $genre) {
 $moviesCount = 0;
 $customMoviesArray = [];
 $page = 1;
-$maxMovies = 5000;
+$maxMovies = 1000;
+$processedMovieIds = array();
 
 while ($moviesCount < $maxMovies) {
     $moviesUrl = "{$baseUrl}/movie/popular?api_key={$apiKey}&language=en-US&page={$page}";
@@ -47,19 +48,28 @@ while ($moviesCount < $maxMovies) {
         $creditsData = json_decode($creditsResponse, true);
         $actors = [];
         foreach ($creditsData['cast'] as $index => $cast) {
-            if ($index < 7) { // Limit to top 5 actors
+            if ($index < 7) { // Limit to top 7 actors
+                // Fetch additional actor details
+                $actorDetailsUrl = "{$baseUrl}/person/{$cast['id']}?api_key={$apiKey}&language=en-US";
+                $actorDetailsResponse = file_get_contents($actorDetailsUrl);
+                $actorDetails = json_decode($actorDetailsResponse, true);
+
                 $actors[] = [
                     'name' => $cast['name'],
+                    'biography' => isset($actorDetails['biography']) ? $actorDetails['biography'] : 'Biography not available',
+                    'birthday' => isset($actorDetails['birthday']) ? $actorDetails['birthday'] : 'N/A',
+                    'place_of_birth' => isset($actorDetails['place_of_birth']) ? $actorDetails['place_of_birth'] : 'N/A',
+                    // Include images
                     'image_w45' => $cast['profile_path'] ? 'https://image.tmdb.org/t/p/w45' . $cast['profile_path'] : null,
                     'image_w185' => $cast['profile_path'] ? 'https://image.tmdb.org/t/p/w185' . $cast['profile_path'] : null,
                     'image_h632' => $cast['profile_path'] ? 'https://image.tmdb.org/t/p/h632' . $cast['profile_path'] : null,
                     'image_original' => $cast['profile_path'] ? 'https://image.tmdb.org/t/p/original' . $cast['profile_path'] : null,
                 ];
-
             } else {
                 break;
             }
         }
+
 
         // randomly assign cinemas to movies
         $assignedCinemas = array_rand(array_flip($cinemas), 2); // assign 2 random cinemas per film
@@ -70,20 +80,28 @@ while ($moviesCount < $maxMovies) {
                 return $genreMapping[$id] ?? 'Unknown';
             }, $movie['genre_ids']);
 
-            $customMoviesArray[] = [
-                'id' => $movie['id'],
-                'slug' => strtolower(str_replace(' ', '-', $movie['title'])),
-                'title' => $movie['title'],
-                'overview' => $movie['overview'],
-                'release_date' => $movie['release_date'],
-                'backdrop_path' => $movie['backdrop_path'],
-                'rating' => $movie['vote_average'],
-                'poster_path' => 'https://image.tmdb.org/t/p/w500' . $movie['poster_path'],
-                'trailer' => "https://www.youtube.com/watch?v={$trailerKey}",
-                'genres' => $genres,
-                'actors' => $actors,
-                'cinemas' => $assignedCinemas,
-            ];
+            // Assuming $processedMovieIds is an array that tracks all the movie IDs you've already processed.
+            if (!in_array($movie['id'], $processedMovieIds)) {
+                // If the movie's ID is not in the processedMovieIds array, add the movie to customMoviesArray
+                $customMoviesArray[] = [
+                    'id' => $movie['id'],
+                    'slug' => strtolower(str_replace(' ', '-', $movie['title'])),
+                    'title' => $movie['title'],
+                    'overview' => $movie['overview'],
+                    'release_date' => $movie['release_date'],
+                    'backdrop_path' => $movie['backdrop_path'],
+                    'rating' => $movie['vote_average'],
+                    'poster_path' => 'https://image.tmdb.org/t/p/w500' . $movie['poster_path'],
+                    'trailer' => "https://www.youtube.com/watch?v={$trailerKey}",
+                    'genres' => $genres,
+                    'actors' => $actors,
+                    'cinemas' => $assignedCinemas,
+                ];
+
+                // Then add the movie's ID to the processedMovieIds array to track it
+                $processedMovieIds[] = $movie['id'];
+            }
+
             $moviesCount++;
             echo $moviesCount . PHP_EOL;
             if ($moviesCount >= $maxMovies)

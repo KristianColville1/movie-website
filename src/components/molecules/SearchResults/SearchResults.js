@@ -46,7 +46,7 @@ const SearchResults = ({
                             </Col>
                             <Col xs={8} md={7} lg={6}>
                                 <h6 className="">{movie.title}</h6>
-                                <span className="">{movie.overview }</span>
+                                <span className="">{movie.overview}</span>
                             </Col>
                         </Row>
                     </Link>
@@ -68,13 +68,36 @@ const SearchResults = ({
                 ))}
             </div>
         )}
+        {filteredActors.map((actor) => {
+            console.log(actor);
+        })}
         {filteredActors.length > 0 && (
             <div className="search-results-column">
                 <h5>Actors</h5>
                 {filteredActors.map((actor, index) => (
-                    <div key={index} className="search-result-item p-2">
-                        {actor.name}
-                    </div>
+                    <Link
+                        to={`/actor/${encodeURIComponent(actor.name)}`}
+                        key={index}
+                        className="search-result-item d-block text-decoration-none p-2"
+                        onClick={handleLinkClick}
+                    >
+                        <Row>
+                            <Col xs={4} md={5} lg={4}>
+                                <img
+                                    src={actor.image_w185}
+                                    alt={actor.name}
+                                    style={{
+                                        width: "100px",
+                                        height: "auto",
+                                        marginRight: "10px",
+                                    }}
+                                />
+                            </Col>
+                            <Col xs={8} md={7} lg={6}>
+                                <h6>{actor.name}</h6>
+                            </Col>
+                        </Row>
+                    </Link>
                 ))}
             </div>
         )}
