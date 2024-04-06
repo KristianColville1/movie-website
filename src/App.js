@@ -36,7 +36,7 @@ function App() {
         { element: <Movies />, path: "/movies" }
     ];
     return (
-        <Router>
+        <Router basename="/movie-website">
             <ScrollToTop/>
             <MovieProvider>
                 <Navbar

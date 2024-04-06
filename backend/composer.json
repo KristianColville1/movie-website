@@ -1,0 +1,17 @@
+{
+    "name": "kristian/backend",
+    "description": "backend",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Kristian\\Backend\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "KristianColville1",
+            "email": "kristiancolville1@gmail.com"
+        }
+    ],
+    "require": {}
+}
