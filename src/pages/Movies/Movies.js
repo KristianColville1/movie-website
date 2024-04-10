@@ -6,6 +6,7 @@ import Button from "react-bootstrap/Button";
 import { useMovies } from "../../context/MovieContext";
 import MovieSlider from "../../components/molecules/MovieSlider/MovieSlider";
 import GenreSlider from "../../components/molecules/GenreSlider/GenreSlider";
+import SEO from "../../utils/SEO";
 import "./Movies.css";
 
 const Movies = () => {
@@ -63,6 +64,13 @@ const Movies = () => {
   }, [activeGenre, movies]);
                 
     return (
+                <>
+            <SEO
+                title="RENTFLIX, find movies and book today"
+                description="Movie Website for bookings"
+                name="RENTFLIX"
+                type="Website"
+            />
         <Container className="movies-page-container min-vh-100 mt-5">
             {selectedMovie && (
                 <Row>
@@ -102,7 +110,8 @@ const Movies = () => {
                         .slice(0, 20)}
                 />
             )}
-        </Container>
+            </Container>
+            </>
     );
 };
 
