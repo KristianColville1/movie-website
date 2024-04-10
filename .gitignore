@@ -28,3 +28,7 @@ env.php
 dummy-db.json
 
 vendor
+php_error_log
+error_log.log
+
+.env

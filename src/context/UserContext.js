@@ -21,8 +21,19 @@ export const useUser = () => useContext(UserContext);
 export const UserProvider = ({ children }) => {
     const [user, setUser] = useState(null);
 
+    const setUserData = (userData, token) => {
+        localStorage.setItem("authToken", token); // Save token for session persistence
+        setUser(userData); // Update user state
+    };
+
+    const logout = () => {
+        localStorage.removeItem("authToken"); // Clear the token on logout
+        setUser(null); // Clear user data
+    };
+
+
     return (
-        <UserContext.Provider value={{ user, setUser }}>
+        <UserContext.Provider value={{ user, setUserData, logout }}>
             {children}
         </UserContext.Provider>
     );

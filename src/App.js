@@ -18,7 +18,9 @@ import Footer from "./components/organisms/Footer/Footer";
 import Genre from "./pages/Genre/Genre";
 import ScrollToTop from "./utils/ScrollToTop";
 import ActorDetail from "./pages/ActorDetail/ActorDetail";
-
+import SignUpForm from "./components/organisms/SignUpForm/SignUpForm";
+import SignInForm from "./components/organisms/SignInForm/SignInForm";
+import { UserProvider } from "./context/UserContext";
 /**
  *
  * Responsible for handling the app and running the router for the different content on the site
@@ -36,65 +38,82 @@ function App() {
         { element: <Movies />, path: "/movies" }
     ];
     return (
-        <Router basename="/movie-website">
-            <ScrollToTop/>
-            <MovieProvider>
-                <Navbar
-                    onSignIn={() => setShowSignInModal(true)}
-                    onSignUp={() => setShowSignUpModal(true)}
-                />
-                <Routes>
-                    {
-                        // for each page map the location and element to a route
-                        pages.map((page, index) => (
-                            <Route
-                                key={index}
-                                path={page.path}
-                                element={page.element}
-                            />
-                        ))
-                    }
-                    <Route path="/booking/:movieId" element={<Booking />} />
-                    <Route path="/movie/:id" element={<MovieDetail />} />
-                    <Route path="/genre/:genreName" element={<Genre />} />
-                    <Route path="/actor/:actorName" element={<ActorDetail />}/>
-                </Routes>
-                {/* 
+        <UserProvider>
+            <Router>
+                <MovieProvider>
+                    <Navbar
+                        onSignIn={() => setShowSignInModal(true)}
+                        onSignUp={() => setShowSignUpModal(true)}
+                    />
+                    <Routes>
+                        {
+                            // for each page map the location and element to a route
+                            pages.map((page, index) => (
+                                <Route
+                                    key={index}
+                                    path={page.path}
+                                    element={page.element}
+                                />
+                            ))
+                        }
+                        <Route path="/booking/:movieId" element={<Booking />} />
+                        <Route path="/movie/:id" element={<MovieDetail />} />
+                        <Route path="/genre/:genreName" element={<Genre />} />
+                        <Route
+                            path="/actor/:actorName"
+                            element={<ActorDetail />}
+                        />
+                    </Routes>
+                    {/* 
                     For later development version
                 <MobileNav
                     onSignIn={() => setShowSignInModal(true)}
                     onSignUp={() => setShowSignUpModal(true)}
                 /> */}
-                <Footer />
-                <ModalWrapper
-                    title="Account Sign in"
-                    show={showSignInModal}
-                    handleClose={() => setShowSignInModal(false)}
-                    className="text-center w-100"
-                    children={
-                        <Container>
-                            <Row className="justify-content-center pb-4">
-                                <Col xs={12} md={8}>
-                                    <GoogleSignIn className="py-2 w-100 mx-auto d-block rounded d-flex justify-content-center align-items-center" />
-                                    {/* <p className="text-center pt-5">Or</p>
-                                    <FormInput
-                                        placeholder="Username"
-                                        className=""
-                                    />
-                                    <FormInput placeholder="Password" /> */}
-                                </Col>
-                            </Row>
-                        </Container>
-                    }
-                    hasControls={false}
-                ></ModalWrapper>
-                <ModalWrapper
-                    title="Sign Up"
-                    show={showSignUpModal}
-                    handleClose={() => setShowSignUpModal(false)}
-                ></ModalWrapper>
-            </MovieProvider>
-        </Router>
+                    <Footer />
+                    <ModalWrapper
+                        title="Account Sign in"
+                        show={showSignInModal}
+                        handleClose={() => setShowSignInModal(false)}
+                        className="text-center w-100"
+                        children={
+                            <Container>
+                                <Row className="justify-content-center pb-4">
+                                    <Col xs={12} md={8}>
+                                        <SignInForm
+                                            handleClose={() =>
+                                                setShowSignInModal(false)
+                                            }
+                                        />
+                                        {/* <GoogleSignIn className="py-2 w-100 mx-auto d-block rounded d-flex justify-content-center align-items-center" /> */}
+                                    </Col>
+                                </Row>
+                            </Container>
+                        }
+                        hasControls={false}
+                    ></ModalWrapper>
+                    <ModalWrapper
+                        title="Sign Up"
+                        show={showSignUpModal}
+                        handleClose={() => setShowSignUpModal(false)}
+                        children={
+                            <Container>
+                                <Row className="justify-content-center pb-4">
+                                    <Col xs={12} md={8}>
+                                        <SignUpForm
+                                            handleClose={() =>
+                                                setShowSignUpModal(false)
+                                            }
+                                        />
+                                    </Col>
+                                </Row>
+                            </Container>
+                        }
+                    ></ModalWrapper>
+                </MovieProvider>
+                <ScrollToTop />
+            </Router>
+        </UserProvider>
     );
 }
 

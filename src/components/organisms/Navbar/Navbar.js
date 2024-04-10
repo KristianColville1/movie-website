@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { useUser } from "../../../context/UserContext";
 import Container from "react-bootstrap/Container";
 import Nav from "react-bootstrap/Nav";
 import { Navbar as BootstrapNavbar } from "react-bootstrap";
@@ -14,7 +15,8 @@ import "./Navbar.css";
  * NavBar manages the site's main navigation using React Router for SPA page transitions. It controls the collapsible menu's state for responsive design.
  * @returns {JSX.Element} The primary navigation bar with integrated routing and collapsible toggler.
  */
-const Navbar = ({ onSignIn, onSignUp}) => {
+const Navbar = ({ onSignIn, onSignUp }) => {
+    const { user } = useUser();
     // using useState for opening and closing collapse burger menu
     const [expanded, setExpanded] = useState(false);
     const toggleNavbar = () => setExpanded((prevExpanded) => !prevExpanded);
@@ -61,18 +63,27 @@ const Navbar = ({ onSignIn, onSignUp}) => {
                                 />
                             ))
                         }
-                        <Button
-                            onClick={onSignIn}
-                            className="btn-sm btn-dark my-1"
-                        >
-                            Sign In
-                        </Button>
-                        {/* <Button
-                            onClick={onSignUp}
-                            className="btn-sm btn-light my-1"
-                        >
-                            Sign up
-                        </Button> */}
+                        {!user && (
+                            <>
+                                <Button
+                                    onClick={onSignIn}
+                                    className="btn-sm btn-dark my-1"
+                                >
+                                    Sign In
+                                </Button>
+                                <Button
+                                    onClick={onSignUp}
+                                    className="btn-sm btn-light my-1"
+                                >
+                                    Sign up
+                                </Button>
+                            </>
+                        )}
+                        {user && (
+                            <Button className="btn-sm btn-light my-1">
+                                Logout
+                            </Button>
+                        )}
                     </Nav>
                 </BootstrapNavbar.Collapse>
             </Container>
